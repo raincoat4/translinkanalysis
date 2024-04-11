@@ -1,8 +1,8 @@
 import pandas as pd
 import re
-
+#sorted.csv file is too big to be pushed to github
 # Example DataFrames
-data1 = pd.read_csv('../names.csv')
+data1 = pd.read_csv('../nums.csv')
 data2 = pd.read_csv('sorted.csv')
 df1 = pd.DataFrame(data1)
 df2 = pd.DataFrame(data2)
@@ -13,5 +13,6 @@ pattern = '|'.join(r'\b{}\b'.format(re.escape(name)) for name in df1['File Name'
 # Filter df2 based on whether 'trip_headsign' contains any of the values in df1['name']
 filtered_df2 = df2[df2['trip_headsign'].str.contains(pattern)].reset_index(drop=True)
 filtered_df2=filtered_df2.drop(columns=['Unnamed: 0'])
+
 filtered_df2.to_csv('filteredSort.csv')
 #what 

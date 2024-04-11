@@ -3,10 +3,14 @@ import sys
 import csv
 
 def insert_space_after_last_number(file_name):
-    for i in range(len(file_name) - 1, -1, -1):
-        if file_name[i].isdigit():
-            return file_name[:i+1]
-    return file_name
+    index_dash = file_name.find('-')
+    if index_dash != -1:
+        # Extract the substring before the first '-'
+        extracted_name = file_name[:index_dash].strip()
+        return extracted_name
+    else:
+        # Return the original file name if '-' is not found
+        return file_name
 
 def list_files_to_csv(folder_path, output_csv):
     # Check if the folder exists
@@ -23,7 +27,6 @@ def list_files_to_csv(folder_path, output_csv):
     # Write modified file names to a CSV file
     with open(output_csv, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['File Name'])
         for modified_file_name in modified_files:
             writer.writerow([modified_file_name])
     
