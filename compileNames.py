@@ -27,6 +27,7 @@ def list_files_to_csv(folder_path, output_csv):
     # Write modified file names to a CSV file
     with open(output_csv, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
+        writer.writerow(['Name'])
         for modified_file_name in modified_files:
             writer.writerow([modified_file_name])
     
