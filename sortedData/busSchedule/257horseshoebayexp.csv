@@ -1,0 +1,1329 @@
+Unnamed: 0,Name,trip_id,arrival_time,stop_id,trip_headsign,stop_code
+143191,257horseshoebayexp,13690436, 5:00:00,11534,257 Horseshoe Bay  Express,59558
+143192,257horseshoebayexp,13690436, 5:01:05,9129,257 Horseshoe Bay  Express,54445
+143193,257horseshoebayexp,13690436, 5:01:45,12948,257 Horseshoe Bay  Express,60665
+143194,257horseshoebayexp,13690436, 5:04:24,1487,257 Horseshoe Bay  Express,51475
+143195,257horseshoebayexp,13690436, 5:15:00,4491,257 Horseshoe Bay  Express,54441
+143196,257horseshoebayexp,13690436, 5:16:28,4832,257 Horseshoe Bay  Express,54780
+143197,257horseshoebayexp,13690436, 5:18:16,8653,257 Horseshoe Bay  Express,60909
+143198,257horseshoebayexp,13690436, 5:33:00,4608,257 Horseshoe Bay  Express,54556
+143199,257horseshoebayexp,13690437, 5:20:00,11534,257 Horseshoe Bay  Express,59558
+143200,257horseshoebayexp,13690437, 5:21:05,9129,257 Horseshoe Bay  Express,54445
+143201,257horseshoebayexp,13690437, 5:21:45,12948,257 Horseshoe Bay  Express,60665
+143202,257horseshoebayexp,13690437, 5:24:24,1487,257 Horseshoe Bay  Express,51475
+143203,257horseshoebayexp,13690437, 5:35:00,4491,257 Horseshoe Bay  Express,54441
+143204,257horseshoebayexp,13690437, 5:36:28,4832,257 Horseshoe Bay  Express,54780
+143205,257horseshoebayexp,13690437, 5:38:16,8653,257 Horseshoe Bay  Express,60909
+143206,257horseshoebayexp,13690437, 5:53:00,4608,257 Horseshoe Bay  Express,54556
+143207,257horseshoebayexp,13690438, 5:50:00,11534,257 Horseshoe Bay  Express,59558
+143208,257horseshoebayexp,13690438, 5:51:05,9129,257 Horseshoe Bay  Express,54445
+143209,257horseshoebayexp,13690438, 5:51:45,12948,257 Horseshoe Bay  Express,60665
+143210,257horseshoebayexp,13690438, 5:54:24,1487,257 Horseshoe Bay  Express,51475
+143211,257horseshoebayexp,13690438, 6:05:00,4491,257 Horseshoe Bay  Express,54441
+143212,257horseshoebayexp,13690438, 6:06:28,4832,257 Horseshoe Bay  Express,54780
+143213,257horseshoebayexp,13690438, 6:08:16,8653,257 Horseshoe Bay  Express,60909
+143214,257horseshoebayexp,13690438, 6:23:00,4608,257 Horseshoe Bay  Express,54556
+143215,257horseshoebayexp,13690439, 6:15:00,11534,257 Horseshoe Bay  Express,59558
+143216,257horseshoebayexp,13690439, 6:16:09,9129,257 Horseshoe Bay  Express,54445
+143217,257horseshoebayexp,13690439, 6:16:51,12948,257 Horseshoe Bay  Express,60665
+143218,257horseshoebayexp,13690439, 6:19:40,1487,257 Horseshoe Bay  Express,51475
+143219,257horseshoebayexp,13690439, 6:31:00,4491,257 Horseshoe Bay  Express,54441
+143220,257horseshoebayexp,13690439, 6:32:28,4832,257 Horseshoe Bay  Express,54780
+143221,257horseshoebayexp,13690439, 6:34:16,8653,257 Horseshoe Bay  Express,60909
+143222,257horseshoebayexp,13690439, 6:49:00,4608,257 Horseshoe Bay  Express,54556
+143223,257horseshoebayexp,13690440, 6:36:00,11534,257 Horseshoe Bay  Express,59558
+143224,257horseshoebayexp,13690440, 6:37:09,9129,257 Horseshoe Bay  Express,54445
+143225,257horseshoebayexp,13690440, 6:37:51,12948,257 Horseshoe Bay  Express,60665
+143226,257horseshoebayexp,13690440, 6:40:40,1487,257 Horseshoe Bay  Express,51475
+143227,257horseshoebayexp,13690440, 6:52:00,4491,257 Horseshoe Bay  Express,54441
+143228,257horseshoebayexp,13690440, 6:53:28,4832,257 Horseshoe Bay  Express,54780
+143229,257horseshoebayexp,13690440, 6:55:16,8653,257 Horseshoe Bay  Express,60909
+143230,257horseshoebayexp,13690440, 7:10:00,4608,257 Horseshoe Bay  Express,54556
+143231,257horseshoebayexp,13690441, 6:59:00,11534,257 Horseshoe Bay  Express,59558
+143232,257horseshoebayexp,13690441, 7:00:14,9129,257 Horseshoe Bay  Express,54445
+143233,257horseshoebayexp,13690441, 7:00:59,12948,257 Horseshoe Bay  Express,60665
+143234,257horseshoebayexp,13690441, 7:03:59,1487,257 Horseshoe Bay  Express,51475
+143235,257horseshoebayexp,13690441, 7:16:00,4491,257 Horseshoe Bay  Express,54441
+143236,257horseshoebayexp,13690441, 7:17:33,4832,257 Horseshoe Bay  Express,54780
+143237,257horseshoebayexp,13690441, 7:19:27,8653,257 Horseshoe Bay  Express,60909
+143238,257horseshoebayexp,13690441, 7:35:00,4608,257 Horseshoe Bay  Express,54556
+143239,257horseshoebayexp,13690442, 7:17:00,11534,257 Horseshoe Bay  Express,59558
+143240,257horseshoebayexp,13690442, 7:18:14,9129,257 Horseshoe Bay  Express,54445
+143241,257horseshoebayexp,13690442, 7:18:59,12948,257 Horseshoe Bay  Express,60665
+143242,257horseshoebayexp,13690442, 7:21:59,1487,257 Horseshoe Bay  Express,51475
+143243,257horseshoebayexp,13690442, 7:34:00,4491,257 Horseshoe Bay  Express,54441
+143244,257horseshoebayexp,13690442, 7:35:33,4832,257 Horseshoe Bay  Express,54780
+143245,257horseshoebayexp,13690442, 7:37:27,8653,257 Horseshoe Bay  Express,60909
+143246,257horseshoebayexp,13690442, 7:53:00,4608,257 Horseshoe Bay  Express,54556
+143247,257horseshoebayexp,13690443, 7:36:00,11534,257 Horseshoe Bay  Express,59558
+143248,257horseshoebayexp,13690443, 7:37:18,9129,257 Horseshoe Bay  Express,54445
+143249,257horseshoebayexp,13690443, 7:38:06,12948,257 Horseshoe Bay  Express,60665
+143250,257horseshoebayexp,13690443, 7:41:17,1487,257 Horseshoe Bay  Express,51475
+143251,257horseshoebayexp,13690443, 7:54:00,4491,257 Horseshoe Bay  Express,54441
+143252,257horseshoebayexp,13690443, 7:55:38,4832,257 Horseshoe Bay  Express,54780
+143253,257horseshoebayexp,13690443, 7:57:39,8653,257 Horseshoe Bay  Express,60909
+143254,257horseshoebayexp,13690443, 8:14:00,4608,257 Horseshoe Bay  Express,54556
+143255,257horseshoebayexp,13690444, 8:00:00,11534,257 Horseshoe Bay  Express,59558
+143256,257horseshoebayexp,13690444, 8:01:18,9129,257 Horseshoe Bay  Express,54445
+143257,257horseshoebayexp,13690444, 8:02:06,12948,257 Horseshoe Bay  Express,60665
+143258,257horseshoebayexp,13690444, 8:05:17,1487,257 Horseshoe Bay  Express,51475
+143259,257horseshoebayexp,13690444, 8:18:00,4491,257 Horseshoe Bay  Express,54441
+143260,257horseshoebayexp,13690444, 8:19:38,4832,257 Horseshoe Bay  Express,54780
+143261,257horseshoebayexp,13690444, 8:21:39,8653,257 Horseshoe Bay  Express,60909
+143262,257horseshoebayexp,13690444, 8:38:00,4608,257 Horseshoe Bay  Express,54556
+143263,257horseshoebayexp,13690445, 8:15:00,11534,257 Horseshoe Bay  Express,59558
+143264,257horseshoebayexp,13690445, 8:16:18,9129,257 Horseshoe Bay  Express,54445
+143265,257horseshoebayexp,13690445, 8:17:06,12948,257 Horseshoe Bay  Express,60665
+143266,257horseshoebayexp,13690445, 8:20:17,1487,257 Horseshoe Bay  Express,51475
+143267,257horseshoebayexp,13690445, 8:33:00,4491,257 Horseshoe Bay  Express,54441
+143268,257horseshoebayexp,13690445, 8:34:38,4832,257 Horseshoe Bay  Express,54780
+143269,257horseshoebayexp,13690445, 8:36:39,8653,257 Horseshoe Bay  Express,60909
+143270,257horseshoebayexp,13690445, 8:53:00,4608,257 Horseshoe Bay  Express,54556
+143271,257horseshoebayexp,13690446, 8:35:00,11534,257 Horseshoe Bay  Express,59558
+143272,257horseshoebayexp,13690446, 8:36:18,9129,257 Horseshoe Bay  Express,54445
+143273,257horseshoebayexp,13690446, 8:37:06,12948,257 Horseshoe Bay  Express,60665
+143274,257horseshoebayexp,13690446, 8:40:17,1487,257 Horseshoe Bay  Express,51475
+143275,257horseshoebayexp,13690446, 8:53:00,4491,257 Horseshoe Bay  Express,54441
+143276,257horseshoebayexp,13690446, 8:54:38,4832,257 Horseshoe Bay  Express,54780
+143277,257horseshoebayexp,13690446, 8:56:39,8653,257 Horseshoe Bay  Express,60909
+143278,257horseshoebayexp,13690446, 9:13:00,4608,257 Horseshoe Bay  Express,54556
+143279,257horseshoebayexp,13690447, 8:50:00,11534,257 Horseshoe Bay  Express,59558
+143280,257horseshoebayexp,13690447, 8:51:18,9129,257 Horseshoe Bay  Express,54445
+143281,257horseshoebayexp,13690447, 8:52:06,12948,257 Horseshoe Bay  Express,60665
+143282,257horseshoebayexp,13690447, 8:55:17,1487,257 Horseshoe Bay  Express,51475
+143283,257horseshoebayexp,13690447, 9:08:00,4491,257 Horseshoe Bay  Express,54441
+143284,257horseshoebayexp,13690447, 9:09:38,4832,257 Horseshoe Bay  Express,54780
+143285,257horseshoebayexp,13690447, 9:11:39,8653,257 Horseshoe Bay  Express,60909
+143286,257horseshoebayexp,13690447, 9:28:00,4608,257 Horseshoe Bay  Express,54556
+143287,257horseshoebayexp,13690448, 9:10:00,11534,257 Horseshoe Bay  Express,59558
+143288,257horseshoebayexp,13690448, 9:11:18,9129,257 Horseshoe Bay  Express,54445
+143289,257horseshoebayexp,13690448, 9:12:06,12948,257 Horseshoe Bay  Express,60665
+143290,257horseshoebayexp,13690448, 9:15:17,1487,257 Horseshoe Bay  Express,51475
+143291,257horseshoebayexp,13690448, 9:28:00,4491,257 Horseshoe Bay  Express,54441
+143292,257horseshoebayexp,13690448, 9:29:38,4832,257 Horseshoe Bay  Express,54780
+143293,257horseshoebayexp,13690448, 9:31:39,8653,257 Horseshoe Bay  Express,60909
+143294,257horseshoebayexp,13690448, 9:48:00,4608,257 Horseshoe Bay  Express,54556
+143295,257horseshoebayexp,13690449, 9:35:00,11534,257 Horseshoe Bay  Express,59558
+143296,257horseshoebayexp,13690449, 9:36:18,9129,257 Horseshoe Bay  Express,54445
+143297,257horseshoebayexp,13690449, 9:37:06,12948,257 Horseshoe Bay  Express,60665
+143298,257horseshoebayexp,13690449, 9:40:17,1487,257 Horseshoe Bay  Express,51475
+143299,257horseshoebayexp,13690449, 9:53:00,4491,257 Horseshoe Bay  Express,54441
+143300,257horseshoebayexp,13690449, 9:54:38,4832,257 Horseshoe Bay  Express,54780
+143301,257horseshoebayexp,13690449, 9:56:39,8653,257 Horseshoe Bay  Express,60909
+143302,257horseshoebayexp,13690449,10:13:00,4608,257 Horseshoe Bay  Express,54556
+143303,257horseshoebayexp,13690450, 9:55:00,11534,257 Horseshoe Bay  Express,59558
+143304,257horseshoebayexp,13690450, 9:56:18,9129,257 Horseshoe Bay  Express,54445
+143305,257horseshoebayexp,13690450, 9:57:06,12948,257 Horseshoe Bay  Express,60665
+143306,257horseshoebayexp,13690450,10:00:17,1487,257 Horseshoe Bay  Express,51475
+143307,257horseshoebayexp,13690450,10:13:00,4491,257 Horseshoe Bay  Express,54441
+143308,257horseshoebayexp,13690450,10:14:38,4832,257 Horseshoe Bay  Express,54780
+143309,257horseshoebayexp,13690450,10:16:39,8653,257 Horseshoe Bay  Express,60909
+143310,257horseshoebayexp,13690450,10:33:00,4608,257 Horseshoe Bay  Express,54556
+143311,257horseshoebayexp,13690451,10:15:00,11534,257 Horseshoe Bay  Express,59558
+143312,257horseshoebayexp,13690451,10:16:18,9129,257 Horseshoe Bay  Express,54445
+143313,257horseshoebayexp,13690451,10:17:06,12948,257 Horseshoe Bay  Express,60665
+143314,257horseshoebayexp,13690451,10:20:17,1487,257 Horseshoe Bay  Express,51475
+143315,257horseshoebayexp,13690451,10:33:00,4491,257 Horseshoe Bay  Express,54441
+143316,257horseshoebayexp,13690451,10:34:38,4832,257 Horseshoe Bay  Express,54780
+143317,257horseshoebayexp,13690451,10:36:39,8653,257 Horseshoe Bay  Express,60909
+143318,257horseshoebayexp,13690451,10:53:00,4608,257 Horseshoe Bay  Express,54556
+143319,257horseshoebayexp,13690452,10:35:00,11534,257 Horseshoe Bay  Express,59558
+143320,257horseshoebayexp,13690452,10:36:18,9129,257 Horseshoe Bay  Express,54445
+143321,257horseshoebayexp,13690452,10:37:06,12948,257 Horseshoe Bay  Express,60665
+143322,257horseshoebayexp,13690452,10:40:17,1487,257 Horseshoe Bay  Express,51475
+143323,257horseshoebayexp,13690452,10:53:00,4491,257 Horseshoe Bay  Express,54441
+143324,257horseshoebayexp,13690452,10:54:38,4832,257 Horseshoe Bay  Express,54780
+143325,257horseshoebayexp,13690452,10:56:39,8653,257 Horseshoe Bay  Express,60909
+143326,257horseshoebayexp,13690452,11:13:00,4608,257 Horseshoe Bay  Express,54556
+143327,257horseshoebayexp,13690453,10:55:00,11534,257 Horseshoe Bay  Express,59558
+143328,257horseshoebayexp,13690453,10:56:18,9129,257 Horseshoe Bay  Express,54445
+143329,257horseshoebayexp,13690453,10:57:06,12948,257 Horseshoe Bay  Express,60665
+143330,257horseshoebayexp,13690453,11:00:17,1487,257 Horseshoe Bay  Express,51475
+143331,257horseshoebayexp,13690453,11:13:00,4491,257 Horseshoe Bay  Express,54441
+143332,257horseshoebayexp,13690453,11:14:38,4832,257 Horseshoe Bay  Express,54780
+143333,257horseshoebayexp,13690453,11:16:39,8653,257 Horseshoe Bay  Express,60909
+143334,257horseshoebayexp,13690453,11:33:00,4608,257 Horseshoe Bay  Express,54556
+143335,257horseshoebayexp,13690454,11:15:00,11534,257 Horseshoe Bay  Express,59558
+143336,257horseshoebayexp,13690454,11:16:18,9129,257 Horseshoe Bay  Express,54445
+143337,257horseshoebayexp,13690454,11:17:06,12948,257 Horseshoe Bay  Express,60665
+143338,257horseshoebayexp,13690454,11:20:17,1487,257 Horseshoe Bay  Express,51475
+143339,257horseshoebayexp,13690454,11:33:00,4491,257 Horseshoe Bay  Express,54441
+143340,257horseshoebayexp,13690454,11:34:38,4832,257 Horseshoe Bay  Express,54780
+143341,257horseshoebayexp,13690454,11:36:39,8653,257 Horseshoe Bay  Express,60909
+143342,257horseshoebayexp,13690454,11:53:00,4608,257 Horseshoe Bay  Express,54556
+143343,257horseshoebayexp,13690455,11:35:00,11534,257 Horseshoe Bay  Express,59558
+143344,257horseshoebayexp,13690455,11:36:18,9129,257 Horseshoe Bay  Express,54445
+143345,257horseshoebayexp,13690455,11:37:06,12948,257 Horseshoe Bay  Express,60665
+143346,257horseshoebayexp,13690455,11:40:17,1487,257 Horseshoe Bay  Express,51475
+143347,257horseshoebayexp,13690455,11:53:00,4491,257 Horseshoe Bay  Express,54441
+143348,257horseshoebayexp,13690455,11:54:38,4832,257 Horseshoe Bay  Express,54780
+143349,257horseshoebayexp,13690455,11:56:39,8653,257 Horseshoe Bay  Express,60909
+143350,257horseshoebayexp,13690455,12:13:00,4608,257 Horseshoe Bay  Express,54556
+143351,257horseshoebayexp,13690456,11:55:00,11534,257 Horseshoe Bay  Express,59558
+143352,257horseshoebayexp,13690456,11:56:18,9129,257 Horseshoe Bay  Express,54445
+143353,257horseshoebayexp,13690456,11:57:06,12948,257 Horseshoe Bay  Express,60665
+143354,257horseshoebayexp,13690456,12:00:17,1487,257 Horseshoe Bay  Express,51475
+143355,257horseshoebayexp,13690456,12:13:00,4491,257 Horseshoe Bay  Express,54441
+143356,257horseshoebayexp,13690456,12:14:38,4832,257 Horseshoe Bay  Express,54780
+143357,257horseshoebayexp,13690456,12:16:39,8653,257 Horseshoe Bay  Express,60909
+143358,257horseshoebayexp,13690456,12:33:00,4608,257 Horseshoe Bay  Express,54556
+143359,257horseshoebayexp,13690457,12:10:00,11534,257 Horseshoe Bay  Express,59558
+143360,257horseshoebayexp,13690457,12:11:18,9129,257 Horseshoe Bay  Express,54445
+143361,257horseshoebayexp,13690457,12:12:06,12948,257 Horseshoe Bay  Express,60665
+143362,257horseshoebayexp,13690457,12:15:17,1487,257 Horseshoe Bay  Express,51475
+143363,257horseshoebayexp,13690457,12:28:00,4491,257 Horseshoe Bay  Express,54441
+143364,257horseshoebayexp,13690457,12:29:38,4832,257 Horseshoe Bay  Express,54780
+143365,257horseshoebayexp,13690457,12:31:39,8653,257 Horseshoe Bay  Express,60909
+143366,257horseshoebayexp,13690457,12:48:00,4608,257 Horseshoe Bay  Express,54556
+143367,257horseshoebayexp,13690458,12:31:00,11534,257 Horseshoe Bay  Express,59558
+143368,257horseshoebayexp,13690458,12:32:18,9129,257 Horseshoe Bay  Express,54445
+143369,257horseshoebayexp,13690458,12:33:06,12948,257 Horseshoe Bay  Express,60665
+143370,257horseshoebayexp,13690458,12:36:17,1487,257 Horseshoe Bay  Express,51475
+143371,257horseshoebayexp,13690458,12:49:00,4491,257 Horseshoe Bay  Express,54441
+143372,257horseshoebayexp,13690458,12:50:38,4832,257 Horseshoe Bay  Express,54780
+143373,257horseshoebayexp,13690458,12:52:39,8653,257 Horseshoe Bay  Express,60909
+143374,257horseshoebayexp,13690458,13:09:00,4608,257 Horseshoe Bay  Express,54556
+143375,257horseshoebayexp,13690459,12:50:00,11534,257 Horseshoe Bay  Express,59558
+143376,257horseshoebayexp,13690459,12:51:18,9129,257 Horseshoe Bay  Express,54445
+143377,257horseshoebayexp,13690459,12:52:06,12948,257 Horseshoe Bay  Express,60665
+143378,257horseshoebayexp,13690459,12:55:17,1487,257 Horseshoe Bay  Express,51475
+143379,257horseshoebayexp,13690459,13:08:00,4491,257 Horseshoe Bay  Express,54441
+143380,257horseshoebayexp,13690459,13:09:38,4832,257 Horseshoe Bay  Express,54780
+143381,257horseshoebayexp,13690459,13:11:39,8653,257 Horseshoe Bay  Express,60909
+143382,257horseshoebayexp,13690459,13:28:00,4608,257 Horseshoe Bay  Express,54556
+143383,257horseshoebayexp,13690460,13:10:00,11534,257 Horseshoe Bay  Express,59558
+143384,257horseshoebayexp,13690460,13:11:18,9129,257 Horseshoe Bay  Express,54445
+143385,257horseshoebayexp,13690460,13:12:06,12948,257 Horseshoe Bay  Express,60665
+143386,257horseshoebayexp,13690460,13:15:17,1487,257 Horseshoe Bay  Express,51475
+143387,257horseshoebayexp,13690460,13:28:00,4491,257 Horseshoe Bay  Express,54441
+143388,257horseshoebayexp,13690460,13:29:38,4832,257 Horseshoe Bay  Express,54780
+143389,257horseshoebayexp,13690460,13:31:39,8653,257 Horseshoe Bay  Express,60909
+143390,257horseshoebayexp,13690460,13:48:00,4608,257 Horseshoe Bay  Express,54556
+143391,257horseshoebayexp,13690461,13:30:00,11534,257 Horseshoe Bay  Express,59558
+143392,257horseshoebayexp,13690461,13:31:18,9129,257 Horseshoe Bay  Express,54445
+143393,257horseshoebayexp,13690461,13:32:06,12948,257 Horseshoe Bay  Express,60665
+143394,257horseshoebayexp,13690461,13:35:17,1487,257 Horseshoe Bay  Express,51475
+143395,257horseshoebayexp,13690461,13:48:00,4491,257 Horseshoe Bay  Express,54441
+143396,257horseshoebayexp,13690461,13:49:38,4832,257 Horseshoe Bay  Express,54780
+143397,257horseshoebayexp,13690461,13:51:39,8653,257 Horseshoe Bay  Express,60909
+143398,257horseshoebayexp,13690461,14:08:00,4608,257 Horseshoe Bay  Express,54556
+143399,257horseshoebayexp,13690462,13:50:00,11534,257 Horseshoe Bay  Express,59558
+143400,257horseshoebayexp,13690462,13:51:18,9129,257 Horseshoe Bay  Express,54445
+143401,257horseshoebayexp,13690462,13:52:06,12948,257 Horseshoe Bay  Express,60665
+143402,257horseshoebayexp,13690462,13:55:17,1487,257 Horseshoe Bay  Express,51475
+143403,257horseshoebayexp,13690462,14:08:00,4491,257 Horseshoe Bay  Express,54441
+143404,257horseshoebayexp,13690462,14:09:38,4832,257 Horseshoe Bay  Express,54780
+143405,257horseshoebayexp,13690462,14:11:39,8653,257 Horseshoe Bay  Express,60909
+143406,257horseshoebayexp,13690462,14:28:00,4608,257 Horseshoe Bay  Express,54556
+143407,257horseshoebayexp,13690463,14:10:00,11534,257 Horseshoe Bay  Express,59558
+143408,257horseshoebayexp,13690463,14:11:18,9129,257 Horseshoe Bay  Express,54445
+143409,257horseshoebayexp,13690463,14:12:06,12948,257 Horseshoe Bay  Express,60665
+143410,257horseshoebayexp,13690463,14:15:17,1487,257 Horseshoe Bay  Express,51475
+143411,257horseshoebayexp,13690463,14:28:00,4491,257 Horseshoe Bay  Express,54441
+143412,257horseshoebayexp,13690463,14:29:38,4832,257 Horseshoe Bay  Express,54780
+143413,257horseshoebayexp,13690463,14:31:39,8653,257 Horseshoe Bay  Express,60909
+143414,257horseshoebayexp,13690463,14:48:00,4608,257 Horseshoe Bay  Express,54556
+143415,257horseshoebayexp,13690464,14:25:00,11534,257 Horseshoe Bay  Express,59558
+143416,257horseshoebayexp,13690464,14:26:18,9129,257 Horseshoe Bay  Express,54445
+143417,257horseshoebayexp,13690464,14:27:06,12948,257 Horseshoe Bay  Express,60665
+143418,257horseshoebayexp,13690464,14:30:17,1487,257 Horseshoe Bay  Express,51475
+143419,257horseshoebayexp,13690464,14:43:00,4491,257 Horseshoe Bay  Express,54441
+143420,257horseshoebayexp,13690464,14:44:38,4832,257 Horseshoe Bay  Express,54780
+143421,257horseshoebayexp,13690464,14:46:39,8653,257 Horseshoe Bay  Express,60909
+143422,257horseshoebayexp,13690464,15:03:00,4608,257 Horseshoe Bay  Express,54556
+143423,257horseshoebayexp,13690465,14:30:00,11534,257 Horseshoe Bay  Express,59558
+143424,257horseshoebayexp,13690465,14:31:18,9129,257 Horseshoe Bay  Express,54445
+143425,257horseshoebayexp,13690465,14:32:06,12948,257 Horseshoe Bay  Express,60665
+143426,257horseshoebayexp,13690465,14:35:17,1487,257 Horseshoe Bay  Express,51475
+143427,257horseshoebayexp,13690465,14:48:00,4491,257 Horseshoe Bay  Express,54441
+143428,257horseshoebayexp,13690465,14:49:38,4832,257 Horseshoe Bay  Express,54780
+143429,257horseshoebayexp,13690465,14:51:39,8653,257 Horseshoe Bay  Express,60909
+143430,257horseshoebayexp,13690465,15:08:00,4608,257 Horseshoe Bay  Express,54556
+143431,257horseshoebayexp,13690466,14:50:00,11534,257 Horseshoe Bay  Express,59558
+143432,257horseshoebayexp,13690466,14:51:18,9129,257 Horseshoe Bay  Express,54445
+143433,257horseshoebayexp,13690466,14:52:06,12948,257 Horseshoe Bay  Express,60665
+143434,257horseshoebayexp,13690466,14:55:17,1487,257 Horseshoe Bay  Express,51475
+143435,257horseshoebayexp,13690466,15:08:00,4491,257 Horseshoe Bay  Express,54441
+143436,257horseshoebayexp,13690466,15:09:38,4832,257 Horseshoe Bay  Express,54780
+143437,257horseshoebayexp,13690466,15:11:39,8653,257 Horseshoe Bay  Express,60909
+143438,257horseshoebayexp,13690466,15:28:00,4608,257 Horseshoe Bay  Express,54556
+143439,257horseshoebayexp,13690467,15:10:00,11534,257 Horseshoe Bay  Express,59558
+143440,257horseshoebayexp,13690467,15:11:18,9129,257 Horseshoe Bay  Express,54445
+143441,257horseshoebayexp,13690467,15:12:06,12948,257 Horseshoe Bay  Express,60665
+143442,257horseshoebayexp,13690467,15:15:17,1487,257 Horseshoe Bay  Express,51475
+143443,257horseshoebayexp,13690467,15:28:00,4491,257 Horseshoe Bay  Express,54441
+143444,257horseshoebayexp,13690467,15:29:38,4832,257 Horseshoe Bay  Express,54780
+143445,257horseshoebayexp,13690467,15:31:39,8653,257 Horseshoe Bay  Express,60909
+143446,257horseshoebayexp,13690467,15:48:00,4608,257 Horseshoe Bay  Express,54556
+143447,257horseshoebayexp,13690468,15:30:00,11534,257 Horseshoe Bay  Express,59558
+143448,257horseshoebayexp,13690468,15:31:18,9129,257 Horseshoe Bay  Express,54445
+143449,257horseshoebayexp,13690468,15:32:06,12948,257 Horseshoe Bay  Express,60665
+143450,257horseshoebayexp,13690468,15:35:17,1487,257 Horseshoe Bay  Express,51475
+143451,257horseshoebayexp,13690468,15:48:00,4491,257 Horseshoe Bay  Express,54441
+143452,257horseshoebayexp,13690468,15:49:38,4832,257 Horseshoe Bay  Express,54780
+143453,257horseshoebayexp,13690468,15:51:39,8653,257 Horseshoe Bay  Express,60909
+143454,257horseshoebayexp,13690468,16:08:00,4608,257 Horseshoe Bay  Express,54556
+143455,257horseshoebayexp,13690469,15:50:00,11534,257 Horseshoe Bay  Express,59558
+143456,257horseshoebayexp,13690469,15:51:18,9129,257 Horseshoe Bay  Express,54445
+143457,257horseshoebayexp,13690469,15:52:06,12948,257 Horseshoe Bay  Express,60665
+143458,257horseshoebayexp,13690469,15:55:17,1487,257 Horseshoe Bay  Express,51475
+143459,257horseshoebayexp,13690469,16:08:00,4491,257 Horseshoe Bay  Express,54441
+143460,257horseshoebayexp,13690469,16:09:38,4832,257 Horseshoe Bay  Express,54780
+143461,257horseshoebayexp,13690469,16:11:39,8653,257 Horseshoe Bay  Express,60909
+143462,257horseshoebayexp,13690469,16:28:00,4608,257 Horseshoe Bay  Express,54556
+143463,257horseshoebayexp,13690470,16:05:00,11534,257 Horseshoe Bay  Express,59558
+143464,257horseshoebayexp,13690470,16:06:22,9129,257 Horseshoe Bay  Express,54445
+143465,257horseshoebayexp,13690470,16:07:12,12948,257 Horseshoe Bay  Express,60665
+143466,257horseshoebayexp,13690470,16:10:33,1487,257 Horseshoe Bay  Express,51475
+143467,257horseshoebayexp,13690470,16:24:00,4491,257 Horseshoe Bay  Express,54441
+143468,257horseshoebayexp,13690470,16:25:38,4832,257 Horseshoe Bay  Express,54780
+143469,257horseshoebayexp,13690470,16:27:39,8653,257 Horseshoe Bay  Express,60909
+143470,257horseshoebayexp,13690470,16:44:00,4608,257 Horseshoe Bay  Express,54556
+143471,257horseshoebayexp,13690471,16:15:00,11534,257 Horseshoe Bay  Express,59558
+143472,257horseshoebayexp,13690471,16:16:22,9129,257 Horseshoe Bay  Express,54445
+143473,257horseshoebayexp,13690471,16:17:12,12948,257 Horseshoe Bay  Express,60665
+143474,257horseshoebayexp,13690471,16:20:33,1487,257 Horseshoe Bay  Express,51475
+143475,257horseshoebayexp,13690471,16:34:00,4491,257 Horseshoe Bay  Express,54441
+143476,257horseshoebayexp,13690471,16:35:38,4832,257 Horseshoe Bay  Express,54780
+143477,257horseshoebayexp,13690471,16:37:39,8653,257 Horseshoe Bay  Express,60909
+143478,257horseshoebayexp,13690471,16:54:00,4608,257 Horseshoe Bay  Express,54556
+143479,257horseshoebayexp,13690472,16:35:00,11534,257 Horseshoe Bay  Express,59558
+143480,257horseshoebayexp,13690472,16:36:22,9129,257 Horseshoe Bay  Express,54445
+143481,257horseshoebayexp,13690472,16:37:12,12948,257 Horseshoe Bay  Express,60665
+143482,257horseshoebayexp,13690472,16:40:33,1487,257 Horseshoe Bay  Express,51475
+143483,257horseshoebayexp,13690472,16:54:00,4491,257 Horseshoe Bay  Express,54441
+143484,257horseshoebayexp,13690472,16:55:38,4832,257 Horseshoe Bay  Express,54780
+143485,257horseshoebayexp,13690472,16:57:39,8653,257 Horseshoe Bay  Express,60909
+143486,257horseshoebayexp,13690472,17:14:00,4608,257 Horseshoe Bay  Express,54556
+143487,257horseshoebayexp,13690473,16:55:00,11534,257 Horseshoe Bay  Express,59558
+143488,257horseshoebayexp,13690473,16:56:22,9129,257 Horseshoe Bay  Express,54445
+143489,257horseshoebayexp,13690473,16:57:12,12948,257 Horseshoe Bay  Express,60665
+143490,257horseshoebayexp,13690473,17:00:33,1487,257 Horseshoe Bay  Express,51475
+143491,257horseshoebayexp,13690473,17:14:00,4491,257 Horseshoe Bay  Express,54441
+143492,257horseshoebayexp,13690473,17:15:38,4832,257 Horseshoe Bay  Express,54780
+143493,257horseshoebayexp,13690473,17:17:39,8653,257 Horseshoe Bay  Express,60909
+143494,257horseshoebayexp,13690473,17:34:00,4608,257 Horseshoe Bay  Express,54556
+143495,257horseshoebayexp,13690474,17:15:00,11534,257 Horseshoe Bay  Express,59558
+143496,257horseshoebayexp,13690474,17:16:22,9129,257 Horseshoe Bay  Express,54445
+143497,257horseshoebayexp,13690474,17:17:12,12948,257 Horseshoe Bay  Express,60665
+143498,257horseshoebayexp,13690474,17:20:33,1487,257 Horseshoe Bay  Express,51475
+143499,257horseshoebayexp,13690474,17:34:00,4491,257 Horseshoe Bay  Express,54441
+143500,257horseshoebayexp,13690474,17:35:38,4832,257 Horseshoe Bay  Express,54780
+143501,257horseshoebayexp,13690474,17:37:39,8653,257 Horseshoe Bay  Express,60909
+143502,257horseshoebayexp,13690474,17:54:00,4608,257 Horseshoe Bay  Express,54556
+143503,257horseshoebayexp,13690475,17:35:00,11534,257 Horseshoe Bay  Express,59558
+143504,257horseshoebayexp,13690475,17:36:18,9129,257 Horseshoe Bay  Express,54445
+143505,257horseshoebayexp,13690475,17:37:06,12948,257 Horseshoe Bay  Express,60665
+143506,257horseshoebayexp,13690475,17:40:17,1487,257 Horseshoe Bay  Express,51475
+143507,257horseshoebayexp,13690475,17:53:00,4491,257 Horseshoe Bay  Express,54441
+143508,257horseshoebayexp,13690475,17:54:38,4832,257 Horseshoe Bay  Express,54780
+143509,257horseshoebayexp,13690475,17:56:39,8653,257 Horseshoe Bay  Express,60909
+143510,257horseshoebayexp,13690475,18:13:00,4608,257 Horseshoe Bay  Express,54556
+143511,257horseshoebayexp,13690476,17:55:00,11534,257 Horseshoe Bay  Express,59558
+143512,257horseshoebayexp,13690476,17:56:18,9129,257 Horseshoe Bay  Express,54445
+143513,257horseshoebayexp,13690476,17:57:06,12948,257 Horseshoe Bay  Express,60665
+143514,257horseshoebayexp,13690476,18:00:17,1487,257 Horseshoe Bay  Express,51475
+143515,257horseshoebayexp,13690476,18:13:00,4491,257 Horseshoe Bay  Express,54441
+143516,257horseshoebayexp,13690476,18:14:38,4832,257 Horseshoe Bay  Express,54780
+143517,257horseshoebayexp,13690476,18:16:39,8653,257 Horseshoe Bay  Express,60909
+143518,257horseshoebayexp,13690476,18:33:00,4608,257 Horseshoe Bay  Express,54556
+143519,257horseshoebayexp,13690477,18:10:00,11534,257 Horseshoe Bay  Express,59558
+143520,257horseshoebayexp,13690477,18:11:14,9129,257 Horseshoe Bay  Express,54445
+143521,257horseshoebayexp,13690477,18:11:59,12948,257 Horseshoe Bay  Express,60665
+143522,257horseshoebayexp,13690477,18:14:59,1487,257 Horseshoe Bay  Express,51475
+143523,257horseshoebayexp,13690477,18:27:00,4491,257 Horseshoe Bay  Express,54441
+143524,257horseshoebayexp,13690477,18:28:38,4832,257 Horseshoe Bay  Express,54780
+143525,257horseshoebayexp,13690477,18:30:39,8653,257 Horseshoe Bay  Express,60909
+143526,257horseshoebayexp,13690477,18:47:00,4608,257 Horseshoe Bay  Express,54556
+143527,257horseshoebayexp,13690478,18:15:00,11534,257 Horseshoe Bay  Express,59558
+143528,257horseshoebayexp,13690478,18:16:14,9129,257 Horseshoe Bay  Express,54445
+143529,257horseshoebayexp,13690478,18:16:59,12948,257 Horseshoe Bay  Express,60665
+143530,257horseshoebayexp,13690478,18:19:59,1487,257 Horseshoe Bay  Express,51475
+143531,257horseshoebayexp,13690478,18:32:00,4491,257 Horseshoe Bay  Express,54441
+143532,257horseshoebayexp,13690478,18:33:38,4832,257 Horseshoe Bay  Express,54780
+143533,257horseshoebayexp,13690478,18:35:39,8653,257 Horseshoe Bay  Express,60909
+143534,257horseshoebayexp,13690478,18:52:00,4608,257 Horseshoe Bay  Express,54556
+143535,257horseshoebayexp,13690479,18:35:00,11534,257 Horseshoe Bay  Express,59558
+143536,257horseshoebayexp,13690479,18:36:14,9129,257 Horseshoe Bay  Express,54445
+143537,257horseshoebayexp,13690479,18:36:59,12948,257 Horseshoe Bay  Express,60665
+143538,257horseshoebayexp,13690479,18:39:59,1487,257 Horseshoe Bay  Express,51475
+143539,257horseshoebayexp,13690479,18:52:00,4491,257 Horseshoe Bay  Express,54441
+143540,257horseshoebayexp,13690479,18:53:38,4832,257 Horseshoe Bay  Express,54780
+143541,257horseshoebayexp,13690479,18:55:39,8653,257 Horseshoe Bay  Express,60909
+143542,257horseshoebayexp,13690479,19:12:00,4608,257 Horseshoe Bay  Express,54556
+143543,257horseshoebayexp,13690480,18:55:00,11534,257 Horseshoe Bay  Express,59558
+143544,257horseshoebayexp,13690480,18:56:14,9129,257 Horseshoe Bay  Express,54445
+143545,257horseshoebayexp,13690480,18:56:59,12948,257 Horseshoe Bay  Express,60665
+143546,257horseshoebayexp,13690480,18:59:59,1487,257 Horseshoe Bay  Express,51475
+143547,257horseshoebayexp,13690480,19:12:00,4491,257 Horseshoe Bay  Express,54441
+143548,257horseshoebayexp,13690480,19:13:38,4832,257 Horseshoe Bay  Express,54780
+143549,257horseshoebayexp,13690480,19:15:39,8653,257 Horseshoe Bay  Express,60909
+143550,257horseshoebayexp,13690480,19:32:00,4608,257 Horseshoe Bay  Express,54556
+143551,257horseshoebayexp,13690481,19:25:00,11534,257 Horseshoe Bay  Express,59558
+143552,257horseshoebayexp,13690481,19:26:14,9129,257 Horseshoe Bay  Express,54445
+143553,257horseshoebayexp,13690481,19:26:59,12948,257 Horseshoe Bay  Express,60665
+143554,257horseshoebayexp,13690481,19:29:59,1487,257 Horseshoe Bay  Express,51475
+143555,257horseshoebayexp,13690481,19:42:00,4491,257 Horseshoe Bay  Express,54441
+143556,257horseshoebayexp,13690481,19:43:38,4832,257 Horseshoe Bay  Express,54780
+143557,257horseshoebayexp,13690481,19:45:39,8653,257 Horseshoe Bay  Express,60909
+143558,257horseshoebayexp,13690481,20:02:00,4608,257 Horseshoe Bay  Express,54556
+143559,257horseshoebayexp,13690482,19:55:00,11534,257 Horseshoe Bay  Express,59558
+143560,257horseshoebayexp,13690482,19:56:14,9129,257 Horseshoe Bay  Express,54445
+143561,257horseshoebayexp,13690482,19:56:59,12948,257 Horseshoe Bay  Express,60665
+143562,257horseshoebayexp,13690482,19:59:59,1487,257 Horseshoe Bay  Express,51475
+143563,257horseshoebayexp,13690482,20:12:00,4491,257 Horseshoe Bay  Express,54441
+143564,257horseshoebayexp,13690482,20:13:38,4832,257 Horseshoe Bay  Express,54780
+143565,257horseshoebayexp,13690482,20:15:39,8653,257 Horseshoe Bay  Express,60909
+143566,257horseshoebayexp,13690482,20:32:00,4608,257 Horseshoe Bay  Express,54556
+143567,257horseshoebayexp,13690483,19:55:00,11534,257 Horseshoe Bay  Express,59558
+143568,257horseshoebayexp,13690483,19:56:14,9129,257 Horseshoe Bay  Express,54445
+143569,257horseshoebayexp,13690483,19:56:59,12948,257 Horseshoe Bay  Express,60665
+143570,257horseshoebayexp,13690483,19:59:59,1487,257 Horseshoe Bay  Express,51475
+143571,257horseshoebayexp,13690483,20:12:00,4491,257 Horseshoe Bay  Express,54441
+143572,257horseshoebayexp,13690483,20:13:38,4832,257 Horseshoe Bay  Express,54780
+143573,257horseshoebayexp,13690483,20:15:39,8653,257 Horseshoe Bay  Express,60909
+143574,257horseshoebayexp,13690483,20:32:00,4608,257 Horseshoe Bay  Express,54556
+143575,257horseshoebayexp,13690484,20:25:00,11534,257 Horseshoe Bay  Express,59558
+143576,257horseshoebayexp,13690484,20:26:09,9129,257 Horseshoe Bay  Express,54445
+143577,257horseshoebayexp,13690484,20:26:51,12948,257 Horseshoe Bay  Express,60665
+143578,257horseshoebayexp,13690484,20:29:40,1487,257 Horseshoe Bay  Express,51475
+143579,257horseshoebayexp,13690484,20:41:00,4491,257 Horseshoe Bay  Express,54441
+143580,257horseshoebayexp,13690484,20:42:33,4832,257 Horseshoe Bay  Express,54780
+143581,257horseshoebayexp,13690484,20:44:27,8653,257 Horseshoe Bay  Express,60909
+143582,257horseshoebayexp,13690484,21:00:00,4608,257 Horseshoe Bay  Express,54556
+143583,257horseshoebayexp,13690485,21:05:00,11534,257 Horseshoe Bay  Express,59558
+143584,257horseshoebayexp,13690485,21:06:09,9129,257 Horseshoe Bay  Express,54445
+143585,257horseshoebayexp,13690485,21:06:51,12948,257 Horseshoe Bay  Express,60665
+143586,257horseshoebayexp,13690485,21:09:40,1487,257 Horseshoe Bay  Express,51475
+143587,257horseshoebayexp,13690485,21:21:00,4491,257 Horseshoe Bay  Express,54441
+143588,257horseshoebayexp,13690485,21:22:33,4832,257 Horseshoe Bay  Express,54780
+143589,257horseshoebayexp,13690485,21:24:27,8653,257 Horseshoe Bay  Express,60909
+143590,257horseshoebayexp,13690485,21:40:00,4608,257 Horseshoe Bay  Express,54556
+143591,257horseshoebayexp,13690486,22:05:00,11534,257 Horseshoe Bay  Express,59558
+143592,257horseshoebayexp,13690486,22:06:09,9129,257 Horseshoe Bay  Express,54445
+143593,257horseshoebayexp,13690486,22:06:51,12948,257 Horseshoe Bay  Express,60665
+143594,257horseshoebayexp,13690486,22:09:40,1487,257 Horseshoe Bay  Express,51475
+143595,257horseshoebayexp,13690486,22:21:00,4491,257 Horseshoe Bay  Express,54441
+143596,257horseshoebayexp,13690486,22:22:28,4832,257 Horseshoe Bay  Express,54780
+143597,257horseshoebayexp,13690486,22:24:16,8653,257 Horseshoe Bay  Express,60909
+143598,257horseshoebayexp,13690486,22:39:00,4608,257 Horseshoe Bay  Express,54556
+143599,257horseshoebayexp,13690487,23:05:00,11534,257 Horseshoe Bay  Express,59558
+143600,257horseshoebayexp,13690487,23:06:09,9129,257 Horseshoe Bay  Express,54445
+143601,257horseshoebayexp,13690487,23:06:51,12948,257 Horseshoe Bay  Express,60665
+143602,257horseshoebayexp,13690487,23:09:40,1487,257 Horseshoe Bay  Express,51475
+143603,257horseshoebayexp,13690487,23:21:00,4491,257 Horseshoe Bay  Express,54441
+143604,257horseshoebayexp,13690487,23:22:28,4832,257 Horseshoe Bay  Express,54780
+143605,257horseshoebayexp,13690487,23:24:16,8653,257 Horseshoe Bay  Express,60909
+143606,257horseshoebayexp,13690487,23:39:00,4608,257 Horseshoe Bay  Express,54556
+143607,257horseshoebayexp,13690546, 5:00:00,11534,257 Horseshoe Bay  Express,59558
+143608,257horseshoebayexp,13690546, 5:01:09,9129,257 Horseshoe Bay  Express,54445
+143609,257horseshoebayexp,13690546, 5:01:51,12948,257 Horseshoe Bay  Express,60665
+143610,257horseshoebayexp,13690546, 5:04:40,1487,257 Horseshoe Bay  Express,51475
+143611,257horseshoebayexp,13690546, 5:16:00,4491,257 Horseshoe Bay  Express,54441
+143612,257horseshoebayexp,13690546, 5:17:33,4832,257 Horseshoe Bay  Express,54780
+143613,257horseshoebayexp,13690546, 5:19:27,8653,257 Horseshoe Bay  Express,60909
+143614,257horseshoebayexp,13690546, 5:35:00,4608,257 Horseshoe Bay  Express,54556
+143615,257horseshoebayexp,13690547, 5:30:00,11534,257 Horseshoe Bay  Express,59558
+143616,257horseshoebayexp,13690547, 5:31:09,9129,257 Horseshoe Bay  Express,54445
+143617,257horseshoebayexp,13690547, 5:31:51,12948,257 Horseshoe Bay  Express,60665
+143618,257horseshoebayexp,13690547, 5:34:40,1487,257 Horseshoe Bay  Express,51475
+143619,257horseshoebayexp,13690547, 5:46:00,4491,257 Horseshoe Bay  Express,54441
+143620,257horseshoebayexp,13690547, 5:47:33,4832,257 Horseshoe Bay  Express,54780
+143621,257horseshoebayexp,13690547, 5:49:27,8653,257 Horseshoe Bay  Express,60909
+143622,257horseshoebayexp,13690547, 6:05:00,4608,257 Horseshoe Bay  Express,54556
+143623,257horseshoebayexp,13690548, 6:00:00,11534,257 Horseshoe Bay  Express,59558
+143624,257horseshoebayexp,13690548, 6:01:09,9129,257 Horseshoe Bay  Express,54445
+143625,257horseshoebayexp,13690548, 6:01:51,12948,257 Horseshoe Bay  Express,60665
+143626,257horseshoebayexp,13690548, 6:04:40,1487,257 Horseshoe Bay  Express,51475
+143627,257horseshoebayexp,13690548, 6:16:00,4491,257 Horseshoe Bay  Express,54441
+143628,257horseshoebayexp,13690548, 6:17:33,4832,257 Horseshoe Bay  Express,54780
+143629,257horseshoebayexp,13690548, 6:19:27,8653,257 Horseshoe Bay  Express,60909
+143630,257horseshoebayexp,13690548, 6:35:00,4608,257 Horseshoe Bay  Express,54556
+143631,257horseshoebayexp,13690549, 6:30:00,11534,257 Horseshoe Bay  Express,59558
+143632,257horseshoebayexp,13690549, 6:31:09,9129,257 Horseshoe Bay  Express,54445
+143633,257horseshoebayexp,13690549, 6:31:51,12948,257 Horseshoe Bay  Express,60665
+143634,257horseshoebayexp,13690549, 6:34:40,1487,257 Horseshoe Bay  Express,51475
+143635,257horseshoebayexp,13690549, 6:46:00,4491,257 Horseshoe Bay  Express,54441
+143636,257horseshoebayexp,13690549, 6:47:33,4832,257 Horseshoe Bay  Express,54780
+143637,257horseshoebayexp,13690549, 6:49:27,8653,257 Horseshoe Bay  Express,60909
+143638,257horseshoebayexp,13690549, 7:05:00,4608,257 Horseshoe Bay  Express,54556
+143639,257horseshoebayexp,13690550, 6:55:00,11534,257 Horseshoe Bay  Express,59558
+143640,257horseshoebayexp,13690550, 6:56:09,9129,257 Horseshoe Bay  Express,54445
+143641,257horseshoebayexp,13690550, 6:56:51,12948,257 Horseshoe Bay  Express,60665
+143642,257horseshoebayexp,13690550, 6:59:40,1487,257 Horseshoe Bay  Express,51475
+143643,257horseshoebayexp,13690550, 7:11:00,4491,257 Horseshoe Bay  Express,54441
+143644,257horseshoebayexp,13690550, 7:12:33,4832,257 Horseshoe Bay  Express,54780
+143645,257horseshoebayexp,13690550, 7:14:27,8653,257 Horseshoe Bay  Express,60909
+143646,257horseshoebayexp,13690550, 7:30:00,4608,257 Horseshoe Bay  Express,54556
+143647,257horseshoebayexp,13690551, 7:15:00,11534,257 Horseshoe Bay  Express,59558
+143648,257horseshoebayexp,13690551, 7:16:09,9129,257 Horseshoe Bay  Express,54445
+143649,257horseshoebayexp,13690551, 7:16:51,12948,257 Horseshoe Bay  Express,60665
+143650,257horseshoebayexp,13690551, 7:19:40,1487,257 Horseshoe Bay  Express,51475
+143651,257horseshoebayexp,13690551, 7:31:00,4491,257 Horseshoe Bay  Express,54441
+143652,257horseshoebayexp,13690551, 7:32:33,4832,257 Horseshoe Bay  Express,54780
+143653,257horseshoebayexp,13690551, 7:34:27,8653,257 Horseshoe Bay  Express,60909
+143654,257horseshoebayexp,13690551, 7:50:00,4608,257 Horseshoe Bay  Express,54556
+143655,257horseshoebayexp,13690552, 7:35:00,11534,257 Horseshoe Bay  Express,59558
+143656,257horseshoebayexp,13690552, 7:36:09,9129,257 Horseshoe Bay  Express,54445
+143657,257horseshoebayexp,13690552, 7:36:51,12948,257 Horseshoe Bay  Express,60665
+143658,257horseshoebayexp,13690552, 7:39:40,1487,257 Horseshoe Bay  Express,51475
+143659,257horseshoebayexp,13690552, 7:51:00,4491,257 Horseshoe Bay  Express,54441
+143660,257horseshoebayexp,13690552, 7:52:33,4832,257 Horseshoe Bay  Express,54780
+143661,257horseshoebayexp,13690552, 7:54:27,8653,257 Horseshoe Bay  Express,60909
+143662,257horseshoebayexp,13690552, 8:10:00,4608,257 Horseshoe Bay  Express,54556
+143663,257horseshoebayexp,13690553, 7:55:00,11534,257 Horseshoe Bay  Express,59558
+143664,257horseshoebayexp,13690553, 7:56:09,9129,257 Horseshoe Bay  Express,54445
+143665,257horseshoebayexp,13690553, 7:56:51,12948,257 Horseshoe Bay  Express,60665
+143666,257horseshoebayexp,13690553, 7:59:40,1487,257 Horseshoe Bay  Express,51475
+143667,257horseshoebayexp,13690553, 8:11:00,4491,257 Horseshoe Bay  Express,54441
+143668,257horseshoebayexp,13690553, 8:12:33,4832,257 Horseshoe Bay  Express,54780
+143669,257horseshoebayexp,13690553, 8:14:27,8653,257 Horseshoe Bay  Express,60909
+143670,257horseshoebayexp,13690553, 8:30:00,4608,257 Horseshoe Bay  Express,54556
+143671,257horseshoebayexp,13690554, 8:10:00,11534,257 Horseshoe Bay  Express,59558
+143672,257horseshoebayexp,13690554, 8:11:09,9129,257 Horseshoe Bay  Express,54445
+143673,257horseshoebayexp,13690554, 8:11:51,12948,257 Horseshoe Bay  Express,60665
+143674,257horseshoebayexp,13690554, 8:14:40,1487,257 Horseshoe Bay  Express,51475
+143675,257horseshoebayexp,13690554, 8:26:00,4491,257 Horseshoe Bay  Express,54441
+143676,257horseshoebayexp,13690554, 8:27:33,4832,257 Horseshoe Bay  Express,54780
+143677,257horseshoebayexp,13690554, 8:29:27,8653,257 Horseshoe Bay  Express,60909
+143678,257horseshoebayexp,13690554, 8:45:00,4608,257 Horseshoe Bay  Express,54556
+143679,257horseshoebayexp,13690555, 8:25:00,11534,257 Horseshoe Bay  Express,59558
+143680,257horseshoebayexp,13690555, 8:26:09,9129,257 Horseshoe Bay  Express,54445
+143681,257horseshoebayexp,13690555, 8:26:51,12948,257 Horseshoe Bay  Express,60665
+143682,257horseshoebayexp,13690555, 8:29:40,1487,257 Horseshoe Bay  Express,51475
+143683,257horseshoebayexp,13690555, 8:41:00,4491,257 Horseshoe Bay  Express,54441
+143684,257horseshoebayexp,13690555, 8:42:33,4832,257 Horseshoe Bay  Express,54780
+143685,257horseshoebayexp,13690555, 8:44:27,8653,257 Horseshoe Bay  Express,60909
+143686,257horseshoebayexp,13690555, 9:00:00,4608,257 Horseshoe Bay  Express,54556
+143687,257horseshoebayexp,13690556, 8:40:00,11534,257 Horseshoe Bay  Express,59558
+143688,257horseshoebayexp,13690556, 8:41:09,9129,257 Horseshoe Bay  Express,54445
+143689,257horseshoebayexp,13690556, 8:41:51,12948,257 Horseshoe Bay  Express,60665
+143690,257horseshoebayexp,13690556, 8:44:40,1487,257 Horseshoe Bay  Express,51475
+143691,257horseshoebayexp,13690556, 8:56:00,4491,257 Horseshoe Bay  Express,54441
+143692,257horseshoebayexp,13690556, 8:57:33,4832,257 Horseshoe Bay  Express,54780
+143693,257horseshoebayexp,13690556, 8:59:27,8653,257 Horseshoe Bay  Express,60909
+143694,257horseshoebayexp,13690556, 9:15:00,4608,257 Horseshoe Bay  Express,54556
+143695,257horseshoebayexp,13690557, 8:55:00,11534,257 Horseshoe Bay  Express,59558
+143696,257horseshoebayexp,13690557, 8:56:09,9129,257 Horseshoe Bay  Express,54445
+143697,257horseshoebayexp,13690557, 8:56:51,12948,257 Horseshoe Bay  Express,60665
+143698,257horseshoebayexp,13690557, 8:59:40,1487,257 Horseshoe Bay  Express,51475
+143699,257horseshoebayexp,13690557, 9:11:00,4491,257 Horseshoe Bay  Express,54441
+143700,257horseshoebayexp,13690557, 9:12:33,4832,257 Horseshoe Bay  Express,54780
+143701,257horseshoebayexp,13690557, 9:14:27,8653,257 Horseshoe Bay  Express,60909
+143702,257horseshoebayexp,13690557, 9:30:00,4608,257 Horseshoe Bay  Express,54556
+143703,257horseshoebayexp,13690558, 9:10:00,11534,257 Horseshoe Bay  Express,59558
+143704,257horseshoebayexp,13690558, 9:11:09,9129,257 Horseshoe Bay  Express,54445
+143705,257horseshoebayexp,13690558, 9:11:51,12948,257 Horseshoe Bay  Express,60665
+143706,257horseshoebayexp,13690558, 9:14:40,1487,257 Horseshoe Bay  Express,51475
+143707,257horseshoebayexp,13690558, 9:26:00,4491,257 Horseshoe Bay  Express,54441
+143708,257horseshoebayexp,13690558, 9:27:33,4832,257 Horseshoe Bay  Express,54780
+143709,257horseshoebayexp,13690558, 9:29:27,8653,257 Horseshoe Bay  Express,60909
+143710,257horseshoebayexp,13690558, 9:45:00,4608,257 Horseshoe Bay  Express,54556
+143711,257horseshoebayexp,13690559, 9:25:00,11534,257 Horseshoe Bay  Express,59558
+143712,257horseshoebayexp,13690559, 9:26:09,9129,257 Horseshoe Bay  Express,54445
+143713,257horseshoebayexp,13690559, 9:26:51,12948,257 Horseshoe Bay  Express,60665
+143714,257horseshoebayexp,13690559, 9:29:40,1487,257 Horseshoe Bay  Express,51475
+143715,257horseshoebayexp,13690559, 9:41:00,4491,257 Horseshoe Bay  Express,54441
+143716,257horseshoebayexp,13690559, 9:42:33,4832,257 Horseshoe Bay  Express,54780
+143717,257horseshoebayexp,13690559, 9:44:27,8653,257 Horseshoe Bay  Express,60909
+143718,257horseshoebayexp,13690559,10:00:00,4608,257 Horseshoe Bay  Express,54556
+143719,257horseshoebayexp,13690560, 9:40:00,11534,257 Horseshoe Bay  Express,59558
+143720,257horseshoebayexp,13690560, 9:41:09,9129,257 Horseshoe Bay  Express,54445
+143721,257horseshoebayexp,13690560, 9:41:51,12948,257 Horseshoe Bay  Express,60665
+143722,257horseshoebayexp,13690560, 9:44:40,1487,257 Horseshoe Bay  Express,51475
+143723,257horseshoebayexp,13690560, 9:56:00,4491,257 Horseshoe Bay  Express,54441
+143724,257horseshoebayexp,13690560, 9:57:33,4832,257 Horseshoe Bay  Express,54780
+143725,257horseshoebayexp,13690560, 9:59:27,8653,257 Horseshoe Bay  Express,60909
+143726,257horseshoebayexp,13690560,10:15:00,4608,257 Horseshoe Bay  Express,54556
+143727,257horseshoebayexp,13690561, 9:55:00,11534,257 Horseshoe Bay  Express,59558
+143728,257horseshoebayexp,13690561, 9:56:09,9129,257 Horseshoe Bay  Express,54445
+143729,257horseshoebayexp,13690561, 9:56:51,12948,257 Horseshoe Bay  Express,60665
+143730,257horseshoebayexp,13690561, 9:59:40,1487,257 Horseshoe Bay  Express,51475
+143731,257horseshoebayexp,13690561,10:11:00,4491,257 Horseshoe Bay  Express,54441
+143732,257horseshoebayexp,13690561,10:12:33,4832,257 Horseshoe Bay  Express,54780
+143733,257horseshoebayexp,13690561,10:14:27,8653,257 Horseshoe Bay  Express,60909
+143734,257horseshoebayexp,13690561,10:30:00,4608,257 Horseshoe Bay  Express,54556
+143735,257horseshoebayexp,13690562,10:10:00,11534,257 Horseshoe Bay  Express,59558
+143736,257horseshoebayexp,13690562,10:11:18,9129,257 Horseshoe Bay  Express,54445
+143737,257horseshoebayexp,13690562,10:12:06,12948,257 Horseshoe Bay  Express,60665
+143738,257horseshoebayexp,13690562,10:15:17,1487,257 Horseshoe Bay  Express,51475
+143739,257horseshoebayexp,13690562,10:28:00,4491,257 Horseshoe Bay  Express,54441
+143740,257horseshoebayexp,13690562,10:29:33,4832,257 Horseshoe Bay  Express,54780
+143741,257horseshoebayexp,13690562,10:31:27,8653,257 Horseshoe Bay  Express,60909
+143742,257horseshoebayexp,13690562,10:47:00,4608,257 Horseshoe Bay  Express,54556
+143743,257horseshoebayexp,13690563,10:25:00,11534,257 Horseshoe Bay  Express,59558
+143744,257horseshoebayexp,13690563,10:26:18,9129,257 Horseshoe Bay  Express,54445
+143745,257horseshoebayexp,13690563,10:27:06,12948,257 Horseshoe Bay  Express,60665
+143746,257horseshoebayexp,13690563,10:30:17,1487,257 Horseshoe Bay  Express,51475
+143747,257horseshoebayexp,13690563,10:43:00,4491,257 Horseshoe Bay  Express,54441
+143748,257horseshoebayexp,13690563,10:44:33,4832,257 Horseshoe Bay  Express,54780
+143749,257horseshoebayexp,13690563,10:46:27,8653,257 Horseshoe Bay  Express,60909
+143750,257horseshoebayexp,13690563,11:02:00,4608,257 Horseshoe Bay  Express,54556
+143751,257horseshoebayexp,13690564,10:40:00,11534,257 Horseshoe Bay  Express,59558
+143752,257horseshoebayexp,13690564,10:41:18,9129,257 Horseshoe Bay  Express,54445
+143753,257horseshoebayexp,13690564,10:42:06,12948,257 Horseshoe Bay  Express,60665
+143754,257horseshoebayexp,13690564,10:45:17,1487,257 Horseshoe Bay  Express,51475
+143755,257horseshoebayexp,13690564,10:58:00,4491,257 Horseshoe Bay  Express,54441
+143756,257horseshoebayexp,13690564,10:59:33,4832,257 Horseshoe Bay  Express,54780
+143757,257horseshoebayexp,13690564,11:01:27,8653,257 Horseshoe Bay  Express,60909
+143758,257horseshoebayexp,13690564,11:17:00,4608,257 Horseshoe Bay  Express,54556
+143759,257horseshoebayexp,13690565,10:55:00,11534,257 Horseshoe Bay  Express,59558
+143760,257horseshoebayexp,13690565,10:56:18,9129,257 Horseshoe Bay  Express,54445
+143761,257horseshoebayexp,13690565,10:57:06,12948,257 Horseshoe Bay  Express,60665
+143762,257horseshoebayexp,13690565,11:00:17,1487,257 Horseshoe Bay  Express,51475
+143763,257horseshoebayexp,13690565,11:13:00,4491,257 Horseshoe Bay  Express,54441
+143764,257horseshoebayexp,13690565,11:14:33,4832,257 Horseshoe Bay  Express,54780
+143765,257horseshoebayexp,13690565,11:16:27,8653,257 Horseshoe Bay  Express,60909
+143766,257horseshoebayexp,13690565,11:32:00,4608,257 Horseshoe Bay  Express,54556
+143767,257horseshoebayexp,13690566,11:10:00,11534,257 Horseshoe Bay  Express,59558
+143768,257horseshoebayexp,13690566,11:11:18,9129,257 Horseshoe Bay  Express,54445
+143769,257horseshoebayexp,13690566,11:12:06,12948,257 Horseshoe Bay  Express,60665
+143770,257horseshoebayexp,13690566,11:15:17,1487,257 Horseshoe Bay  Express,51475
+143771,257horseshoebayexp,13690566,11:28:00,4491,257 Horseshoe Bay  Express,54441
+143772,257horseshoebayexp,13690566,11:29:33,4832,257 Horseshoe Bay  Express,54780
+143773,257horseshoebayexp,13690566,11:31:27,8653,257 Horseshoe Bay  Express,60909
+143774,257horseshoebayexp,13690566,11:47:00,4608,257 Horseshoe Bay  Express,54556
+143775,257horseshoebayexp,13690567,11:25:00,11534,257 Horseshoe Bay  Express,59558
+143776,257horseshoebayexp,13690567,11:26:18,9129,257 Horseshoe Bay  Express,54445
+143777,257horseshoebayexp,13690567,11:27:06,12948,257 Horseshoe Bay  Express,60665
+143778,257horseshoebayexp,13690567,11:30:17,1487,257 Horseshoe Bay  Express,51475
+143779,257horseshoebayexp,13690567,11:43:00,4491,257 Horseshoe Bay  Express,54441
+143780,257horseshoebayexp,13690567,11:44:33,4832,257 Horseshoe Bay  Express,54780
+143781,257horseshoebayexp,13690567,11:46:27,8653,257 Horseshoe Bay  Express,60909
+143782,257horseshoebayexp,13690567,12:02:00,4608,257 Horseshoe Bay  Express,54556
+143783,257horseshoebayexp,13690568,11:40:00,11534,257 Horseshoe Bay  Express,59558
+143784,257horseshoebayexp,13690568,11:41:18,9129,257 Horseshoe Bay  Express,54445
+143785,257horseshoebayexp,13690568,11:42:06,12948,257 Horseshoe Bay  Express,60665
+143786,257horseshoebayexp,13690568,11:45:17,1487,257 Horseshoe Bay  Express,51475
+143787,257horseshoebayexp,13690568,11:58:00,4491,257 Horseshoe Bay  Express,54441
+143788,257horseshoebayexp,13690568,11:59:38,4832,257 Horseshoe Bay  Express,54780
+143789,257horseshoebayexp,13690568,12:01:39,8653,257 Horseshoe Bay  Express,60909
+143790,257horseshoebayexp,13690568,12:18:00,4608,257 Horseshoe Bay  Express,54556
+143791,257horseshoebayexp,13690569,11:55:00,11534,257 Horseshoe Bay  Express,59558
+143792,257horseshoebayexp,13690569,11:56:18,9129,257 Horseshoe Bay  Express,54445
+143793,257horseshoebayexp,13690569,11:57:06,12948,257 Horseshoe Bay  Express,60665
+143794,257horseshoebayexp,13690569,12:00:17,1487,257 Horseshoe Bay  Express,51475
+143795,257horseshoebayexp,13690569,12:13:00,4491,257 Horseshoe Bay  Express,54441
+143796,257horseshoebayexp,13690569,12:14:38,4832,257 Horseshoe Bay  Express,54780
+143797,257horseshoebayexp,13690569,12:16:39,8653,257 Horseshoe Bay  Express,60909
+143798,257horseshoebayexp,13690569,12:33:00,4608,257 Horseshoe Bay  Express,54556
+143799,257horseshoebayexp,13690570,12:10:00,11534,257 Horseshoe Bay  Express,59558
+143800,257horseshoebayexp,13690570,12:11:22,9129,257 Horseshoe Bay  Express,54445
+143801,257horseshoebayexp,13690570,12:12:12,12948,257 Horseshoe Bay  Express,60665
+143802,257horseshoebayexp,13690570,12:15:33,1487,257 Horseshoe Bay  Express,51475
+143803,257horseshoebayexp,13690570,12:29:00,4491,257 Horseshoe Bay  Express,54441
+143804,257horseshoebayexp,13690570,12:30:38,4832,257 Horseshoe Bay  Express,54780
+143805,257horseshoebayexp,13690570,12:32:39,8653,257 Horseshoe Bay  Express,60909
+143806,257horseshoebayexp,13690570,12:49:00,4608,257 Horseshoe Bay  Express,54556
+143807,257horseshoebayexp,13690571,12:25:00,11534,257 Horseshoe Bay  Express,59558
+143808,257horseshoebayexp,13690571,12:26:22,9129,257 Horseshoe Bay  Express,54445
+143809,257horseshoebayexp,13690571,12:27:12,12948,257 Horseshoe Bay  Express,60665
+143810,257horseshoebayexp,13690571,12:30:33,1487,257 Horseshoe Bay  Express,51475
+143811,257horseshoebayexp,13690571,12:44:00,4491,257 Horseshoe Bay  Express,54441
+143812,257horseshoebayexp,13690571,12:45:38,4832,257 Horseshoe Bay  Express,54780
+143813,257horseshoebayexp,13690571,12:47:39,8653,257 Horseshoe Bay  Express,60909
+143814,257horseshoebayexp,13690571,13:04:00,4608,257 Horseshoe Bay  Express,54556
+143815,257horseshoebayexp,13690572,12:40:00,11534,257 Horseshoe Bay  Express,59558
+143816,257horseshoebayexp,13690572,12:41:22,9129,257 Horseshoe Bay  Express,54445
+143817,257horseshoebayexp,13690572,12:42:12,12948,257 Horseshoe Bay  Express,60665
+143818,257horseshoebayexp,13690572,12:45:33,1487,257 Horseshoe Bay  Express,51475
+143819,257horseshoebayexp,13690572,12:59:00,4491,257 Horseshoe Bay  Express,54441
+143820,257horseshoebayexp,13690572,13:00:38,4832,257 Horseshoe Bay  Express,54780
+143821,257horseshoebayexp,13690572,13:02:39,8653,257 Horseshoe Bay  Express,60909
+143822,257horseshoebayexp,13690572,13:19:00,4608,257 Horseshoe Bay  Express,54556
+143823,257horseshoebayexp,13690573,12:55:00,11534,257 Horseshoe Bay  Express,59558
+143824,257horseshoebayexp,13690573,12:56:22,9129,257 Horseshoe Bay  Express,54445
+143825,257horseshoebayexp,13690573,12:57:12,12948,257 Horseshoe Bay  Express,60665
+143826,257horseshoebayexp,13690573,13:00:33,1487,257 Horseshoe Bay  Express,51475
+143827,257horseshoebayexp,13690573,13:14:00,4491,257 Horseshoe Bay  Express,54441
+143828,257horseshoebayexp,13690573,13:15:38,4832,257 Horseshoe Bay  Express,54780
+143829,257horseshoebayexp,13690573,13:17:39,8653,257 Horseshoe Bay  Express,60909
+143830,257horseshoebayexp,13690573,13:34:00,4608,257 Horseshoe Bay  Express,54556
+143831,257horseshoebayexp,13690574,13:10:00,11534,257 Horseshoe Bay  Express,59558
+143832,257horseshoebayexp,13690574,13:11:22,9129,257 Horseshoe Bay  Express,54445
+143833,257horseshoebayexp,13690574,13:12:12,12948,257 Horseshoe Bay  Express,60665
+143834,257horseshoebayexp,13690574,13:15:33,1487,257 Horseshoe Bay  Express,51475
+143835,257horseshoebayexp,13690574,13:29:00,4491,257 Horseshoe Bay  Express,54441
+143836,257horseshoebayexp,13690574,13:30:38,4832,257 Horseshoe Bay  Express,54780
+143837,257horseshoebayexp,13690574,13:32:39,8653,257 Horseshoe Bay  Express,60909
+143838,257horseshoebayexp,13690574,13:49:00,4608,257 Horseshoe Bay  Express,54556
+143839,257horseshoebayexp,13690575,13:25:00,11534,257 Horseshoe Bay  Express,59558
+143840,257horseshoebayexp,13690575,13:26:22,9129,257 Horseshoe Bay  Express,54445
+143841,257horseshoebayexp,13690575,13:27:12,12948,257 Horseshoe Bay  Express,60665
+143842,257horseshoebayexp,13690575,13:30:33,1487,257 Horseshoe Bay  Express,51475
+143843,257horseshoebayexp,13690575,13:44:00,4491,257 Horseshoe Bay  Express,54441
+143844,257horseshoebayexp,13690575,13:45:38,4832,257 Horseshoe Bay  Express,54780
+143845,257horseshoebayexp,13690575,13:47:39,8653,257 Horseshoe Bay  Express,60909
+143846,257horseshoebayexp,13690575,14:04:00,4608,257 Horseshoe Bay  Express,54556
+143847,257horseshoebayexp,13690576,13:40:00,11534,257 Horseshoe Bay  Express,59558
+143848,257horseshoebayexp,13690576,13:41:22,9129,257 Horseshoe Bay  Express,54445
+143849,257horseshoebayexp,13690576,13:42:12,12948,257 Horseshoe Bay  Express,60665
+143850,257horseshoebayexp,13690576,13:45:33,1487,257 Horseshoe Bay  Express,51475
+143851,257horseshoebayexp,13690576,13:59:00,4491,257 Horseshoe Bay  Express,54441
+143852,257horseshoebayexp,13690576,14:00:38,4832,257 Horseshoe Bay  Express,54780
+143853,257horseshoebayexp,13690576,14:02:39,8653,257 Horseshoe Bay  Express,60909
+143854,257horseshoebayexp,13690576,14:19:00,4608,257 Horseshoe Bay  Express,54556
+143855,257horseshoebayexp,13690577,13:55:00,11534,257 Horseshoe Bay  Express,59558
+143856,257horseshoebayexp,13690577,13:56:22,9129,257 Horseshoe Bay  Express,54445
+143857,257horseshoebayexp,13690577,13:57:12,12948,257 Horseshoe Bay  Express,60665
+143858,257horseshoebayexp,13690577,14:00:33,1487,257 Horseshoe Bay  Express,51475
+143859,257horseshoebayexp,13690577,14:14:00,4491,257 Horseshoe Bay  Express,54441
+143860,257horseshoebayexp,13690577,14:15:38,4832,257 Horseshoe Bay  Express,54780
+143861,257horseshoebayexp,13690577,14:17:39,8653,257 Horseshoe Bay  Express,60909
+143862,257horseshoebayexp,13690577,14:34:00,4608,257 Horseshoe Bay  Express,54556
+143863,257horseshoebayexp,13690578,14:10:00,11534,257 Horseshoe Bay  Express,59558
+143864,257horseshoebayexp,13690578,14:11:22,9129,257 Horseshoe Bay  Express,54445
+143865,257horseshoebayexp,13690578,14:12:12,12948,257 Horseshoe Bay  Express,60665
+143866,257horseshoebayexp,13690578,14:15:33,1487,257 Horseshoe Bay  Express,51475
+143867,257horseshoebayexp,13690578,14:29:00,4491,257 Horseshoe Bay  Express,54441
+143868,257horseshoebayexp,13690578,14:30:38,4832,257 Horseshoe Bay  Express,54780
+143869,257horseshoebayexp,13690578,14:32:39,8653,257 Horseshoe Bay  Express,60909
+143870,257horseshoebayexp,13690578,14:49:00,4608,257 Horseshoe Bay  Express,54556
+143871,257horseshoebayexp,13690579,14:25:00,11534,257 Horseshoe Bay  Express,59558
+143872,257horseshoebayexp,13690579,14:26:22,9129,257 Horseshoe Bay  Express,54445
+143873,257horseshoebayexp,13690579,14:27:12,12948,257 Horseshoe Bay  Express,60665
+143874,257horseshoebayexp,13690579,14:30:33,1487,257 Horseshoe Bay  Express,51475
+143875,257horseshoebayexp,13690579,14:44:00,4491,257 Horseshoe Bay  Express,54441
+143876,257horseshoebayexp,13690579,14:45:38,4832,257 Horseshoe Bay  Express,54780
+143877,257horseshoebayexp,13690579,14:47:39,8653,257 Horseshoe Bay  Express,60909
+143878,257horseshoebayexp,13690579,15:04:00,4608,257 Horseshoe Bay  Express,54556
+143879,257horseshoebayexp,13690580,14:40:00,11534,257 Horseshoe Bay  Express,59558
+143880,257horseshoebayexp,13690580,14:41:22,9129,257 Horseshoe Bay  Express,54445
+143881,257horseshoebayexp,13690580,14:42:12,12948,257 Horseshoe Bay  Express,60665
+143882,257horseshoebayexp,13690580,14:45:33,1487,257 Horseshoe Bay  Express,51475
+143883,257horseshoebayexp,13690580,14:59:00,4491,257 Horseshoe Bay  Express,54441
+143884,257horseshoebayexp,13690580,15:00:38,4832,257 Horseshoe Bay  Express,54780
+143885,257horseshoebayexp,13690580,15:02:39,8653,257 Horseshoe Bay  Express,60909
+143886,257horseshoebayexp,13690580,15:19:00,4608,257 Horseshoe Bay  Express,54556
+143887,257horseshoebayexp,13690581,14:55:00,11534,257 Horseshoe Bay  Express,59558
+143888,257horseshoebayexp,13690581,14:56:22,9129,257 Horseshoe Bay  Express,54445
+143889,257horseshoebayexp,13690581,14:57:12,12948,257 Horseshoe Bay  Express,60665
+143890,257horseshoebayexp,13690581,15:00:33,1487,257 Horseshoe Bay  Express,51475
+143891,257horseshoebayexp,13690581,15:14:00,4491,257 Horseshoe Bay  Express,54441
+143892,257horseshoebayexp,13690581,15:15:38,4832,257 Horseshoe Bay  Express,54780
+143893,257horseshoebayexp,13690581,15:17:39,8653,257 Horseshoe Bay  Express,60909
+143894,257horseshoebayexp,13690581,15:34:00,4608,257 Horseshoe Bay  Express,54556
+143895,257horseshoebayexp,13690582,15:10:00,11534,257 Horseshoe Bay  Express,59558
+143896,257horseshoebayexp,13690582,15:11:22,9129,257 Horseshoe Bay  Express,54445
+143897,257horseshoebayexp,13690582,15:12:12,12948,257 Horseshoe Bay  Express,60665
+143898,257horseshoebayexp,13690582,15:15:33,1487,257 Horseshoe Bay  Express,51475
+143899,257horseshoebayexp,13690582,15:29:00,4491,257 Horseshoe Bay  Express,54441
+143900,257horseshoebayexp,13690582,15:30:38,4832,257 Horseshoe Bay  Express,54780
+143901,257horseshoebayexp,13690582,15:32:39,8653,257 Horseshoe Bay  Express,60909
+143902,257horseshoebayexp,13690582,15:49:00,4608,257 Horseshoe Bay  Express,54556
+143903,257horseshoebayexp,13690583,15:25:00,11534,257 Horseshoe Bay  Express,59558
+143904,257horseshoebayexp,13690583,15:26:22,9129,257 Horseshoe Bay  Express,54445
+143905,257horseshoebayexp,13690583,15:27:12,12948,257 Horseshoe Bay  Express,60665
+143906,257horseshoebayexp,13690583,15:30:33,1487,257 Horseshoe Bay  Express,51475
+143907,257horseshoebayexp,13690583,15:44:00,4491,257 Horseshoe Bay  Express,54441
+143908,257horseshoebayexp,13690583,15:45:38,4832,257 Horseshoe Bay  Express,54780
+143909,257horseshoebayexp,13690583,15:47:39,8653,257 Horseshoe Bay  Express,60909
+143910,257horseshoebayexp,13690583,16:04:00,4608,257 Horseshoe Bay  Express,54556
+143911,257horseshoebayexp,13690584,15:40:00,11534,257 Horseshoe Bay  Express,59558
+143912,257horseshoebayexp,13690584,15:41:31,9129,257 Horseshoe Bay  Express,54445
+143913,257horseshoebayexp,13690584,15:42:27,12948,257 Horseshoe Bay  Express,60665
+143914,257horseshoebayexp,13690584,15:46:09,1487,257 Horseshoe Bay  Express,51475
+143915,257horseshoebayexp,13690584,16:01:00,4491,257 Horseshoe Bay  Express,54441
+143916,257horseshoebayexp,13690584,16:02:38,4832,257 Horseshoe Bay  Express,54780
+143917,257horseshoebayexp,13690584,16:04:39,8653,257 Horseshoe Bay  Express,60909
+143918,257horseshoebayexp,13690584,16:21:00,4608,257 Horseshoe Bay  Express,54556
+143919,257horseshoebayexp,13690585,15:55:00,11534,257 Horseshoe Bay  Express,59558
+143920,257horseshoebayexp,13690585,15:56:31,9129,257 Horseshoe Bay  Express,54445
+143921,257horseshoebayexp,13690585,15:57:27,12948,257 Horseshoe Bay  Express,60665
+143922,257horseshoebayexp,13690585,16:01:09,1487,257 Horseshoe Bay  Express,51475
+143923,257horseshoebayexp,13690585,16:16:00,4491,257 Horseshoe Bay  Express,54441
+143924,257horseshoebayexp,13690585,16:17:38,4832,257 Horseshoe Bay  Express,54780
+143925,257horseshoebayexp,13690585,16:19:39,8653,257 Horseshoe Bay  Express,60909
+143926,257horseshoebayexp,13690585,16:36:00,4608,257 Horseshoe Bay  Express,54556
+143927,257horseshoebayexp,13690586,16:10:00,11534,257 Horseshoe Bay  Express,59558
+143928,257horseshoebayexp,13690586,16:11:31,9129,257 Horseshoe Bay  Express,54445
+143929,257horseshoebayexp,13690586,16:12:27,12948,257 Horseshoe Bay  Express,60665
+143930,257horseshoebayexp,13690586,16:16:09,1487,257 Horseshoe Bay  Express,51475
+143931,257horseshoebayexp,13690586,16:31:00,4491,257 Horseshoe Bay  Express,54441
+143932,257horseshoebayexp,13690586,16:32:38,4832,257 Horseshoe Bay  Express,54780
+143933,257horseshoebayexp,13690586,16:34:39,8653,257 Horseshoe Bay  Express,60909
+143934,257horseshoebayexp,13690586,16:51:00,4608,257 Horseshoe Bay  Express,54556
+143935,257horseshoebayexp,13690587,16:25:00,11534,257 Horseshoe Bay  Express,59558
+143936,257horseshoebayexp,13690587,16:26:31,9129,257 Horseshoe Bay  Express,54445
+143937,257horseshoebayexp,13690587,16:27:27,12948,257 Horseshoe Bay  Express,60665
+143938,257horseshoebayexp,13690587,16:31:09,1487,257 Horseshoe Bay  Express,51475
+143939,257horseshoebayexp,13690587,16:46:00,4491,257 Horseshoe Bay  Express,54441
+143940,257horseshoebayexp,13690587,16:47:38,4832,257 Horseshoe Bay  Express,54780
+143941,257horseshoebayexp,13690587,16:49:39,8653,257 Horseshoe Bay  Express,60909
+143942,257horseshoebayexp,13690587,17:06:00,4608,257 Horseshoe Bay  Express,54556
+143943,257horseshoebayexp,13690588,16:40:00,11534,257 Horseshoe Bay  Express,59558
+143944,257horseshoebayexp,13690588,16:41:31,9129,257 Horseshoe Bay  Express,54445
+143945,257horseshoebayexp,13690588,16:42:27,12948,257 Horseshoe Bay  Express,60665
+143946,257horseshoebayexp,13690588,16:46:09,1487,257 Horseshoe Bay  Express,51475
+143947,257horseshoebayexp,13690588,17:01:00,4491,257 Horseshoe Bay  Express,54441
+143948,257horseshoebayexp,13690588,17:02:38,4832,257 Horseshoe Bay  Express,54780
+143949,257horseshoebayexp,13690588,17:04:39,8653,257 Horseshoe Bay  Express,60909
+143950,257horseshoebayexp,13690588,17:21:00,4608,257 Horseshoe Bay  Express,54556
+143951,257horseshoebayexp,13690589,16:55:00,11534,257 Horseshoe Bay  Express,59558
+143952,257horseshoebayexp,13690589,16:56:31,9129,257 Horseshoe Bay  Express,54445
+143953,257horseshoebayexp,13690589,16:57:27,12948,257 Horseshoe Bay  Express,60665
+143954,257horseshoebayexp,13690589,17:01:09,1487,257 Horseshoe Bay  Express,51475
+143955,257horseshoebayexp,13690589,17:16:00,4491,257 Horseshoe Bay  Express,54441
+143956,257horseshoebayexp,13690589,17:17:38,4832,257 Horseshoe Bay  Express,54780
+143957,257horseshoebayexp,13690589,17:19:39,8653,257 Horseshoe Bay  Express,60909
+143958,257horseshoebayexp,13690589,17:36:00,4608,257 Horseshoe Bay  Express,54556
+143959,257horseshoebayexp,13690590,17:10:00,11534,257 Horseshoe Bay  Express,59558
+143960,257horseshoebayexp,13690590,17:11:22,9129,257 Horseshoe Bay  Express,54445
+143961,257horseshoebayexp,13690590,17:12:12,12948,257 Horseshoe Bay  Express,60665
+143962,257horseshoebayexp,13690590,17:15:33,1487,257 Horseshoe Bay  Express,51475
+143963,257horseshoebayexp,13690590,17:29:00,4491,257 Horseshoe Bay  Express,54441
+143964,257horseshoebayexp,13690590,17:30:33,4832,257 Horseshoe Bay  Express,54780
+143965,257horseshoebayexp,13690590,17:32:27,8653,257 Horseshoe Bay  Express,60909
+143966,257horseshoebayexp,13690590,17:48:00,4608,257 Horseshoe Bay  Express,54556
+143967,257horseshoebayexp,13690591,17:25:00,11534,257 Horseshoe Bay  Express,59558
+143968,257horseshoebayexp,13690591,17:26:22,9129,257 Horseshoe Bay  Express,54445
+143969,257horseshoebayexp,13690591,17:27:12,12948,257 Horseshoe Bay  Express,60665
+143970,257horseshoebayexp,13690591,17:30:33,1487,257 Horseshoe Bay  Express,51475
+143971,257horseshoebayexp,13690591,17:44:00,4491,257 Horseshoe Bay  Express,54441
+143972,257horseshoebayexp,13690591,17:45:33,4832,257 Horseshoe Bay  Express,54780
+143973,257horseshoebayexp,13690591,17:47:27,8653,257 Horseshoe Bay  Express,60909
+143974,257horseshoebayexp,13690591,18:03:00,4608,257 Horseshoe Bay  Express,54556
+143975,257horseshoebayexp,13690592,17:40:00,11534,257 Horseshoe Bay  Express,59558
+143976,257horseshoebayexp,13690592,17:41:22,9129,257 Horseshoe Bay  Express,54445
+143977,257horseshoebayexp,13690592,17:42:12,12948,257 Horseshoe Bay  Express,60665
+143978,257horseshoebayexp,13690592,17:45:33,1487,257 Horseshoe Bay  Express,51475
+143979,257horseshoebayexp,13690592,17:59:00,4491,257 Horseshoe Bay  Express,54441
+143980,257horseshoebayexp,13690592,18:00:33,4832,257 Horseshoe Bay  Express,54780
+143981,257horseshoebayexp,13690592,18:02:27,8653,257 Horseshoe Bay  Express,60909
+143982,257horseshoebayexp,13690592,18:18:00,4608,257 Horseshoe Bay  Express,54556
+143983,257horseshoebayexp,13690593,17:55:00,11534,257 Horseshoe Bay  Express,59558
+143984,257horseshoebayexp,13690593,17:56:22,9129,257 Horseshoe Bay  Express,54445
+143985,257horseshoebayexp,13690593,17:57:12,12948,257 Horseshoe Bay  Express,60665
+143986,257horseshoebayexp,13690593,18:00:33,1487,257 Horseshoe Bay  Express,51475
+143987,257horseshoebayexp,13690593,18:14:00,4491,257 Horseshoe Bay  Express,54441
+143988,257horseshoebayexp,13690593,18:15:33,4832,257 Horseshoe Bay  Express,54780
+143989,257horseshoebayexp,13690593,18:17:27,8653,257 Horseshoe Bay  Express,60909
+143990,257horseshoebayexp,13690593,18:33:00,4608,257 Horseshoe Bay  Express,54556
+143991,257horseshoebayexp,13690594,18:10:00,11534,257 Horseshoe Bay  Express,59558
+143992,257horseshoebayexp,13690594,18:11:22,9129,257 Horseshoe Bay  Express,54445
+143993,257horseshoebayexp,13690594,18:12:12,12948,257 Horseshoe Bay  Express,60665
+143994,257horseshoebayexp,13690594,18:15:33,1487,257 Horseshoe Bay  Express,51475
+143995,257horseshoebayexp,13690594,18:29:00,4491,257 Horseshoe Bay  Express,54441
+143996,257horseshoebayexp,13690594,18:30:33,4832,257 Horseshoe Bay  Express,54780
+143997,257horseshoebayexp,13690594,18:32:27,8653,257 Horseshoe Bay  Express,60909
+143998,257horseshoebayexp,13690594,18:48:00,4608,257 Horseshoe Bay  Express,54556
+143999,257horseshoebayexp,13690595,18:25:00,11534,257 Horseshoe Bay  Express,59558
+144000,257horseshoebayexp,13690595,18:26:22,9129,257 Horseshoe Bay  Express,54445
+144001,257horseshoebayexp,13690595,18:27:12,12948,257 Horseshoe Bay  Express,60665
+144002,257horseshoebayexp,13690595,18:30:33,1487,257 Horseshoe Bay  Express,51475
+144003,257horseshoebayexp,13690595,18:44:00,4491,257 Horseshoe Bay  Express,54441
+144004,257horseshoebayexp,13690595,18:45:33,4832,257 Horseshoe Bay  Express,54780
+144005,257horseshoebayexp,13690595,18:47:27,8653,257 Horseshoe Bay  Express,60909
+144006,257horseshoebayexp,13690595,19:03:00,4608,257 Horseshoe Bay  Express,54556
+144007,257horseshoebayexp,13690596,18:45:00,11534,257 Horseshoe Bay  Express,59558
+144008,257horseshoebayexp,13690596,18:46:18,9129,257 Horseshoe Bay  Express,54445
+144009,257horseshoebayexp,13690596,18:47:06,12948,257 Horseshoe Bay  Express,60665
+144010,257horseshoebayexp,13690596,18:50:17,1487,257 Horseshoe Bay  Express,51475
+144011,257horseshoebayexp,13690596,19:03:00,4491,257 Horseshoe Bay  Express,54441
+144012,257horseshoebayexp,13690596,19:04:33,4832,257 Horseshoe Bay  Express,54780
+144013,257horseshoebayexp,13690596,19:06:27,8653,257 Horseshoe Bay  Express,60909
+144014,257horseshoebayexp,13690596,19:22:00,4608,257 Horseshoe Bay  Express,54556
+144015,257horseshoebayexp,13690597,19:05:00,11534,257 Horseshoe Bay  Express,59558
+144016,257horseshoebayexp,13690597,19:06:14,9129,257 Horseshoe Bay  Express,54445
+144017,257horseshoebayexp,13690597,19:06:59,12948,257 Horseshoe Bay  Express,60665
+144018,257horseshoebayexp,13690597,19:09:59,1487,257 Horseshoe Bay  Express,51475
+144019,257horseshoebayexp,13690597,19:22:00,4491,257 Horseshoe Bay  Express,54441
+144020,257horseshoebayexp,13690597,19:23:33,4832,257 Horseshoe Bay  Express,54780
+144021,257horseshoebayexp,13690597,19:25:27,8653,257 Horseshoe Bay  Express,60909
+144022,257horseshoebayexp,13690597,19:41:00,4608,257 Horseshoe Bay  Express,54556
+144023,257horseshoebayexp,13690598,19:25:00,11534,257 Horseshoe Bay  Express,59558
+144024,257horseshoebayexp,13690598,19:26:14,9129,257 Horseshoe Bay  Express,54445
+144025,257horseshoebayexp,13690598,19:26:59,12948,257 Horseshoe Bay  Express,60665
+144026,257horseshoebayexp,13690598,19:29:59,1487,257 Horseshoe Bay  Express,51475
+144027,257horseshoebayexp,13690598,19:42:00,4491,257 Horseshoe Bay  Express,54441
+144028,257horseshoebayexp,13690598,19:43:33,4832,257 Horseshoe Bay  Express,54780
+144029,257horseshoebayexp,13690598,19:45:27,8653,257 Horseshoe Bay  Express,60909
+144030,257horseshoebayexp,13690598,20:01:00,4608,257 Horseshoe Bay  Express,54556
+144031,257horseshoebayexp,13690599,19:45:00,11534,257 Horseshoe Bay  Express,59558
+144032,257horseshoebayexp,13690599,19:46:14,9129,257 Horseshoe Bay  Express,54445
+144033,257horseshoebayexp,13690599,19:46:59,12948,257 Horseshoe Bay  Express,60665
+144034,257horseshoebayexp,13690599,19:49:59,1487,257 Horseshoe Bay  Express,51475
+144035,257horseshoebayexp,13690599,20:02:00,4491,257 Horseshoe Bay  Express,54441
+144036,257horseshoebayexp,13690599,20:03:33,4832,257 Horseshoe Bay  Express,54780
+144037,257horseshoebayexp,13690599,20:05:27,8653,257 Horseshoe Bay  Express,60909
+144038,257horseshoebayexp,13690599,20:21:00,4608,257 Horseshoe Bay  Express,54556
+144039,257horseshoebayexp,13690600,20:05:00,11534,257 Horseshoe Bay  Express,59558
+144040,257horseshoebayexp,13690600,20:06:14,9129,257 Horseshoe Bay  Express,54445
+144041,257horseshoebayexp,13690600,20:06:59,12948,257 Horseshoe Bay  Express,60665
+144042,257horseshoebayexp,13690600,20:09:59,1487,257 Horseshoe Bay  Express,51475
+144043,257horseshoebayexp,13690600,20:22:00,4491,257 Horseshoe Bay  Express,54441
+144044,257horseshoebayexp,13690600,20:23:33,4832,257 Horseshoe Bay  Express,54780
+144045,257horseshoebayexp,13690600,20:25:27,8653,257 Horseshoe Bay  Express,60909
+144046,257horseshoebayexp,13690600,20:41:00,4608,257 Horseshoe Bay  Express,54556
+144047,257horseshoebayexp,13690601,20:30:00,11534,257 Horseshoe Bay  Express,59558
+144048,257horseshoebayexp,13690601,20:31:14,9129,257 Horseshoe Bay  Express,54445
+144049,257horseshoebayexp,13690601,20:31:59,12948,257 Horseshoe Bay  Express,60665
+144050,257horseshoebayexp,13690601,20:34:59,1487,257 Horseshoe Bay  Express,51475
+144051,257horseshoebayexp,13690601,20:47:00,4491,257 Horseshoe Bay  Express,54441
+144052,257horseshoebayexp,13690601,20:48:33,4832,257 Horseshoe Bay  Express,54780
+144053,257horseshoebayexp,13690601,20:50:27,8653,257 Horseshoe Bay  Express,60909
+144054,257horseshoebayexp,13690601,21:06:00,4608,257 Horseshoe Bay  Express,54556
+144055,257horseshoebayexp,13690602,21:00:00,11534,257 Horseshoe Bay  Express,59558
+144056,257horseshoebayexp,13690602,21:01:09,9129,257 Horseshoe Bay  Express,54445
+144057,257horseshoebayexp,13690602,21:01:51,12948,257 Horseshoe Bay  Express,60665
+144058,257horseshoebayexp,13690602,21:04:40,1487,257 Horseshoe Bay  Express,51475
+144059,257horseshoebayexp,13690602,21:16:00,4491,257 Horseshoe Bay  Express,54441
+144060,257horseshoebayexp,13690602,21:17:33,4832,257 Horseshoe Bay  Express,54780
+144061,257horseshoebayexp,13690602,21:19:27,8653,257 Horseshoe Bay  Express,60909
+144062,257horseshoebayexp,13690602,21:35:00,4608,257 Horseshoe Bay  Express,54556
+144063,257horseshoebayexp,13690603,22:02:00,11534,257 Horseshoe Bay  Express,59558
+144064,257horseshoebayexp,13690603,22:03:09,9129,257 Horseshoe Bay  Express,54445
+144065,257horseshoebayexp,13690603,22:03:51,12948,257 Horseshoe Bay  Express,60665
+144066,257horseshoebayexp,13690603,22:06:40,1487,257 Horseshoe Bay  Express,51475
+144067,257horseshoebayexp,13690603,22:18:00,4491,257 Horseshoe Bay  Express,54441
+144068,257horseshoebayexp,13690603,22:19:38,4832,257 Horseshoe Bay  Express,54780
+144069,257horseshoebayexp,13690603,22:21:39,8653,257 Horseshoe Bay  Express,60909
+144070,257horseshoebayexp,13690603,22:38:00,4608,257 Horseshoe Bay  Express,54556
+144071,257horseshoebayexp,13690660, 5:10:00,11534,257 Horseshoe Bay  Express,59558
+144072,257horseshoebayexp,13690660, 5:11:09,9129,257 Horseshoe Bay  Express,54445
+144073,257horseshoebayexp,13690660, 5:11:51,12948,257 Horseshoe Bay  Express,60665
+144074,257horseshoebayexp,13690660, 5:14:40,1487,257 Horseshoe Bay  Express,51475
+144075,257horseshoebayexp,13690660, 5:26:00,4491,257 Horseshoe Bay  Express,54441
+144076,257horseshoebayexp,13690660, 5:27:28,4832,257 Horseshoe Bay  Express,54780
+144077,257horseshoebayexp,13690660, 5:29:16,8653,257 Horseshoe Bay  Express,60909
+144078,257horseshoebayexp,13690660, 5:44:00,4608,257 Horseshoe Bay  Express,54556
+144079,257horseshoebayexp,13690661, 6:00:00,11534,257 Horseshoe Bay  Express,59558
+144080,257horseshoebayexp,13690661, 6:01:09,9129,257 Horseshoe Bay  Express,54445
+144081,257horseshoebayexp,13690661, 6:01:51,12948,257 Horseshoe Bay  Express,60665
+144082,257horseshoebayexp,13690661, 6:04:40,1487,257 Horseshoe Bay  Express,51475
+144083,257horseshoebayexp,13690661, 6:16:00,4491,257 Horseshoe Bay  Express,54441
+144084,257horseshoebayexp,13690661, 6:17:28,4832,257 Horseshoe Bay  Express,54780
+144085,257horseshoebayexp,13690661, 6:19:16,8653,257 Horseshoe Bay  Express,60909
+144086,257horseshoebayexp,13690661, 6:34:00,4608,257 Horseshoe Bay  Express,54556
+144087,257horseshoebayexp,13690662, 6:35:00,11534,257 Horseshoe Bay  Express,59558
+144088,257horseshoebayexp,13690662, 6:36:09,9129,257 Horseshoe Bay  Express,54445
+144089,257horseshoebayexp,13690662, 6:36:51,12948,257 Horseshoe Bay  Express,60665
+144090,257horseshoebayexp,13690662, 6:39:40,1487,257 Horseshoe Bay  Express,51475
+144091,257horseshoebayexp,13690662, 6:51:00,4491,257 Horseshoe Bay  Express,54441
+144092,257horseshoebayexp,13690662, 6:52:28,4832,257 Horseshoe Bay  Express,54780
+144093,257horseshoebayexp,13690662, 6:54:16,8653,257 Horseshoe Bay  Express,60909
+144094,257horseshoebayexp,13690662, 7:09:00,4608,257 Horseshoe Bay  Express,54556
+144095,257horseshoebayexp,13690663, 7:00:00,11534,257 Horseshoe Bay  Express,59558
+144096,257horseshoebayexp,13690663, 7:01:09,9129,257 Horseshoe Bay  Express,54445
+144097,257horseshoebayexp,13690663, 7:01:51,12948,257 Horseshoe Bay  Express,60665
+144098,257horseshoebayexp,13690663, 7:04:40,1487,257 Horseshoe Bay  Express,51475
+144099,257horseshoebayexp,13690663, 7:16:00,4491,257 Horseshoe Bay  Express,54441
+144100,257horseshoebayexp,13690663, 7:17:28,4832,257 Horseshoe Bay  Express,54780
+144101,257horseshoebayexp,13690663, 7:19:16,8653,257 Horseshoe Bay  Express,60909
+144102,257horseshoebayexp,13690663, 7:34:00,4608,257 Horseshoe Bay  Express,54556
+144103,257horseshoebayexp,13690664, 7:30:00,11534,257 Horseshoe Bay  Express,59558
+144104,257horseshoebayexp,13690664, 7:31:09,9129,257 Horseshoe Bay  Express,54445
+144105,257horseshoebayexp,13690664, 7:31:51,12948,257 Horseshoe Bay  Express,60665
+144106,257horseshoebayexp,13690664, 7:34:40,1487,257 Horseshoe Bay  Express,51475
+144107,257horseshoebayexp,13690664, 7:46:00,4491,257 Horseshoe Bay  Express,54441
+144108,257horseshoebayexp,13690664, 7:47:28,4832,257 Horseshoe Bay  Express,54780
+144109,257horseshoebayexp,13690664, 7:49:16,8653,257 Horseshoe Bay  Express,60909
+144110,257horseshoebayexp,13690664, 8:04:00,4608,257 Horseshoe Bay  Express,54556
+144111,257horseshoebayexp,13690665, 7:55:00,11534,257 Horseshoe Bay  Express,59558
+144112,257horseshoebayexp,13690665, 7:56:09,9129,257 Horseshoe Bay  Express,54445
+144113,257horseshoebayexp,13690665, 7:56:51,12948,257 Horseshoe Bay  Express,60665
+144114,257horseshoebayexp,13690665, 7:59:40,1487,257 Horseshoe Bay  Express,51475
+144115,257horseshoebayexp,13690665, 8:11:00,4491,257 Horseshoe Bay  Express,54441
+144116,257horseshoebayexp,13690665, 8:12:28,4832,257 Horseshoe Bay  Express,54780
+144117,257horseshoebayexp,13690665, 8:14:16,8653,257 Horseshoe Bay  Express,60909
+144118,257horseshoebayexp,13690665, 8:29:00,4608,257 Horseshoe Bay  Express,54556
+144119,257horseshoebayexp,13690666, 8:15:00,11534,257 Horseshoe Bay  Express,59558
+144120,257horseshoebayexp,13690666, 8:16:09,9129,257 Horseshoe Bay  Express,54445
+144121,257horseshoebayexp,13690666, 8:16:51,12948,257 Horseshoe Bay  Express,60665
+144122,257horseshoebayexp,13690666, 8:19:40,1487,257 Horseshoe Bay  Express,51475
+144123,257horseshoebayexp,13690666, 8:31:00,4491,257 Horseshoe Bay  Express,54441
+144124,257horseshoebayexp,13690666, 8:32:28,4832,257 Horseshoe Bay  Express,54780
+144125,257horseshoebayexp,13690666, 8:34:16,8653,257 Horseshoe Bay  Express,60909
+144126,257horseshoebayexp,13690666, 8:49:00,4608,257 Horseshoe Bay  Express,54556
+144127,257horseshoebayexp,13690667, 8:35:00,11534,257 Horseshoe Bay  Express,59558
+144128,257horseshoebayexp,13690667, 8:36:09,9129,257 Horseshoe Bay  Express,54445
+144129,257horseshoebayexp,13690667, 8:36:51,12948,257 Horseshoe Bay  Express,60665
+144130,257horseshoebayexp,13690667, 8:39:40,1487,257 Horseshoe Bay  Express,51475
+144131,257horseshoebayexp,13690667, 8:51:00,4491,257 Horseshoe Bay  Express,54441
+144132,257horseshoebayexp,13690667, 8:52:28,4832,257 Horseshoe Bay  Express,54780
+144133,257horseshoebayexp,13690667, 8:54:16,8653,257 Horseshoe Bay  Express,60909
+144134,257horseshoebayexp,13690667, 9:09:00,4608,257 Horseshoe Bay  Express,54556
+144135,257horseshoebayexp,13690668, 8:55:00,11534,257 Horseshoe Bay  Express,59558
+144136,257horseshoebayexp,13690668, 8:56:09,9129,257 Horseshoe Bay  Express,54445
+144137,257horseshoebayexp,13690668, 8:56:51,12948,257 Horseshoe Bay  Express,60665
+144138,257horseshoebayexp,13690668, 8:59:40,1487,257 Horseshoe Bay  Express,51475
+144139,257horseshoebayexp,13690668, 9:11:00,4491,257 Horseshoe Bay  Express,54441
+144140,257horseshoebayexp,13690668, 9:12:28,4832,257 Horseshoe Bay  Express,54780
+144141,257horseshoebayexp,13690668, 9:14:16,8653,257 Horseshoe Bay  Express,60909
+144142,257horseshoebayexp,13690668, 9:29:00,4608,257 Horseshoe Bay  Express,54556
+144143,257horseshoebayexp,13690669, 9:15:00,11534,257 Horseshoe Bay  Express,59558
+144144,257horseshoebayexp,13690669, 9:16:14,9129,257 Horseshoe Bay  Express,54445
+144145,257horseshoebayexp,13690669, 9:16:59,12948,257 Horseshoe Bay  Express,60665
+144146,257horseshoebayexp,13690669, 9:19:59,1487,257 Horseshoe Bay  Express,51475
+144147,257horseshoebayexp,13690669, 9:32:00,4491,257 Horseshoe Bay  Express,54441
+144148,257horseshoebayexp,13690669, 9:33:33,4832,257 Horseshoe Bay  Express,54780
+144149,257horseshoebayexp,13690669, 9:35:27,8653,257 Horseshoe Bay  Express,60909
+144150,257horseshoebayexp,13690669, 9:51:00,4608,257 Horseshoe Bay  Express,54556
+144151,257horseshoebayexp,13690670, 9:35:00,11534,257 Horseshoe Bay  Express,59558
+144152,257horseshoebayexp,13690670, 9:36:14,9129,257 Horseshoe Bay  Express,54445
+144153,257horseshoebayexp,13690670, 9:36:59,12948,257 Horseshoe Bay  Express,60665
+144154,257horseshoebayexp,13690670, 9:39:59,1487,257 Horseshoe Bay  Express,51475
+144155,257horseshoebayexp,13690670, 9:52:00,4491,257 Horseshoe Bay  Express,54441
+144156,257horseshoebayexp,13690670, 9:53:33,4832,257 Horseshoe Bay  Express,54780
+144157,257horseshoebayexp,13690670, 9:55:27,8653,257 Horseshoe Bay  Express,60909
+144158,257horseshoebayexp,13690670,10:11:00,4608,257 Horseshoe Bay  Express,54556
+144159,257horseshoebayexp,13690671, 9:55:00,11534,257 Horseshoe Bay  Express,59558
+144160,257horseshoebayexp,13690671, 9:56:14,9129,257 Horseshoe Bay  Express,54445
+144161,257horseshoebayexp,13690671, 9:56:59,12948,257 Horseshoe Bay  Express,60665
+144162,257horseshoebayexp,13690671, 9:59:59,1487,257 Horseshoe Bay  Express,51475
+144163,257horseshoebayexp,13690671,10:12:00,4491,257 Horseshoe Bay  Express,54441
+144164,257horseshoebayexp,13690671,10:13:33,4832,257 Horseshoe Bay  Express,54780
+144165,257horseshoebayexp,13690671,10:15:27,8653,257 Horseshoe Bay  Express,60909
+144166,257horseshoebayexp,13690671,10:31:00,4608,257 Horseshoe Bay  Express,54556
+144167,257horseshoebayexp,13690672,10:15:00,11534,257 Horseshoe Bay  Express,59558
+144168,257horseshoebayexp,13690672,10:16:18,9129,257 Horseshoe Bay  Express,54445
+144169,257horseshoebayexp,13690672,10:17:06,12948,257 Horseshoe Bay  Express,60665
+144170,257horseshoebayexp,13690672,10:20:17,1487,257 Horseshoe Bay  Express,51475
+144171,257horseshoebayexp,13690672,10:33:00,4491,257 Horseshoe Bay  Express,54441
+144172,257horseshoebayexp,13690672,10:34:43,4832,257 Horseshoe Bay  Express,54780
+144173,257horseshoebayexp,13690672,10:36:50,8653,257 Horseshoe Bay  Express,60909
+144174,257horseshoebayexp,13690672,10:54:00,4608,257 Horseshoe Bay  Express,54556
+144175,257horseshoebayexp,13690673,10:35:00,11534,257 Horseshoe Bay  Express,59558
+144176,257horseshoebayexp,13690673,10:36:18,9129,257 Horseshoe Bay  Express,54445
+144177,257horseshoebayexp,13690673,10:37:06,12948,257 Horseshoe Bay  Express,60665
+144178,257horseshoebayexp,13690673,10:40:17,1487,257 Horseshoe Bay  Express,51475
+144179,257horseshoebayexp,13690673,10:53:00,4491,257 Horseshoe Bay  Express,54441
+144180,257horseshoebayexp,13690673,10:54:43,4832,257 Horseshoe Bay  Express,54780
+144181,257horseshoebayexp,13690673,10:56:50,8653,257 Horseshoe Bay  Express,60909
+144182,257horseshoebayexp,13690673,11:14:00,4608,257 Horseshoe Bay  Express,54556
+144183,257horseshoebayexp,13690674,10:55:00,11534,257 Horseshoe Bay  Express,59558
+144184,257horseshoebayexp,13690674,10:56:18,9129,257 Horseshoe Bay  Express,54445
+144185,257horseshoebayexp,13690674,10:57:06,12948,257 Horseshoe Bay  Express,60665
+144186,257horseshoebayexp,13690674,11:00:17,1487,257 Horseshoe Bay  Express,51475
+144187,257horseshoebayexp,13690674,11:13:00,4491,257 Horseshoe Bay  Express,54441
+144188,257horseshoebayexp,13690674,11:14:43,4832,257 Horseshoe Bay  Express,54780
+144189,257horseshoebayexp,13690674,11:16:50,8653,257 Horseshoe Bay  Express,60909
+144190,257horseshoebayexp,13690674,11:34:00,4608,257 Horseshoe Bay  Express,54556
+144191,257horseshoebayexp,13690675,11:15:00,11534,257 Horseshoe Bay  Express,59558
+144192,257horseshoebayexp,13690675,11:16:22,9129,257 Horseshoe Bay  Express,54445
+144193,257horseshoebayexp,13690675,11:17:12,12948,257 Horseshoe Bay  Express,60665
+144194,257horseshoebayexp,13690675,11:20:33,1487,257 Horseshoe Bay  Express,51475
+144195,257horseshoebayexp,13690675,11:34:00,4491,257 Horseshoe Bay  Express,54441
+144196,257horseshoebayexp,13690675,11:35:43,4832,257 Horseshoe Bay  Express,54780
+144197,257horseshoebayexp,13690675,11:37:50,8653,257 Horseshoe Bay  Express,60909
+144198,257horseshoebayexp,13690675,11:55:00,4608,257 Horseshoe Bay  Express,54556
+144199,257horseshoebayexp,13690676,11:35:00,11534,257 Horseshoe Bay  Express,59558
+144200,257horseshoebayexp,13690676,11:36:22,9129,257 Horseshoe Bay  Express,54445
+144201,257horseshoebayexp,13690676,11:37:12,12948,257 Horseshoe Bay  Express,60665
+144202,257horseshoebayexp,13690676,11:40:33,1487,257 Horseshoe Bay  Express,51475
+144203,257horseshoebayexp,13690676,11:54:00,4491,257 Horseshoe Bay  Express,54441
+144204,257horseshoebayexp,13690676,11:55:43,4832,257 Horseshoe Bay  Express,54780
+144205,257horseshoebayexp,13690676,11:57:50,8653,257 Horseshoe Bay  Express,60909
+144206,257horseshoebayexp,13690676,12:15:00,4608,257 Horseshoe Bay  Express,54556
+144207,257horseshoebayexp,13690677,11:55:00,11534,257 Horseshoe Bay  Express,59558
+144208,257horseshoebayexp,13690677,11:56:22,9129,257 Horseshoe Bay  Express,54445
+144209,257horseshoebayexp,13690677,11:57:12,12948,257 Horseshoe Bay  Express,60665
+144210,257horseshoebayexp,13690677,12:00:33,1487,257 Horseshoe Bay  Express,51475
+144211,257horseshoebayexp,13690677,12:14:00,4491,257 Horseshoe Bay  Express,54441
+144212,257horseshoebayexp,13690677,12:15:43,4832,257 Horseshoe Bay  Express,54780
+144213,257horseshoebayexp,13690677,12:17:50,8653,257 Horseshoe Bay  Express,60909
+144214,257horseshoebayexp,13690677,12:35:00,4608,257 Horseshoe Bay  Express,54556
+144215,257horseshoebayexp,13690678,12:10:00,11534,257 Horseshoe Bay  Express,59558
+144216,257horseshoebayexp,13690678,12:11:22,9129,257 Horseshoe Bay  Express,54445
+144217,257horseshoebayexp,13690678,12:12:12,12948,257 Horseshoe Bay  Express,60665
+144218,257horseshoebayexp,13690678,12:15:33,1487,257 Horseshoe Bay  Express,51475
+144219,257horseshoebayexp,13690678,12:29:00,4491,257 Horseshoe Bay  Express,54441
+144220,257horseshoebayexp,13690678,12:30:43,4832,257 Horseshoe Bay  Express,54780
+144221,257horseshoebayexp,13690678,12:32:50,8653,257 Horseshoe Bay  Express,60909
+144222,257horseshoebayexp,13690678,12:50:00,4608,257 Horseshoe Bay  Express,54556
+144223,257horseshoebayexp,13690679,12:35:00,11534,257 Horseshoe Bay  Express,59558
+144224,257horseshoebayexp,13690679,12:36:22,9129,257 Horseshoe Bay  Express,54445
+144225,257horseshoebayexp,13690679,12:37:12,12948,257 Horseshoe Bay  Express,60665
+144226,257horseshoebayexp,13690679,12:40:33,1487,257 Horseshoe Bay  Express,51475
+144227,257horseshoebayexp,13690679,12:54:00,4491,257 Horseshoe Bay  Express,54441
+144228,257horseshoebayexp,13690679,12:55:43,4832,257 Horseshoe Bay  Express,54780
+144229,257horseshoebayexp,13690679,12:57:50,8653,257 Horseshoe Bay  Express,60909
+144230,257horseshoebayexp,13690679,13:15:00,4608,257 Horseshoe Bay  Express,54556
+144231,257horseshoebayexp,13690680,12:55:00,11534,257 Horseshoe Bay  Express,59558
+144232,257horseshoebayexp,13690680,12:56:22,9129,257 Horseshoe Bay  Express,54445
+144233,257horseshoebayexp,13690680,12:57:12,12948,257 Horseshoe Bay  Express,60665
+144234,257horseshoebayexp,13690680,13:00:33,1487,257 Horseshoe Bay  Express,51475
+144235,257horseshoebayexp,13690680,13:14:00,4491,257 Horseshoe Bay  Express,54441
+144236,257horseshoebayexp,13690680,13:15:43,4832,257 Horseshoe Bay  Express,54780
+144237,257horseshoebayexp,13690680,13:17:50,8653,257 Horseshoe Bay  Express,60909
+144238,257horseshoebayexp,13690680,13:35:00,4608,257 Horseshoe Bay  Express,54556
+144239,257horseshoebayexp,13690681,13:12:00,11534,257 Horseshoe Bay  Express,59558
+144240,257horseshoebayexp,13690681,13:13:22,9129,257 Horseshoe Bay  Express,54445
+144241,257horseshoebayexp,13690681,13:14:12,12948,257 Horseshoe Bay  Express,60665
+144242,257horseshoebayexp,13690681,13:17:33,1487,257 Horseshoe Bay  Express,51475
+144243,257horseshoebayexp,13690681,13:31:00,4491,257 Horseshoe Bay  Express,54441
+144244,257horseshoebayexp,13690681,13:32:43,4832,257 Horseshoe Bay  Express,54780
+144245,257horseshoebayexp,13690681,13:34:50,8653,257 Horseshoe Bay  Express,60909
+144246,257horseshoebayexp,13690681,13:52:00,4608,257 Horseshoe Bay  Express,54556
+144247,257horseshoebayexp,13690682,13:27:00,11534,257 Horseshoe Bay  Express,59558
+144248,257horseshoebayexp,13690682,13:28:22,9129,257 Horseshoe Bay  Express,54445
+144249,257horseshoebayexp,13690682,13:29:12,12948,257 Horseshoe Bay  Express,60665
+144250,257horseshoebayexp,13690682,13:32:33,1487,257 Horseshoe Bay  Express,51475
+144251,257horseshoebayexp,13690682,13:46:00,4491,257 Horseshoe Bay  Express,54441
+144252,257horseshoebayexp,13690682,13:47:43,4832,257 Horseshoe Bay  Express,54780
+144253,257horseshoebayexp,13690682,13:49:50,8653,257 Horseshoe Bay  Express,60909
+144254,257horseshoebayexp,13690682,14:07:00,4608,257 Horseshoe Bay  Express,54556
+144255,257horseshoebayexp,13690683,13:42:00,11534,257 Horseshoe Bay  Express,59558
+144256,257horseshoebayexp,13690683,13:43:22,9129,257 Horseshoe Bay  Express,54445
+144257,257horseshoebayexp,13690683,13:44:12,12948,257 Horseshoe Bay  Express,60665
+144258,257horseshoebayexp,13690683,13:47:33,1487,257 Horseshoe Bay  Express,51475
+144259,257horseshoebayexp,13690683,14:01:00,4491,257 Horseshoe Bay  Express,54441
+144260,257horseshoebayexp,13690683,14:02:43,4832,257 Horseshoe Bay  Express,54780
+144261,257horseshoebayexp,13690683,14:04:50,8653,257 Horseshoe Bay  Express,60909
+144262,257horseshoebayexp,13690683,14:22:00,4608,257 Horseshoe Bay  Express,54556
+144263,257horseshoebayexp,13690684,13:57:00,11534,257 Horseshoe Bay  Express,59558
+144264,257horseshoebayexp,13690684,13:58:22,9129,257 Horseshoe Bay  Express,54445
+144265,257horseshoebayexp,13690684,13:59:12,12948,257 Horseshoe Bay  Express,60665
+144266,257horseshoebayexp,13690684,14:02:33,1487,257 Horseshoe Bay  Express,51475
+144267,257horseshoebayexp,13690684,14:16:00,4491,257 Horseshoe Bay  Express,54441
+144268,257horseshoebayexp,13690684,14:17:43,4832,257 Horseshoe Bay  Express,54780
+144269,257horseshoebayexp,13690684,14:19:50,8653,257 Horseshoe Bay  Express,60909
+144270,257horseshoebayexp,13690684,14:37:00,4608,257 Horseshoe Bay  Express,54556
+144271,257horseshoebayexp,13690685,14:12:00,11534,257 Horseshoe Bay  Express,59558
+144272,257horseshoebayexp,13690685,14:13:22,9129,257 Horseshoe Bay  Express,54445
+144273,257horseshoebayexp,13690685,14:14:12,12948,257 Horseshoe Bay  Express,60665
+144274,257horseshoebayexp,13690685,14:17:33,1487,257 Horseshoe Bay  Express,51475
+144275,257horseshoebayexp,13690685,14:31:00,4491,257 Horseshoe Bay  Express,54441
+144276,257horseshoebayexp,13690685,14:32:43,4832,257 Horseshoe Bay  Express,54780
+144277,257horseshoebayexp,13690685,14:34:50,8653,257 Horseshoe Bay  Express,60909
+144278,257horseshoebayexp,13690685,14:52:00,4608,257 Horseshoe Bay  Express,54556
+144279,257horseshoebayexp,13690686,14:26:00,11534,257 Horseshoe Bay  Express,59558
+144280,257horseshoebayexp,13690686,14:27:22,9129,257 Horseshoe Bay  Express,54445
+144281,257horseshoebayexp,13690686,14:28:12,12948,257 Horseshoe Bay  Express,60665
+144282,257horseshoebayexp,13690686,14:31:33,1487,257 Horseshoe Bay  Express,51475
+144283,257horseshoebayexp,13690686,14:45:00,4491,257 Horseshoe Bay  Express,54441
+144284,257horseshoebayexp,13690686,14:46:43,4832,257 Horseshoe Bay  Express,54780
+144285,257horseshoebayexp,13690686,14:48:50,8653,257 Horseshoe Bay  Express,60909
+144286,257horseshoebayexp,13690686,15:06:00,4608,257 Horseshoe Bay  Express,54556
+144287,257horseshoebayexp,13690687,14:27:00,11534,257 Horseshoe Bay  Express,59558
+144288,257horseshoebayexp,13690687,14:28:22,9129,257 Horseshoe Bay  Express,54445
+144289,257horseshoebayexp,13690687,14:29:12,12948,257 Horseshoe Bay  Express,60665
+144290,257horseshoebayexp,13690687,14:32:33,1487,257 Horseshoe Bay  Express,51475
+144291,257horseshoebayexp,13690687,14:46:00,4491,257 Horseshoe Bay  Express,54441
+144292,257horseshoebayexp,13690687,14:47:43,4832,257 Horseshoe Bay  Express,54780
+144293,257horseshoebayexp,13690687,14:49:50,8653,257 Horseshoe Bay  Express,60909
+144294,257horseshoebayexp,13690687,15:07:00,4608,257 Horseshoe Bay  Express,54556
+144295,257horseshoebayexp,13690688,14:42:00,11534,257 Horseshoe Bay  Express,59558
+144296,257horseshoebayexp,13690688,14:43:22,9129,257 Horseshoe Bay  Express,54445
+144297,257horseshoebayexp,13690688,14:44:12,12948,257 Horseshoe Bay  Express,60665
+144298,257horseshoebayexp,13690688,14:47:33,1487,257 Horseshoe Bay  Express,51475
+144299,257horseshoebayexp,13690688,15:01:00,4491,257 Horseshoe Bay  Express,54441
+144300,257horseshoebayexp,13690688,15:02:43,4832,257 Horseshoe Bay  Express,54780
+144301,257horseshoebayexp,13690688,15:04:50,8653,257 Horseshoe Bay  Express,60909
+144302,257horseshoebayexp,13690688,15:22:00,4608,257 Horseshoe Bay  Express,54556
+144303,257horseshoebayexp,13690689,15:00:00,11534,257 Horseshoe Bay  Express,59558
+144304,257horseshoebayexp,13690689,15:01:22,9129,257 Horseshoe Bay  Express,54445
+144305,257horseshoebayexp,13690689,15:02:12,12948,257 Horseshoe Bay  Express,60665
+144306,257horseshoebayexp,13690689,15:05:33,1487,257 Horseshoe Bay  Express,51475
+144307,257horseshoebayexp,13690689,15:19:00,4491,257 Horseshoe Bay  Express,54441
+144308,257horseshoebayexp,13690689,15:20:43,4832,257 Horseshoe Bay  Express,54780
+144309,257horseshoebayexp,13690689,15:22:50,8653,257 Horseshoe Bay  Express,60909
+144310,257horseshoebayexp,13690689,15:40:00,4608,257 Horseshoe Bay  Express,54556
+144311,257horseshoebayexp,13690690,15:15:00,11534,257 Horseshoe Bay  Express,59558
+144312,257horseshoebayexp,13690690,15:16:22,9129,257 Horseshoe Bay  Express,54445
+144313,257horseshoebayexp,13690690,15:17:12,12948,257 Horseshoe Bay  Express,60665
+144314,257horseshoebayexp,13690690,15:20:33,1487,257 Horseshoe Bay  Express,51475
+144315,257horseshoebayexp,13690690,15:34:00,4491,257 Horseshoe Bay  Express,54441
+144316,257horseshoebayexp,13690690,15:35:43,4832,257 Horseshoe Bay  Express,54780
+144317,257horseshoebayexp,13690690,15:37:50,8653,257 Horseshoe Bay  Express,60909
+144318,257horseshoebayexp,13690690,15:55:00,4608,257 Horseshoe Bay  Express,54556
+144319,257horseshoebayexp,13690691,15:30:00,11534,257 Horseshoe Bay  Express,59558
+144320,257horseshoebayexp,13690691,15:31:22,9129,257 Horseshoe Bay  Express,54445
+144321,257horseshoebayexp,13690691,15:32:12,12948,257 Horseshoe Bay  Express,60665
+144322,257horseshoebayexp,13690691,15:35:33,1487,257 Horseshoe Bay  Express,51475
+144323,257horseshoebayexp,13690691,15:49:00,4491,257 Horseshoe Bay  Express,54441
+144324,257horseshoebayexp,13690691,15:50:43,4832,257 Horseshoe Bay  Express,54780
+144325,257horseshoebayexp,13690691,15:52:50,8653,257 Horseshoe Bay  Express,60909
+144326,257horseshoebayexp,13690691,16:10:00,4608,257 Horseshoe Bay  Express,54556
+144327,257horseshoebayexp,13690692,15:45:00,11534,257 Horseshoe Bay  Express,59558
+144328,257horseshoebayexp,13690692,15:46:22,9129,257 Horseshoe Bay  Express,54445
+144329,257horseshoebayexp,13690692,15:47:12,12948,257 Horseshoe Bay  Express,60665
+144330,257horseshoebayexp,13690692,15:50:33,1487,257 Horseshoe Bay  Express,51475
+144331,257horseshoebayexp,13690692,16:04:00,4491,257 Horseshoe Bay  Express,54441
+144332,257horseshoebayexp,13690692,16:05:43,4832,257 Horseshoe Bay  Express,54780
+144333,257horseshoebayexp,13690692,16:07:50,8653,257 Horseshoe Bay  Express,60909
+144334,257horseshoebayexp,13690692,16:25:00,4608,257 Horseshoe Bay  Express,54556
+144335,257horseshoebayexp,13690693,16:00:00,11534,257 Horseshoe Bay  Express,59558
+144336,257horseshoebayexp,13690693,16:01:14,9129,257 Horseshoe Bay  Express,54445
+144337,257horseshoebayexp,13690693,16:01:59,12948,257 Horseshoe Bay  Express,60665
+144338,257horseshoebayexp,13690693,16:04:59,1487,257 Horseshoe Bay  Express,51475
+144339,257horseshoebayexp,13690693,16:17:00,4491,257 Horseshoe Bay  Express,54441
+144340,257horseshoebayexp,13690693,16:18:43,4832,257 Horseshoe Bay  Express,54780
+144341,257horseshoebayexp,13690693,16:20:50,8653,257 Horseshoe Bay  Express,60909
+144342,257horseshoebayexp,13690693,16:38:00,4608,257 Horseshoe Bay  Express,54556
+144343,257horseshoebayexp,13690694,16:08:00,11534,257 Horseshoe Bay  Express,59558
+144344,257horseshoebayexp,13690694,16:09:14,9129,257 Horseshoe Bay  Express,54445
+144345,257horseshoebayexp,13690694,16:09:59,12948,257 Horseshoe Bay  Express,60665
+144346,257horseshoebayexp,13690694,16:12:59,1487,257 Horseshoe Bay  Express,51475
+144347,257horseshoebayexp,13690694,16:25:00,4491,257 Horseshoe Bay  Express,54441
+144348,257horseshoebayexp,13690694,16:26:43,4832,257 Horseshoe Bay  Express,54780
+144349,257horseshoebayexp,13690694,16:28:50,8653,257 Horseshoe Bay  Express,60909
+144350,257horseshoebayexp,13690694,16:46:00,4608,257 Horseshoe Bay  Express,54556
+144351,257horseshoebayexp,13690695,16:15:00,11534,257 Horseshoe Bay  Express,59558
+144352,257horseshoebayexp,13690695,16:16:14,9129,257 Horseshoe Bay  Express,54445
+144353,257horseshoebayexp,13690695,16:16:59,12948,257 Horseshoe Bay  Express,60665
+144354,257horseshoebayexp,13690695,16:19:59,1487,257 Horseshoe Bay  Express,51475
+144355,257horseshoebayexp,13690695,16:32:00,4491,257 Horseshoe Bay  Express,54441
+144356,257horseshoebayexp,13690695,16:33:43,4832,257 Horseshoe Bay  Express,54780
+144357,257horseshoebayexp,13690695,16:35:50,8653,257 Horseshoe Bay  Express,60909
+144358,257horseshoebayexp,13690695,16:53:00,4608,257 Horseshoe Bay  Express,54556
+144359,257horseshoebayexp,13690696,16:30:00,11534,257 Horseshoe Bay  Express,59558
+144360,257horseshoebayexp,13690696,16:31:14,9129,257 Horseshoe Bay  Express,54445
+144361,257horseshoebayexp,13690696,16:31:59,12948,257 Horseshoe Bay  Express,60665
+144362,257horseshoebayexp,13690696,16:34:59,1487,257 Horseshoe Bay  Express,51475
+144363,257horseshoebayexp,13690696,16:47:00,4491,257 Horseshoe Bay  Express,54441
+144364,257horseshoebayexp,13690696,16:48:43,4832,257 Horseshoe Bay  Express,54780
+144365,257horseshoebayexp,13690696,16:50:50,8653,257 Horseshoe Bay  Express,60909
+144366,257horseshoebayexp,13690696,17:08:00,4608,257 Horseshoe Bay  Express,54556
+144367,257horseshoebayexp,13690697,16:45:00,11534,257 Horseshoe Bay  Express,59558
+144368,257horseshoebayexp,13690697,16:46:14,9129,257 Horseshoe Bay  Express,54445
+144369,257horseshoebayexp,13690697,16:46:59,12948,257 Horseshoe Bay  Express,60665
+144370,257horseshoebayexp,13690697,16:49:59,1487,257 Horseshoe Bay  Express,51475
+144371,257horseshoebayexp,13690697,17:02:00,4491,257 Horseshoe Bay  Express,54441
+144372,257horseshoebayexp,13690697,17:03:43,4832,257 Horseshoe Bay  Express,54780
+144373,257horseshoebayexp,13690697,17:05:50,8653,257 Horseshoe Bay  Express,60909
+144374,257horseshoebayexp,13690697,17:23:00,4608,257 Horseshoe Bay  Express,54556
+144375,257horseshoebayexp,13690698,17:00:00,11534,257 Horseshoe Bay  Express,59558
+144376,257horseshoebayexp,13690698,17:01:14,9129,257 Horseshoe Bay  Express,54445
+144377,257horseshoebayexp,13690698,17:01:59,12948,257 Horseshoe Bay  Express,60665
+144378,257horseshoebayexp,13690698,17:04:59,1487,257 Horseshoe Bay  Express,51475
+144379,257horseshoebayexp,13690698,17:17:00,4491,257 Horseshoe Bay  Express,54441
+144380,257horseshoebayexp,13690698,17:18:43,4832,257 Horseshoe Bay  Express,54780
+144381,257horseshoebayexp,13690698,17:20:50,8653,257 Horseshoe Bay  Express,60909
+144382,257horseshoebayexp,13690698,17:38:00,4608,257 Horseshoe Bay  Express,54556
+144383,257horseshoebayexp,13690699,17:15:00,11534,257 Horseshoe Bay  Express,59558
+144384,257horseshoebayexp,13690699,17:16:14,9129,257 Horseshoe Bay  Express,54445
+144385,257horseshoebayexp,13690699,17:16:59,12948,257 Horseshoe Bay  Express,60665
+144386,257horseshoebayexp,13690699,17:19:59,1487,257 Horseshoe Bay  Express,51475
+144387,257horseshoebayexp,13690699,17:32:00,4491,257 Horseshoe Bay  Express,54441
+144388,257horseshoebayexp,13690699,17:33:43,4832,257 Horseshoe Bay  Express,54780
+144389,257horseshoebayexp,13690699,17:35:50,8653,257 Horseshoe Bay  Express,60909
+144390,257horseshoebayexp,13690699,17:53:00,4608,257 Horseshoe Bay  Express,54556
+144391,257horseshoebayexp,13690700,17:30:00,11534,257 Horseshoe Bay  Express,59558
+144392,257horseshoebayexp,13690700,17:31:14,9129,257 Horseshoe Bay  Express,54445
+144393,257horseshoebayexp,13690700,17:31:59,12948,257 Horseshoe Bay  Express,60665
+144394,257horseshoebayexp,13690700,17:34:59,1487,257 Horseshoe Bay  Express,51475
+144395,257horseshoebayexp,13690700,17:47:00,4491,257 Horseshoe Bay  Express,54441
+144396,257horseshoebayexp,13690700,17:48:43,4832,257 Horseshoe Bay  Express,54780
+144397,257horseshoebayexp,13690700,17:50:50,8653,257 Horseshoe Bay  Express,60909
+144398,257horseshoebayexp,13690700,18:08:00,4608,257 Horseshoe Bay  Express,54556
+144399,257horseshoebayexp,13690701,17:45:00,11534,257 Horseshoe Bay  Express,59558
+144400,257horseshoebayexp,13690701,17:46:14,9129,257 Horseshoe Bay  Express,54445
+144401,257horseshoebayexp,13690701,17:46:59,12948,257 Horseshoe Bay  Express,60665
+144402,257horseshoebayexp,13690701,17:49:59,1487,257 Horseshoe Bay  Express,51475
+144403,257horseshoebayexp,13690701,18:02:00,4491,257 Horseshoe Bay  Express,54441
+144404,257horseshoebayexp,13690701,18:03:43,4832,257 Horseshoe Bay  Express,54780
+144405,257horseshoebayexp,13690701,18:05:50,8653,257 Horseshoe Bay  Express,60909
+144406,257horseshoebayexp,13690701,18:23:00,4608,257 Horseshoe Bay  Express,54556
+144407,257horseshoebayexp,13690702,18:00:00,11534,257 Horseshoe Bay  Express,59558
+144408,257horseshoebayexp,13690702,18:01:14,9129,257 Horseshoe Bay  Express,54445
+144409,257horseshoebayexp,13690702,18:01:59,12948,257 Horseshoe Bay  Express,60665
+144410,257horseshoebayexp,13690702,18:04:59,1487,257 Horseshoe Bay  Express,51475
+144411,257horseshoebayexp,13690702,18:17:00,4491,257 Horseshoe Bay  Express,54441
+144412,257horseshoebayexp,13690702,18:18:33,4832,257 Horseshoe Bay  Express,54780
+144413,257horseshoebayexp,13690702,18:20:27,8653,257 Horseshoe Bay  Express,60909
+144414,257horseshoebayexp,13690702,18:36:00,4608,257 Horseshoe Bay  Express,54556
+144415,257horseshoebayexp,13690703,18:10:00,11534,257 Horseshoe Bay  Express,59558
+144416,257horseshoebayexp,13690703,18:11:14,9129,257 Horseshoe Bay  Express,54445
+144417,257horseshoebayexp,13690703,18:11:59,12948,257 Horseshoe Bay  Express,60665
+144418,257horseshoebayexp,13690703,18:14:59,1487,257 Horseshoe Bay  Express,51475
+144419,257horseshoebayexp,13690703,18:27:00,4491,257 Horseshoe Bay  Express,54441
+144420,257horseshoebayexp,13690703,18:28:33,4832,257 Horseshoe Bay  Express,54780
+144421,257horseshoebayexp,13690703,18:30:27,8653,257 Horseshoe Bay  Express,60909
+144422,257horseshoebayexp,13690703,18:46:00,4608,257 Horseshoe Bay  Express,54556
+144423,257horseshoebayexp,13690704,18:15:00,11534,257 Horseshoe Bay  Express,59558
+144424,257horseshoebayexp,13690704,18:16:14,9129,257 Horseshoe Bay  Express,54445
+144425,257horseshoebayexp,13690704,18:16:59,12948,257 Horseshoe Bay  Express,60665
+144426,257horseshoebayexp,13690704,18:19:59,1487,257 Horseshoe Bay  Express,51475
+144427,257horseshoebayexp,13690704,18:32:00,4491,257 Horseshoe Bay  Express,54441
+144428,257horseshoebayexp,13690704,18:33:33,4832,257 Horseshoe Bay  Express,54780
+144429,257horseshoebayexp,13690704,18:35:27,8653,257 Horseshoe Bay  Express,60909
+144430,257horseshoebayexp,13690704,18:51:00,4608,257 Horseshoe Bay  Express,54556
+144431,257horseshoebayexp,13690705,18:30:00,11534,257 Horseshoe Bay  Express,59558
+144432,257horseshoebayexp,13690705,18:31:09,9129,257 Horseshoe Bay  Express,54445
+144433,257horseshoebayexp,13690705,18:31:51,12948,257 Horseshoe Bay  Express,60665
+144434,257horseshoebayexp,13690705,18:34:40,1487,257 Horseshoe Bay  Express,51475
+144435,257horseshoebayexp,13690705,18:46:00,4491,257 Horseshoe Bay  Express,54441
+144436,257horseshoebayexp,13690705,18:47:28,4832,257 Horseshoe Bay  Express,54780
+144437,257horseshoebayexp,13690705,18:49:16,8653,257 Horseshoe Bay  Express,60909
+144438,257horseshoebayexp,13690705,19:04:00,4608,257 Horseshoe Bay  Express,54556
+144439,257horseshoebayexp,13690706,18:45:00,11534,257 Horseshoe Bay  Express,59558
+144440,257horseshoebayexp,13690706,18:46:09,9129,257 Horseshoe Bay  Express,54445
+144441,257horseshoebayexp,13690706,18:46:51,12948,257 Horseshoe Bay  Express,60665
+144442,257horseshoebayexp,13690706,18:49:40,1487,257 Horseshoe Bay  Express,51475
+144443,257horseshoebayexp,13690706,19:01:00,4491,257 Horseshoe Bay  Express,54441
+144444,257horseshoebayexp,13690706,19:02:28,4832,257 Horseshoe Bay  Express,54780
+144445,257horseshoebayexp,13690706,19:04:16,8653,257 Horseshoe Bay  Express,60909
+144446,257horseshoebayexp,13690706,19:19:00,4608,257 Horseshoe Bay  Express,54556
+144447,257horseshoebayexp,13690707,19:05:00,11534,257 Horseshoe Bay  Express,59558
+144448,257horseshoebayexp,13690707,19:06:09,9129,257 Horseshoe Bay  Express,54445
+144449,257horseshoebayexp,13690707,19:06:51,12948,257 Horseshoe Bay  Express,60665
+144450,257horseshoebayexp,13690707,19:09:40,1487,257 Horseshoe Bay  Express,51475
+144451,257horseshoebayexp,13690707,19:21:00,4491,257 Horseshoe Bay  Express,54441
+144452,257horseshoebayexp,13690707,19:22:28,4832,257 Horseshoe Bay  Express,54780
+144453,257horseshoebayexp,13690707,19:24:16,8653,257 Horseshoe Bay  Express,60909
+144454,257horseshoebayexp,13690707,19:39:00,4608,257 Horseshoe Bay  Express,54556
+144455,257horseshoebayexp,13690708,19:25:00,11534,257 Horseshoe Bay  Express,59558
+144456,257horseshoebayexp,13690708,19:26:09,9129,257 Horseshoe Bay  Express,54445
+144457,257horseshoebayexp,13690708,19:26:51,12948,257 Horseshoe Bay  Express,60665
+144458,257horseshoebayexp,13690708,19:29:40,1487,257 Horseshoe Bay  Express,51475
+144459,257horseshoebayexp,13690708,19:41:00,4491,257 Horseshoe Bay  Express,54441
+144460,257horseshoebayexp,13690708,19:42:28,4832,257 Horseshoe Bay  Express,54780
+144461,257horseshoebayexp,13690708,19:44:16,8653,257 Horseshoe Bay  Express,60909
+144462,257horseshoebayexp,13690708,19:59:00,4608,257 Horseshoe Bay  Express,54556
+144463,257horseshoebayexp,13690709,19:45:00,11534,257 Horseshoe Bay  Express,59558
+144464,257horseshoebayexp,13690709,19:46:09,9129,257 Horseshoe Bay  Express,54445
+144465,257horseshoebayexp,13690709,19:46:51,12948,257 Horseshoe Bay  Express,60665
+144466,257horseshoebayexp,13690709,19:49:40,1487,257 Horseshoe Bay  Express,51475
+144467,257horseshoebayexp,13690709,20:01:00,4491,257 Horseshoe Bay  Express,54441
+144468,257horseshoebayexp,13690709,20:02:28,4832,257 Horseshoe Bay  Express,54780
+144469,257horseshoebayexp,13690709,20:04:16,8653,257 Horseshoe Bay  Express,60909
+144470,257horseshoebayexp,13690709,20:19:00,4608,257 Horseshoe Bay  Express,54556
+144471,257horseshoebayexp,13690710,20:05:00,11534,257 Horseshoe Bay  Express,59558
+144472,257horseshoebayexp,13690710,20:06:09,9129,257 Horseshoe Bay  Express,54445
+144473,257horseshoebayexp,13690710,20:06:51,12948,257 Horseshoe Bay  Express,60665
+144474,257horseshoebayexp,13690710,20:09:40,1487,257 Horseshoe Bay  Express,51475
+144475,257horseshoebayexp,13690710,20:21:00,4491,257 Horseshoe Bay  Express,54441
+144476,257horseshoebayexp,13690710,20:22:28,4832,257 Horseshoe Bay  Express,54780
+144477,257horseshoebayexp,13690710,20:24:16,8653,257 Horseshoe Bay  Express,60909
+144478,257horseshoebayexp,13690710,20:39:00,4608,257 Horseshoe Bay  Express,54556
+144479,257horseshoebayexp,13690711,20:25:00,11534,257 Horseshoe Bay  Express,59558
+144480,257horseshoebayexp,13690711,20:26:09,9129,257 Horseshoe Bay  Express,54445
+144481,257horseshoebayexp,13690711,20:26:51,12948,257 Horseshoe Bay  Express,60665
+144482,257horseshoebayexp,13690711,20:29:40,1487,257 Horseshoe Bay  Express,51475
+144483,257horseshoebayexp,13690711,20:41:00,4491,257 Horseshoe Bay  Express,54441
+144484,257horseshoebayexp,13690711,20:42:28,4832,257 Horseshoe Bay  Express,54780
+144485,257horseshoebayexp,13690711,20:44:16,8653,257 Horseshoe Bay  Express,60909
+144486,257horseshoebayexp,13690711,20:59:00,4608,257 Horseshoe Bay  Express,54556
+144487,257horseshoebayexp,13690712,20:45:00,11534,257 Horseshoe Bay  Express,59558
+144488,257horseshoebayexp,13690712,20:46:09,9129,257 Horseshoe Bay  Express,54445
+144489,257horseshoebayexp,13690712,20:46:51,12948,257 Horseshoe Bay  Express,60665
+144490,257horseshoebayexp,13690712,20:49:40,1487,257 Horseshoe Bay  Express,51475
+144491,257horseshoebayexp,13690712,21:01:00,4491,257 Horseshoe Bay  Express,54441
+144492,257horseshoebayexp,13690712,21:02:28,4832,257 Horseshoe Bay  Express,54780
+144493,257horseshoebayexp,13690712,21:04:16,8653,257 Horseshoe Bay  Express,60909
+144494,257horseshoebayexp,13690712,21:19:00,4608,257 Horseshoe Bay  Express,54556
+144495,257horseshoebayexp,13690713,21:05:00,11534,257 Horseshoe Bay  Express,59558
+144496,257horseshoebayexp,13690713,21:06:09,9129,257 Horseshoe Bay  Express,54445
+144497,257horseshoebayexp,13690713,21:06:51,12948,257 Horseshoe Bay  Express,60665
+144498,257horseshoebayexp,13690713,21:09:40,1487,257 Horseshoe Bay  Express,51475
+144499,257horseshoebayexp,13690713,21:21:00,4491,257 Horseshoe Bay  Express,54441
+144500,257horseshoebayexp,13690713,21:22:28,4832,257 Horseshoe Bay  Express,54780
+144501,257horseshoebayexp,13690713,21:24:16,8653,257 Horseshoe Bay  Express,60909
+144502,257horseshoebayexp,13690713,21:39:00,4608,257 Horseshoe Bay  Express,54556
+144503,257horseshoebayexp,13690714,21:35:00,11534,257 Horseshoe Bay  Express,59558
+144504,257horseshoebayexp,13690714,21:36:09,9129,257 Horseshoe Bay  Express,54445
+144505,257horseshoebayexp,13690714,21:36:51,12948,257 Horseshoe Bay  Express,60665
+144506,257horseshoebayexp,13690714,21:39:40,1487,257 Horseshoe Bay  Express,51475
+144507,257horseshoebayexp,13690714,21:51:00,4491,257 Horseshoe Bay  Express,54441
+144508,257horseshoebayexp,13690714,21:52:28,4832,257 Horseshoe Bay  Express,54780
+144509,257horseshoebayexp,13690714,21:54:16,8653,257 Horseshoe Bay  Express,60909
+144510,257horseshoebayexp,13690714,22:09:00,4608,257 Horseshoe Bay  Express,54556
+144511,257horseshoebayexp,13690715,22:05:00,11534,257 Horseshoe Bay  Express,59558
+144512,257horseshoebayexp,13690715,22:06:09,9129,257 Horseshoe Bay  Express,54445
+144513,257horseshoebayexp,13690715,22:06:51,12948,257 Horseshoe Bay  Express,60665
+144514,257horseshoebayexp,13690715,22:09:40,1487,257 Horseshoe Bay  Express,51475
+144515,257horseshoebayexp,13690715,22:21:00,4491,257 Horseshoe Bay  Express,54441
+144516,257horseshoebayexp,13690715,22:22:28,4832,257 Horseshoe Bay  Express,54780
+144517,257horseshoebayexp,13690715,22:24:16,8653,257 Horseshoe Bay  Express,60909
+144518,257horseshoebayexp,13690715,22:39:00,4608,257 Horseshoe Bay  Express,54556

@@ -1,0 +1,411 @@
+Unnamed: 0,Name,trip_id,arrival_time,stop_id,trip_headsign,stop_code
+146756,262lionsbaybruns,13723993,19:08:00,10328,262 Lions Bay- Brunswick,60887
+146757,262lionsbaybruns,13723993,19:15:00,4608,262 Lions Bay- Brunswick,54556
+146758,262lionsbaybruns,13723993,19:15:25,4609,262 Lions Bay- Brunswick,54557
+146759,262lionsbaybruns,13723993,19:15:46,8629,262 Lions Bay- Brunswick,54558
+146760,262lionsbaybruns,13723993,19:16:15,4611,262 Lions Bay- Brunswick,54559
+146761,262lionsbaybruns,13723993,19:19:32,11547,262 Lions Bay- Brunswick,61527
+146762,262lionsbaybruns,13723993,19:21:24,11233,262 Lions Bay- Brunswick,61316
+146763,262lionsbaybruns,13723993,19:29:07,11546,262 Lions Bay- Brunswick,61528
+146764,262lionsbaybruns,13723993,19:30:00,11549,262 Lions Bay- Brunswick,61530
+146765,262lionsbaybruns,13723993,19:33:00,11410,262 Lions Bay- Brunswick,61445
+146766,262lionsbaybruns,13723994, 6:27:00,10328,262 Lions Bay- Brunswick,60887
+146767,262lionsbaybruns,13723994, 6:34:00,4608,262 Lions Bay- Brunswick,54556
+146768,262lionsbaybruns,13723994, 6:34:20,4609,262 Lions Bay- Brunswick,54557
+146769,262lionsbaybruns,13723994, 6:34:36,8629,262 Lions Bay- Brunswick,54558
+146770,262lionsbaybruns,13723994, 6:34:59,4611,262 Lions Bay- Brunswick,54559
+146771,262lionsbaybruns,13723994, 6:37:36,11547,262 Lions Bay- Brunswick,61527
+146772,262lionsbaybruns,13723994, 6:39:06,11233,262 Lions Bay- Brunswick,61316
+146773,262lionsbaybruns,13723994, 6:45:17,11546,262 Lions Bay- Brunswick,61528
+146774,262lionsbaybruns,13723994, 6:46:00,11549,262 Lions Bay- Brunswick,61530
+146775,262lionsbaybruns,13723994, 6:48:00,11410,262 Lions Bay- Brunswick,61445
+146776,262lionsbaybruns,13723995,12:18:00,10328,262 Lions Bay- Brunswick,60887
+146777,262lionsbaybruns,13723995,12:25:00,4608,262 Lions Bay- Brunswick,54556
+146778,262lionsbaybruns,13723995,12:25:25,4609,262 Lions Bay- Brunswick,54557
+146779,262lionsbaybruns,13723995,12:25:46,8629,262 Lions Bay- Brunswick,54558
+146780,262lionsbaybruns,13723995,12:26:15,4611,262 Lions Bay- Brunswick,54559
+146781,262lionsbaybruns,13723995,12:29:32,11547,262 Lions Bay- Brunswick,61527
+146782,262lionsbaybruns,13723995,12:31:24,11233,262 Lions Bay- Brunswick,61316
+146783,262lionsbaybruns,13723995,12:39:07,11546,262 Lions Bay- Brunswick,61528
+146784,262lionsbaybruns,13723995,12:40:00,11549,262 Lions Bay- Brunswick,61530
+146785,262lionsbaybruns,13723995,12:43:00,11410,262 Lions Bay- Brunswick,61445
+146786,262lionsbaybruns,13723996,14:13:00,10328,262 Lions Bay- Brunswick,60887
+146787,262lionsbaybruns,13723996,14:20:00,4608,262 Lions Bay- Brunswick,54556
+146788,262lionsbaybruns,13723996,14:20:25,4609,262 Lions Bay- Brunswick,54557
+146789,262lionsbaybruns,13723996,14:20:46,8629,262 Lions Bay- Brunswick,54558
+146790,262lionsbaybruns,13723996,14:21:15,4611,262 Lions Bay- Brunswick,54559
+146791,262lionsbaybruns,13723996,14:24:32,11547,262 Lions Bay- Brunswick,61527
+146792,262lionsbaybruns,13723996,14:26:24,11233,262 Lions Bay- Brunswick,61316
+146793,262lionsbaybruns,13723996,14:34:07,11546,262 Lions Bay- Brunswick,61528
+146794,262lionsbaybruns,13723996,14:35:00,11549,262 Lions Bay- Brunswick,61530
+146795,262lionsbaybruns,13723996,14:38:00,11410,262 Lions Bay- Brunswick,61445
+146796,262lionsbaybruns,13723997,15:13:00,10328,262 Lions Bay- Brunswick,60887
+146797,262lionsbaybruns,13723997,15:20:00,4608,262 Lions Bay- Brunswick,54556
+146798,262lionsbaybruns,13723997,15:20:25,4609,262 Lions Bay- Brunswick,54557
+146799,262lionsbaybruns,13723997,15:20:46,8629,262 Lions Bay- Brunswick,54558
+146800,262lionsbaybruns,13723997,15:21:15,4611,262 Lions Bay- Brunswick,54559
+146801,262lionsbaybruns,13723997,15:24:32,11547,262 Lions Bay- Brunswick,61527
+146802,262lionsbaybruns,13723997,15:26:24,11233,262 Lions Bay- Brunswick,61316
+146803,262lionsbaybruns,13723997,15:34:07,11546,262 Lions Bay- Brunswick,61528
+146804,262lionsbaybruns,13723997,15:35:00,11549,262 Lions Bay- Brunswick,61530
+146805,262lionsbaybruns,13723997,15:38:00,11410,262 Lions Bay- Brunswick,61445
+146806,262lionsbaybruns,13723998,16:13:00,10328,262 Lions Bay- Brunswick,60887
+146807,262lionsbaybruns,13723998,16:20:00,4608,262 Lions Bay- Brunswick,54556
+146808,262lionsbaybruns,13723998,16:20:25,4609,262 Lions Bay- Brunswick,54557
+146809,262lionsbaybruns,13723998,16:20:46,8629,262 Lions Bay- Brunswick,54558
+146810,262lionsbaybruns,13723998,16:21:15,4611,262 Lions Bay- Brunswick,54559
+146811,262lionsbaybruns,13723998,16:24:32,11547,262 Lions Bay- Brunswick,61527
+146812,262lionsbaybruns,13723998,16:26:24,11233,262 Lions Bay- Brunswick,61316
+146813,262lionsbaybruns,13723998,16:34:07,11546,262 Lions Bay- Brunswick,61528
+146814,262lionsbaybruns,13723998,16:35:00,11549,262 Lions Bay- Brunswick,61530
+146815,262lionsbaybruns,13723998,16:38:00,11410,262 Lions Bay- Brunswick,61445
+146816,262lionsbaybruns,13723999,17:11:00,10328,262 Lions Bay- Brunswick,60887
+146817,262lionsbaybruns,13723999,17:18:00,4608,262 Lions Bay- Brunswick,54556
+146818,262lionsbaybruns,13723999,17:18:25,4609,262 Lions Bay- Brunswick,54557
+146819,262lionsbaybruns,13723999,17:18:46,8629,262 Lions Bay- Brunswick,54558
+146820,262lionsbaybruns,13723999,17:19:15,4611,262 Lions Bay- Brunswick,54559
+146821,262lionsbaybruns,13723999,17:22:32,11547,262 Lions Bay- Brunswick,61527
+146822,262lionsbaybruns,13723999,17:24:24,11233,262 Lions Bay- Brunswick,61316
+146823,262lionsbaybruns,13723999,17:32:07,11546,262 Lions Bay- Brunswick,61528
+146824,262lionsbaybruns,13723999,17:33:00,11549,262 Lions Bay- Brunswick,61530
+146825,262lionsbaybruns,13723999,17:36:00,11410,262 Lions Bay- Brunswick,61445
+146826,262lionsbaybruns,13724000,18:13:00,10328,262 Lions Bay- Brunswick,60887
+146827,262lionsbaybruns,13724000,18:20:00,4608,262 Lions Bay- Brunswick,54556
+146828,262lionsbaybruns,13724000,18:20:25,4609,262 Lions Bay- Brunswick,54557
+146829,262lionsbaybruns,13724000,18:20:46,8629,262 Lions Bay- Brunswick,54558
+146830,262lionsbaybruns,13724000,18:21:15,4611,262 Lions Bay- Brunswick,54559
+146831,262lionsbaybruns,13724000,18:24:32,11547,262 Lions Bay- Brunswick,61527
+146832,262lionsbaybruns,13724000,18:26:24,11233,262 Lions Bay- Brunswick,61316
+146833,262lionsbaybruns,13724000,18:34:07,11546,262 Lions Bay- Brunswick,61528
+146834,262lionsbaybruns,13724000,18:35:00,11549,262 Lions Bay- Brunswick,61530
+146835,262lionsbaybruns,13724000,18:38:00,11410,262 Lions Bay- Brunswick,61445
+146836,262lionsbaybruns,13724001, 7:18:00,10328,262 Lions Bay- Brunswick,60887
+146837,262lionsbaybruns,13724001, 7:25:00,4608,262 Lions Bay- Brunswick,54556
+146838,262lionsbaybruns,13724001, 7:25:25,4609,262 Lions Bay- Brunswick,54557
+146839,262lionsbaybruns,13724001, 7:25:46,8629,262 Lions Bay- Brunswick,54558
+146840,262lionsbaybruns,13724001, 7:26:15,4611,262 Lions Bay- Brunswick,54559
+146841,262lionsbaybruns,13724001, 7:29:32,11547,262 Lions Bay- Brunswick,61527
+146842,262lionsbaybruns,13724001, 7:31:24,11233,262 Lions Bay- Brunswick,61316
+146843,262lionsbaybruns,13724001, 7:39:07,11546,262 Lions Bay- Brunswick,61528
+146844,262lionsbaybruns,13724001, 7:40:00,11549,262 Lions Bay- Brunswick,61530
+146845,262lionsbaybruns,13724001, 7:43:00,11410,262 Lions Bay- Brunswick,61445
+146846,262lionsbaybruns,13724002, 8:18:00,10328,262 Lions Bay- Brunswick,60887
+146847,262lionsbaybruns,13724002, 8:25:00,4608,262 Lions Bay- Brunswick,54556
+146848,262lionsbaybruns,13724002, 8:25:25,4609,262 Lions Bay- Brunswick,54557
+146849,262lionsbaybruns,13724002, 8:25:46,8629,262 Lions Bay- Brunswick,54558
+146850,262lionsbaybruns,13724002, 8:26:15,4611,262 Lions Bay- Brunswick,54559
+146851,262lionsbaybruns,13724002, 8:29:32,11547,262 Lions Bay- Brunswick,61527
+146852,262lionsbaybruns,13724002, 8:31:24,11233,262 Lions Bay- Brunswick,61316
+146853,262lionsbaybruns,13724002, 8:39:07,11546,262 Lions Bay- Brunswick,61528
+146854,262lionsbaybruns,13724002, 8:40:00,11549,262 Lions Bay- Brunswick,61530
+146855,262lionsbaybruns,13724002, 8:43:00,11410,262 Lions Bay- Brunswick,61445
+146856,262lionsbaybruns,13724003, 9:18:00,10328,262 Lions Bay- Brunswick,60887
+146857,262lionsbaybruns,13724003, 9:25:00,4608,262 Lions Bay- Brunswick,54556
+146858,262lionsbaybruns,13724003, 9:25:25,4609,262 Lions Bay- Brunswick,54557
+146859,262lionsbaybruns,13724003, 9:25:46,8629,262 Lions Bay- Brunswick,54558
+146860,262lionsbaybruns,13724003, 9:26:15,4611,262 Lions Bay- Brunswick,54559
+146861,262lionsbaybruns,13724003, 9:29:32,11547,262 Lions Bay- Brunswick,61527
+146862,262lionsbaybruns,13724003, 9:31:24,11233,262 Lions Bay- Brunswick,61316
+146863,262lionsbaybruns,13724003, 9:39:07,11546,262 Lions Bay- Brunswick,61528
+146864,262lionsbaybruns,13724003, 9:40:00,11549,262 Lions Bay- Brunswick,61530
+146865,262lionsbaybruns,13724003, 9:43:00,11410,262 Lions Bay- Brunswick,61445
+146866,262lionsbaybruns,13724004,10:18:00,10328,262 Lions Bay- Brunswick,60887
+146867,262lionsbaybruns,13724004,10:25:00,4608,262 Lions Bay- Brunswick,54556
+146868,262lionsbaybruns,13724004,10:25:25,4609,262 Lions Bay- Brunswick,54557
+146869,262lionsbaybruns,13724004,10:25:46,8629,262 Lions Bay- Brunswick,54558
+146870,262lionsbaybruns,13724004,10:26:15,4611,262 Lions Bay- Brunswick,54559
+146871,262lionsbaybruns,13724004,10:29:32,11547,262 Lions Bay- Brunswick,61527
+146872,262lionsbaybruns,13724004,10:31:24,11233,262 Lions Bay- Brunswick,61316
+146873,262lionsbaybruns,13724004,10:39:07,11546,262 Lions Bay- Brunswick,61528
+146874,262lionsbaybruns,13724004,10:40:00,11549,262 Lions Bay- Brunswick,61530
+146875,262lionsbaybruns,13724004,10:43:00,11410,262 Lions Bay- Brunswick,61445
+146876,262lionsbaybruns,13724005,11:18:00,10328,262 Lions Bay- Brunswick,60887
+146877,262lionsbaybruns,13724005,11:25:00,4608,262 Lions Bay- Brunswick,54556
+146878,262lionsbaybruns,13724005,11:25:25,4609,262 Lions Bay- Brunswick,54557
+146879,262lionsbaybruns,13724005,11:25:46,8629,262 Lions Bay- Brunswick,54558
+146880,262lionsbaybruns,13724005,11:26:15,4611,262 Lions Bay- Brunswick,54559
+146881,262lionsbaybruns,13724005,11:29:32,11547,262 Lions Bay- Brunswick,61527
+146882,262lionsbaybruns,13724005,11:31:24,11233,262 Lions Bay- Brunswick,61316
+146883,262lionsbaybruns,13724005,11:39:07,11546,262 Lions Bay- Brunswick,61528
+146884,262lionsbaybruns,13724005,11:40:00,11549,262 Lions Bay- Brunswick,61530
+146885,262lionsbaybruns,13724005,11:43:00,11410,262 Lions Bay- Brunswick,61445
+146886,262lionsbaybruns,13724006,20:03:00,10328,262 Lions Bay- Brunswick,60887
+146887,262lionsbaybruns,13724006,20:10:00,4608,262 Lions Bay- Brunswick,54556
+146888,262lionsbaybruns,13724006,20:10:25,4609,262 Lions Bay- Brunswick,54557
+146889,262lionsbaybruns,13724006,20:10:46,8629,262 Lions Bay- Brunswick,54558
+146890,262lionsbaybruns,13724006,20:11:15,4611,262 Lions Bay- Brunswick,54559
+146891,262lionsbaybruns,13724006,20:14:32,11547,262 Lions Bay- Brunswick,61527
+146892,262lionsbaybruns,13724006,20:16:24,11233,262 Lions Bay- Brunswick,61316
+146893,262lionsbaybruns,13724006,20:24:07,11546,262 Lions Bay- Brunswick,61528
+146894,262lionsbaybruns,13724006,20:25:00,11549,262 Lions Bay- Brunswick,61530
+146895,262lionsbaybruns,13724006,20:28:00,11410,262 Lions Bay- Brunswick,61445
+146896,262lionsbaybruns,13724007,21:03:00,10328,262 Lions Bay- Brunswick,60887
+146897,262lionsbaybruns,13724007,21:10:00,4608,262 Lions Bay- Brunswick,54556
+146898,262lionsbaybruns,13724007,21:10:25,4609,262 Lions Bay- Brunswick,54557
+146899,262lionsbaybruns,13724007,21:10:46,8629,262 Lions Bay- Brunswick,54558
+146900,262lionsbaybruns,13724007,21:11:15,4611,262 Lions Bay- Brunswick,54559
+146901,262lionsbaybruns,13724007,21:14:32,11547,262 Lions Bay- Brunswick,61527
+146902,262lionsbaybruns,13724007,21:16:24,11233,262 Lions Bay- Brunswick,61316
+146903,262lionsbaybruns,13724007,21:24:07,11546,262 Lions Bay- Brunswick,61528
+146904,262lionsbaybruns,13724007,21:25:00,11549,262 Lions Bay- Brunswick,61530
+146905,262lionsbaybruns,13724007,21:28:00,11410,262 Lions Bay- Brunswick,61445
+146906,262lionsbaybruns,13724008,22:03:00,10328,262 Lions Bay- Brunswick,60887
+146907,262lionsbaybruns,13724008,22:10:00,4608,262 Lions Bay- Brunswick,54556
+146908,262lionsbaybruns,13724008,22:10:25,4609,262 Lions Bay- Brunswick,54557
+146909,262lionsbaybruns,13724008,22:10:46,8629,262 Lions Bay- Brunswick,54558
+146910,262lionsbaybruns,13724008,22:11:15,4611,262 Lions Bay- Brunswick,54559
+146911,262lionsbaybruns,13724008,22:14:32,11547,262 Lions Bay- Brunswick,61527
+146912,262lionsbaybruns,13724008,22:16:24,11233,262 Lions Bay- Brunswick,61316
+146913,262lionsbaybruns,13724008,22:24:07,11546,262 Lions Bay- Brunswick,61528
+146914,262lionsbaybruns,13724008,22:25:00,11549,262 Lions Bay- Brunswick,61530
+146915,262lionsbaybruns,13724008,22:28:00,11410,262 Lions Bay- Brunswick,61445
+146916,262lionsbaybruns,13724009,23:04:00,10328,262 Lions Bay- Brunswick,60887
+146917,262lionsbaybruns,13724009,23:11:00,4608,262 Lions Bay- Brunswick,54556
+146918,262lionsbaybruns,13724009,23:11:25,4609,262 Lions Bay- Brunswick,54557
+146919,262lionsbaybruns,13724009,23:11:46,8629,262 Lions Bay- Brunswick,54558
+146920,262lionsbaybruns,13724009,23:12:15,4611,262 Lions Bay- Brunswick,54559
+146921,262lionsbaybruns,13724009,23:15:32,11547,262 Lions Bay- Brunswick,61527
+146922,262lionsbaybruns,13724009,23:17:24,11233,262 Lions Bay- Brunswick,61316
+146923,262lionsbaybruns,13724009,23:25:07,11546,262 Lions Bay- Brunswick,61528
+146924,262lionsbaybruns,13724009,23:26:00,11549,262 Lions Bay- Brunswick,61530
+146925,262lionsbaybruns,13724009,23:29:00,11410,262 Lions Bay- Brunswick,61445
+146926,262lionsbaybruns,13724011,13:13:00,10328,262 Lions Bay- Brunswick,60887
+146927,262lionsbaybruns,13724011,13:20:00,4608,262 Lions Bay- Brunswick,54556
+146928,262lionsbaybruns,13724011,13:20:25,4609,262 Lions Bay- Brunswick,54557
+146929,262lionsbaybruns,13724011,13:20:46,8629,262 Lions Bay- Brunswick,54558
+146930,262lionsbaybruns,13724011,13:21:15,4611,262 Lions Bay- Brunswick,54559
+146931,262lionsbaybruns,13724011,13:24:32,11547,262 Lions Bay- Brunswick,61527
+146932,262lionsbaybruns,13724011,13:26:24,11233,262 Lions Bay- Brunswick,61316
+146933,262lionsbaybruns,13724011,13:34:07,11546,262 Lions Bay- Brunswick,61528
+146934,262lionsbaybruns,13724011,13:35:00,11549,262 Lions Bay- Brunswick,61530
+146935,262lionsbaybruns,13724011,13:38:00,11410,262 Lions Bay- Brunswick,61445
+146936,262lionsbaybruns,13724031,18:48:00,10328,262 Lions Bay- Brunswick,60887
+146937,262lionsbaybruns,13724031,18:55:00,4608,262 Lions Bay- Brunswick,54556
+146938,262lionsbaybruns,13724031,18:55:25,4609,262 Lions Bay- Brunswick,54557
+146939,262lionsbaybruns,13724031,18:55:46,8629,262 Lions Bay- Brunswick,54558
+146940,262lionsbaybruns,13724031,18:56:15,4611,262 Lions Bay- Brunswick,54559
+146941,262lionsbaybruns,13724031,18:59:32,11547,262 Lions Bay- Brunswick,61527
+146942,262lionsbaybruns,13724031,19:01:24,11233,262 Lions Bay- Brunswick,61316
+146943,262lionsbaybruns,13724031,19:09:07,11546,262 Lions Bay- Brunswick,61528
+146944,262lionsbaybruns,13724031,19:10:00,11549,262 Lions Bay- Brunswick,61530
+146945,262lionsbaybruns,13724031,19:13:00,11410,262 Lions Bay- Brunswick,61445
+146946,262lionsbaybruns,13724032,19:48:00,10328,262 Lions Bay- Brunswick,60887
+146947,262lionsbaybruns,13724032,19:55:00,4608,262 Lions Bay- Brunswick,54556
+146948,262lionsbaybruns,13724032,19:55:25,4609,262 Lions Bay- Brunswick,54557
+146949,262lionsbaybruns,13724032,19:55:46,8629,262 Lions Bay- Brunswick,54558
+146950,262lionsbaybruns,13724032,19:56:15,4611,262 Lions Bay- Brunswick,54559
+146951,262lionsbaybruns,13724032,19:59:32,11547,262 Lions Bay- Brunswick,61527
+146952,262lionsbaybruns,13724032,20:01:24,11233,262 Lions Bay- Brunswick,61316
+146953,262lionsbaybruns,13724032,20:09:07,11546,262 Lions Bay- Brunswick,61528
+146954,262lionsbaybruns,13724032,20:10:00,11549,262 Lions Bay- Brunswick,61530
+146955,262lionsbaybruns,13724032,20:13:00,11410,262 Lions Bay- Brunswick,61445
+146956,262lionsbaybruns,13724033,20:48:00,10328,262 Lions Bay- Brunswick,60887
+146957,262lionsbaybruns,13724033,20:55:00,4608,262 Lions Bay- Brunswick,54556
+146958,262lionsbaybruns,13724033,20:55:25,4609,262 Lions Bay- Brunswick,54557
+146959,262lionsbaybruns,13724033,20:55:46,8629,262 Lions Bay- Brunswick,54558
+146960,262lionsbaybruns,13724033,20:56:15,4611,262 Lions Bay- Brunswick,54559
+146961,262lionsbaybruns,13724033,20:59:32,11547,262 Lions Bay- Brunswick,61527
+146962,262lionsbaybruns,13724033,21:01:24,11233,262 Lions Bay- Brunswick,61316
+146963,262lionsbaybruns,13724033,21:09:07,11546,262 Lions Bay- Brunswick,61528
+146964,262lionsbaybruns,13724033,21:10:00,11549,262 Lions Bay- Brunswick,61530
+146965,262lionsbaybruns,13724033,21:13:00,11410,262 Lions Bay- Brunswick,61445
+146966,262lionsbaybruns,13724034,12:18:00,10328,262 Lions Bay- Brunswick,60887
+146967,262lionsbaybruns,13724034,12:25:00,4608,262 Lions Bay- Brunswick,54556
+146968,262lionsbaybruns,13724034,12:25:25,4609,262 Lions Bay- Brunswick,54557
+146969,262lionsbaybruns,13724034,12:25:46,8629,262 Lions Bay- Brunswick,54558
+146970,262lionsbaybruns,13724034,12:26:15,4611,262 Lions Bay- Brunswick,54559
+146971,262lionsbaybruns,13724034,12:29:32,11547,262 Lions Bay- Brunswick,61527
+146972,262lionsbaybruns,13724034,12:31:24,11233,262 Lions Bay- Brunswick,61316
+146973,262lionsbaybruns,13724034,12:39:07,11546,262 Lions Bay- Brunswick,61528
+146974,262lionsbaybruns,13724034,12:40:00,11549,262 Lions Bay- Brunswick,61530
+146975,262lionsbaybruns,13724034,12:43:00,11410,262 Lions Bay- Brunswick,61445
+146976,262lionsbaybruns,13724035,13:13:00,10328,262 Lions Bay- Brunswick,60887
+146977,262lionsbaybruns,13724035,13:20:00,4608,262 Lions Bay- Brunswick,54556
+146978,262lionsbaybruns,13724035,13:20:25,4609,262 Lions Bay- Brunswick,54557
+146979,262lionsbaybruns,13724035,13:20:46,8629,262 Lions Bay- Brunswick,54558
+146980,262lionsbaybruns,13724035,13:21:15,4611,262 Lions Bay- Brunswick,54559
+146981,262lionsbaybruns,13724035,13:24:32,11547,262 Lions Bay- Brunswick,61527
+146982,262lionsbaybruns,13724035,13:26:24,11233,262 Lions Bay- Brunswick,61316
+146983,262lionsbaybruns,13724035,13:34:07,11546,262 Lions Bay- Brunswick,61528
+146984,262lionsbaybruns,13724035,13:35:00,11549,262 Lions Bay- Brunswick,61530
+146985,262lionsbaybruns,13724035,13:38:00,11410,262 Lions Bay- Brunswick,61445
+146986,262lionsbaybruns,13724036,14:13:00,10328,262 Lions Bay- Brunswick,60887
+146987,262lionsbaybruns,13724036,14:20:00,4608,262 Lions Bay- Brunswick,54556
+146988,262lionsbaybruns,13724036,14:20:25,4609,262 Lions Bay- Brunswick,54557
+146989,262lionsbaybruns,13724036,14:20:46,8629,262 Lions Bay- Brunswick,54558
+146990,262lionsbaybruns,13724036,14:21:15,4611,262 Lions Bay- Brunswick,54559
+146991,262lionsbaybruns,13724036,14:24:32,11547,262 Lions Bay- Brunswick,61527
+146992,262lionsbaybruns,13724036,14:26:24,11233,262 Lions Bay- Brunswick,61316
+146993,262lionsbaybruns,13724036,14:34:07,11546,262 Lions Bay- Brunswick,61528
+146994,262lionsbaybruns,13724036,14:35:00,11549,262 Lions Bay- Brunswick,61530
+146995,262lionsbaybruns,13724036,14:38:00,11410,262 Lions Bay- Brunswick,61445
+146996,262lionsbaybruns,13724037,15:13:00,10328,262 Lions Bay- Brunswick,60887
+146997,262lionsbaybruns,13724037,15:20:00,4608,262 Lions Bay- Brunswick,54556
+146998,262lionsbaybruns,13724037,15:20:25,4609,262 Lions Bay- Brunswick,54557
+146999,262lionsbaybruns,13724037,15:20:46,8629,262 Lions Bay- Brunswick,54558
+147000,262lionsbaybruns,13724037,15:21:15,4611,262 Lions Bay- Brunswick,54559
+147001,262lionsbaybruns,13724037,15:24:32,11547,262 Lions Bay- Brunswick,61527
+147002,262lionsbaybruns,13724037,15:26:24,11233,262 Lions Bay- Brunswick,61316
+147003,262lionsbaybruns,13724037,15:34:07,11546,262 Lions Bay- Brunswick,61528
+147004,262lionsbaybruns,13724037,15:35:00,11549,262 Lions Bay- Brunswick,61530
+147005,262lionsbaybruns,13724037,15:38:00,11410,262 Lions Bay- Brunswick,61445
+147006,262lionsbaybruns,13724038,16:13:00,10328,262 Lions Bay- Brunswick,60887
+147007,262lionsbaybruns,13724038,16:20:00,4608,262 Lions Bay- Brunswick,54556
+147008,262lionsbaybruns,13724038,16:20:25,4609,262 Lions Bay- Brunswick,54557
+147009,262lionsbaybruns,13724038,16:20:46,8629,262 Lions Bay- Brunswick,54558
+147010,262lionsbaybruns,13724038,16:21:15,4611,262 Lions Bay- Brunswick,54559
+147011,262lionsbaybruns,13724038,16:24:32,11547,262 Lions Bay- Brunswick,61527
+147012,262lionsbaybruns,13724038,16:26:24,11233,262 Lions Bay- Brunswick,61316
+147013,262lionsbaybruns,13724038,16:34:07,11546,262 Lions Bay- Brunswick,61528
+147014,262lionsbaybruns,13724038,16:35:00,11549,262 Lions Bay- Brunswick,61530
+147015,262lionsbaybruns,13724038,16:38:00,11410,262 Lions Bay- Brunswick,61445
+147016,262lionsbaybruns,13724039,17:13:00,10328,262 Lions Bay- Brunswick,60887
+147017,262lionsbaybruns,13724039,17:20:00,4608,262 Lions Bay- Brunswick,54556
+147018,262lionsbaybruns,13724039,17:20:25,4609,262 Lions Bay- Brunswick,54557
+147019,262lionsbaybruns,13724039,17:20:46,8629,262 Lions Bay- Brunswick,54558
+147020,262lionsbaybruns,13724039,17:21:15,4611,262 Lions Bay- Brunswick,54559
+147021,262lionsbaybruns,13724039,17:24:32,11547,262 Lions Bay- Brunswick,61527
+147022,262lionsbaybruns,13724039,17:26:24,11233,262 Lions Bay- Brunswick,61316
+147023,262lionsbaybruns,13724039,17:34:07,11546,262 Lions Bay- Brunswick,61528
+147024,262lionsbaybruns,13724039,17:35:00,11549,262 Lions Bay- Brunswick,61530
+147025,262lionsbaybruns,13724039,17:38:00,11410,262 Lions Bay- Brunswick,61445
+147026,262lionsbaybruns,13724040,21:48:00,10328,262 Lions Bay- Brunswick,60887
+147027,262lionsbaybruns,13724040,21:55:00,4608,262 Lions Bay- Brunswick,54556
+147028,262lionsbaybruns,13724040,21:55:25,4609,262 Lions Bay- Brunswick,54557
+147029,262lionsbaybruns,13724040,21:55:46,8629,262 Lions Bay- Brunswick,54558
+147030,262lionsbaybruns,13724040,21:56:15,4611,262 Lions Bay- Brunswick,54559
+147031,262lionsbaybruns,13724040,21:59:32,11547,262 Lions Bay- Brunswick,61527
+147032,262lionsbaybruns,13724040,22:01:24,11233,262 Lions Bay- Brunswick,61316
+147033,262lionsbaybruns,13724040,22:09:07,11546,262 Lions Bay- Brunswick,61528
+147034,262lionsbaybruns,13724040,22:10:00,11549,262 Lions Bay- Brunswick,61530
+147035,262lionsbaybruns,13724040,22:13:00,11410,262 Lions Bay- Brunswick,61445
+147036,262lionsbaybruns,13724041,22:48:00,10328,262 Lions Bay- Brunswick,60887
+147037,262lionsbaybruns,13724041,22:55:00,4608,262 Lions Bay- Brunswick,54556
+147038,262lionsbaybruns,13724041,22:55:25,4609,262 Lions Bay- Brunswick,54557
+147039,262lionsbaybruns,13724041,22:55:46,8629,262 Lions Bay- Brunswick,54558
+147040,262lionsbaybruns,13724041,22:56:15,4611,262 Lions Bay- Brunswick,54559
+147041,262lionsbaybruns,13724041,22:59:32,11547,262 Lions Bay- Brunswick,61527
+147042,262lionsbaybruns,13724041,23:01:24,11233,262 Lions Bay- Brunswick,61316
+147043,262lionsbaybruns,13724041,23:09:07,11546,262 Lions Bay- Brunswick,61528
+147044,262lionsbaybruns,13724041,23:10:00,11549,262 Lions Bay- Brunswick,61530
+147045,262lionsbaybruns,13724041,23:13:00,11410,262 Lions Bay- Brunswick,61445
+147046,262lionsbaybruns,13724042, 9:18:00,10328,262 Lions Bay- Brunswick,60887
+147047,262lionsbaybruns,13724042, 9:25:00,4608,262 Lions Bay- Brunswick,54556
+147048,262lionsbaybruns,13724042, 9:25:25,4609,262 Lions Bay- Brunswick,54557
+147049,262lionsbaybruns,13724042, 9:25:46,8629,262 Lions Bay- Brunswick,54558
+147050,262lionsbaybruns,13724042, 9:26:15,4611,262 Lions Bay- Brunswick,54559
+147051,262lionsbaybruns,13724042, 9:29:32,11547,262 Lions Bay- Brunswick,61527
+147052,262lionsbaybruns,13724042, 9:31:24,11233,262 Lions Bay- Brunswick,61316
+147053,262lionsbaybruns,13724042, 9:39:07,11546,262 Lions Bay- Brunswick,61528
+147054,262lionsbaybruns,13724042, 9:40:00,11549,262 Lions Bay- Brunswick,61530
+147055,262lionsbaybruns,13724042, 9:43:00,11410,262 Lions Bay- Brunswick,61445
+147056,262lionsbaybruns,13724043,10:18:00,10328,262 Lions Bay- Brunswick,60887
+147057,262lionsbaybruns,13724043,10:25:00,4608,262 Lions Bay- Brunswick,54556
+147058,262lionsbaybruns,13724043,10:25:25,4609,262 Lions Bay- Brunswick,54557
+147059,262lionsbaybruns,13724043,10:25:46,8629,262 Lions Bay- Brunswick,54558
+147060,262lionsbaybruns,13724043,10:26:15,4611,262 Lions Bay- Brunswick,54559
+147061,262lionsbaybruns,13724043,10:29:32,11547,262 Lions Bay- Brunswick,61527
+147062,262lionsbaybruns,13724043,10:31:24,11233,262 Lions Bay- Brunswick,61316
+147063,262lionsbaybruns,13724043,10:39:07,11546,262 Lions Bay- Brunswick,61528
+147064,262lionsbaybruns,13724043,10:40:00,11549,262 Lions Bay- Brunswick,61530
+147065,262lionsbaybruns,13724043,10:43:00,11410,262 Lions Bay- Brunswick,61445
+147066,262lionsbaybruns,13724044,11:18:00,10328,262 Lions Bay- Brunswick,60887
+147067,262lionsbaybruns,13724044,11:25:00,4608,262 Lions Bay- Brunswick,54556
+147068,262lionsbaybruns,13724044,11:25:25,4609,262 Lions Bay- Brunswick,54557
+147069,262lionsbaybruns,13724044,11:25:46,8629,262 Lions Bay- Brunswick,54558
+147070,262lionsbaybruns,13724044,11:26:15,4611,262 Lions Bay- Brunswick,54559
+147071,262lionsbaybruns,13724044,11:29:32,11547,262 Lions Bay- Brunswick,61527
+147072,262lionsbaybruns,13724044,11:31:24,11233,262 Lions Bay- Brunswick,61316
+147073,262lionsbaybruns,13724044,11:39:07,11546,262 Lions Bay- Brunswick,61528
+147074,262lionsbaybruns,13724044,11:40:00,11549,262 Lions Bay- Brunswick,61530
+147075,262lionsbaybruns,13724044,11:43:00,11410,262 Lions Bay- Brunswick,61445
+147076,262lionsbaybruns,13724060,18:13:00,10328,262 Lions Bay- Brunswick,60887
+147077,262lionsbaybruns,13724060,18:20:00,4608,262 Lions Bay- Brunswick,54556
+147078,262lionsbaybruns,13724060,18:20:25,4609,262 Lions Bay- Brunswick,54557
+147079,262lionsbaybruns,13724060,18:20:46,8629,262 Lions Bay- Brunswick,54558
+147080,262lionsbaybruns,13724060,18:21:15,4611,262 Lions Bay- Brunswick,54559
+147081,262lionsbaybruns,13724060,18:24:32,11547,262 Lions Bay- Brunswick,61527
+147082,262lionsbaybruns,13724060,18:26:24,11233,262 Lions Bay- Brunswick,61316
+147083,262lionsbaybruns,13724060,18:34:07,11546,262 Lions Bay- Brunswick,61528
+147084,262lionsbaybruns,13724060,18:35:00,11549,262 Lions Bay- Brunswick,61530
+147085,262lionsbaybruns,13724060,18:38:00,11410,262 Lions Bay- Brunswick,61445
+147086,262lionsbaybruns,13724061,10:18:00,10328,262 Lions Bay- Brunswick,60887
+147087,262lionsbaybruns,13724061,10:25:00,4608,262 Lions Bay- Brunswick,54556
+147088,262lionsbaybruns,13724061,10:25:25,4609,262 Lions Bay- Brunswick,54557
+147089,262lionsbaybruns,13724061,10:25:46,8629,262 Lions Bay- Brunswick,54558
+147090,262lionsbaybruns,13724061,10:26:15,4611,262 Lions Bay- Brunswick,54559
+147091,262lionsbaybruns,13724061,10:29:32,11547,262 Lions Bay- Brunswick,61527
+147092,262lionsbaybruns,13724061,10:31:24,11233,262 Lions Bay- Brunswick,61316
+147093,262lionsbaybruns,13724061,10:39:07,11546,262 Lions Bay- Brunswick,61528
+147094,262lionsbaybruns,13724061,10:40:00,11549,262 Lions Bay- Brunswick,61530
+147095,262lionsbaybruns,13724061,10:43:00,11410,262 Lions Bay- Brunswick,61445
+147096,262lionsbaybruns,13724062,12:18:00,10328,262 Lions Bay- Brunswick,60887
+147097,262lionsbaybruns,13724062,12:25:00,4608,262 Lions Bay- Brunswick,54556
+147098,262lionsbaybruns,13724062,12:25:25,4609,262 Lions Bay- Brunswick,54557
+147099,262lionsbaybruns,13724062,12:25:46,8629,262 Lions Bay- Brunswick,54558
+147100,262lionsbaybruns,13724062,12:26:15,4611,262 Lions Bay- Brunswick,54559
+147101,262lionsbaybruns,13724062,12:29:32,11547,262 Lions Bay- Brunswick,61527
+147102,262lionsbaybruns,13724062,12:31:24,11233,262 Lions Bay- Brunswick,61316
+147103,262lionsbaybruns,13724062,12:39:07,11546,262 Lions Bay- Brunswick,61528
+147104,262lionsbaybruns,13724062,12:40:00,11549,262 Lions Bay- Brunswick,61530
+147105,262lionsbaybruns,13724062,12:43:00,11410,262 Lions Bay- Brunswick,61445
+147106,262lionsbaybruns,13724063,14:13:00,10328,262 Lions Bay- Brunswick,60887
+147107,262lionsbaybruns,13724063,14:20:00,4608,262 Lions Bay- Brunswick,54556
+147108,262lionsbaybruns,13724063,14:20:25,4609,262 Lions Bay- Brunswick,54557
+147109,262lionsbaybruns,13724063,14:20:46,8629,262 Lions Bay- Brunswick,54558
+147110,262lionsbaybruns,13724063,14:21:15,4611,262 Lions Bay- Brunswick,54559
+147111,262lionsbaybruns,13724063,14:24:32,11547,262 Lions Bay- Brunswick,61527
+147112,262lionsbaybruns,13724063,14:26:24,11233,262 Lions Bay- Brunswick,61316
+147113,262lionsbaybruns,13724063,14:34:07,11546,262 Lions Bay- Brunswick,61528
+147114,262lionsbaybruns,13724063,14:35:00,11549,262 Lions Bay- Brunswick,61530
+147115,262lionsbaybruns,13724063,14:38:00,11410,262 Lions Bay- Brunswick,61445
+147116,262lionsbaybruns,13724064,15:13:00,10328,262 Lions Bay- Brunswick,60887
+147117,262lionsbaybruns,13724064,15:20:00,4608,262 Lions Bay- Brunswick,54556
+147118,262lionsbaybruns,13724064,15:20:25,4609,262 Lions Bay- Brunswick,54557
+147119,262lionsbaybruns,13724064,15:20:46,8629,262 Lions Bay- Brunswick,54558
+147120,262lionsbaybruns,13724064,15:21:15,4611,262 Lions Bay- Brunswick,54559
+147121,262lionsbaybruns,13724064,15:24:32,11547,262 Lions Bay- Brunswick,61527
+147122,262lionsbaybruns,13724064,15:26:24,11233,262 Lions Bay- Brunswick,61316
+147123,262lionsbaybruns,13724064,15:34:07,11546,262 Lions Bay- Brunswick,61528
+147124,262lionsbaybruns,13724064,15:35:00,11549,262 Lions Bay- Brunswick,61530
+147125,262lionsbaybruns,13724064,15:38:00,11410,262 Lions Bay- Brunswick,61445
+147126,262lionsbaybruns,13724065,16:13:00,10328,262 Lions Bay- Brunswick,60887
+147127,262lionsbaybruns,13724065,16:20:00,4608,262 Lions Bay- Brunswick,54556
+147128,262lionsbaybruns,13724065,16:20:25,4609,262 Lions Bay- Brunswick,54557
+147129,262lionsbaybruns,13724065,16:20:46,8629,262 Lions Bay- Brunswick,54558
+147130,262lionsbaybruns,13724065,16:21:15,4611,262 Lions Bay- Brunswick,54559
+147131,262lionsbaybruns,13724065,16:24:32,11547,262 Lions Bay- Brunswick,61527
+147132,262lionsbaybruns,13724065,16:26:24,11233,262 Lions Bay- Brunswick,61316
+147133,262lionsbaybruns,13724065,16:34:07,11546,262 Lions Bay- Brunswick,61528
+147134,262lionsbaybruns,13724065,16:35:00,11549,262 Lions Bay- Brunswick,61530
+147135,262lionsbaybruns,13724065,16:38:00,11410,262 Lions Bay- Brunswick,61445
+147136,262lionsbaybruns,13724066,17:13:00,10328,262 Lions Bay- Brunswick,60887
+147137,262lionsbaybruns,13724066,17:20:00,4608,262 Lions Bay- Brunswick,54556
+147138,262lionsbaybruns,13724066,17:20:25,4609,262 Lions Bay- Brunswick,54557
+147139,262lionsbaybruns,13724066,17:20:46,8629,262 Lions Bay- Brunswick,54558
+147140,262lionsbaybruns,13724066,17:21:15,4611,262 Lions Bay- Brunswick,54559
+147141,262lionsbaybruns,13724066,17:24:32,11547,262 Lions Bay- Brunswick,61527
+147142,262lionsbaybruns,13724066,17:26:24,11233,262 Lions Bay- Brunswick,61316
+147143,262lionsbaybruns,13724066,17:34:07,11546,262 Lions Bay- Brunswick,61528
+147144,262lionsbaybruns,13724066,17:35:00,11549,262 Lions Bay- Brunswick,61530
+147145,262lionsbaybruns,13724066,17:38:00,11410,262 Lions Bay- Brunswick,61445
+147146,262lionsbaybruns,13724067,13:13:00,10328,262 Lions Bay- Brunswick,60887
+147147,262lionsbaybruns,13724067,13:20:00,4608,262 Lions Bay- Brunswick,54556
+147148,262lionsbaybruns,13724067,13:20:25,4609,262 Lions Bay- Brunswick,54557
+147149,262lionsbaybruns,13724067,13:20:46,8629,262 Lions Bay- Brunswick,54558
+147150,262lionsbaybruns,13724067,13:21:15,4611,262 Lions Bay- Brunswick,54559
+147151,262lionsbaybruns,13724067,13:24:32,11547,262 Lions Bay- Brunswick,61527
+147152,262lionsbaybruns,13724067,13:26:24,11233,262 Lions Bay- Brunswick,61316
+147153,262lionsbaybruns,13724067,13:34:07,11546,262 Lions Bay- Brunswick,61528
+147154,262lionsbaybruns,13724067,13:35:00,11549,262 Lions Bay- Brunswick,61530
+147155,262lionsbaybruns,13724067,13:38:00,11410,262 Lions Bay- Brunswick,61445
+147156,262lionsbaybruns,13724068,11:18:00,10328,262 Lions Bay- Brunswick,60887
+147157,262lionsbaybruns,13724068,11:25:00,4608,262 Lions Bay- Brunswick,54556
+147158,262lionsbaybruns,13724068,11:25:25,4609,262 Lions Bay- Brunswick,54557
+147159,262lionsbaybruns,13724068,11:25:46,8629,262 Lions Bay- Brunswick,54558
+147160,262lionsbaybruns,13724068,11:26:15,4611,262 Lions Bay- Brunswick,54559
+147161,262lionsbaybruns,13724068,11:29:32,11547,262 Lions Bay- Brunswick,61527
+147162,262lionsbaybruns,13724068,11:31:24,11233,262 Lions Bay- Brunswick,61316
+147163,262lionsbaybruns,13724068,11:39:07,11546,262 Lions Bay- Brunswick,61528
+147164,262lionsbaybruns,13724068,11:40:00,11549,262 Lions Bay- Brunswick,61530
+147165,262lionsbaybruns,13724068,11:43:00,11410,262 Lions Bay- Brunswick,61445

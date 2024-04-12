@@ -1,0 +1,486 @@
+Unnamed: 0,Name,trip_id,arrival_time,stop_id,trip_headsign,stop_code
+130114,255capilano,13861226,15:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130163,255capilano,13861227,15:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130212,255capilano,13861228,14:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130261,255capilano,13861229,12:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130310,255capilano,13861230, 8:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130359,255capilano,13861231, 8:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130408,255capilano,13861232,13:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130457,255capilano,13861233,13:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130506,255capilano,13861234,12:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130555,255capilano,13861235,11:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130604,255capilano,13861236,11:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130653,255capilano,13861237,10:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130702,255capilano,13861238,10:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130751,255capilano,13861239, 9:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130800,255capilano,13861240, 9:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130849,255capilano,13861241,17:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130898,255capilano,13861242,14:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130947,255capilano,13861243,19:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130996,255capilano,13861244,18:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131045,255capilano,13861245,18:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131094,255capilano,13861246,17:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131143,255capilano,13861247,20:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131192,255capilano,13861248,19:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131241,255capilano,13861249, 7:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131290,255capilano,13861250,16:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131339,255capilano,13861251,16:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131388,255capilano,13861252, 5:58:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131437,255capilano,13861253,20:46:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131486,255capilano,13861254, 6:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131535,255capilano,13861255, 6:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131571,255capilano,13861256,21:03:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131607,255capilano,13861257,21:56:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131643,255capilano,13861258,22:35:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131679,255capilano,13861259,23:00:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131715,255capilano,13861260,23:37:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131751,255capilano,13861261,24:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131787,255capilano,13861262,24:44:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131823,255capilano,13861263,25:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131859,255capilano,13861264,21:31:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131908,255capilano,13861265, 7:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+131957,255capilano,13861526,16:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132006,255capilano,13861527,12:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132055,255capilano,13861528,12:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132104,255capilano,13861529,15:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132153,255capilano,13861530,16:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132202,255capilano,13861531,15:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132251,255capilano,13861532,17:17:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132300,255capilano,13861533,17:47:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132349,255capilano,13861534,18:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132398,255capilano,13861535,10:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132447,255capilano,13861536,10:46:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132496,255capilano,13861537,11:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132545,255capilano,13861538,11:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132594,255capilano,13861539, 9:46:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132643,255capilano,13861540,19:47:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132692,255capilano,13861541,18:46:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132741,255capilano,13861542,19:16:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132790,255capilano,13861543,14:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132839,255capilano,13861544,14:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132888,255capilano,13861545,13:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132937,255capilano,13861546,13:48:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+132986,255capilano,13861547, 6:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133035,255capilano,13861548, 7:15:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133084,255capilano,13861549, 7:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133133,255capilano,13861550, 8:15:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133182,255capilano,13861551, 8:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133231,255capilano,13861552, 9:15:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133280,255capilano,13861553,20:17:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133329,255capilano,13861554,20:47:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133365,255capilano,13861555,20:54:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133401,255capilano,13861556,21:24:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133437,255capilano,13861557,22:31:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133473,255capilano,13861558,23:08:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133509,255capilano,13861559,23:37:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133545,255capilano,13861560,24:13:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133581,255capilano,13861561,24:47:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133617,255capilano,13861562,22:01:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133666,255capilano,13924806,15:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133715,255capilano,13924807,15:25:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133764,255capilano,13924808,14:44:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133813,255capilano,13924809,12:44:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133862,255capilano,13924810, 8:42:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133911,255capilano,13924811, 8:22:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+133960,255capilano,13924812,13:44:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134009,255capilano,13924813,13:24:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134058,255capilano,13924814,12:24:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134107,255capilano,13924815,11:44:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134156,255capilano,13924816,11:23:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134205,255capilano,13924817,10:42:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134254,255capilano,13924818,10:22:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134303,255capilano,13924819, 9:22:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134352,255capilano,13924820,17:25:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134401,255capilano,13924821,14:24:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134450,255capilano,13924822,19:18:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134499,255capilano,13924823,18:49:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134548,255capilano,13924824,18:24:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134597,255capilano,13924825,17:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134646,255capilano,13924826,20:15:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134695,255capilano,13924827,19:47:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134744,255capilano,13924828, 7:42:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134793,255capilano,13924829,16:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134842,255capilano,13924830,16:25:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134891,255capilano,13924831, 6:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134940,255capilano,13924832,20:35:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+134989,255capilano,13924833, 7:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135038,255capilano,13924834,21:05:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135074,255capilano,13924835,22:19:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135110,255capilano,13924836,22:56:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135146,255capilano,13924837,23:25:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135182,255capilano,13924838,24:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135231,255capilano,13924839,21:45:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135280,255capilano,13924840, 7:22:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135329,255capilano,13924841, 8:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135378,255capilano,13924842, 9:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135427,255capilano,13924843,10:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135476,255capilano,13924844,16:05:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135525,255capilano,13924845,17:05:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135574,255capilano,13924846,18:05:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135623,255capilano,13924847, 6:32:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135672,255capilano,13924848,15:04:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135721,255capilano,13924849,14:04:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135757,255capilano,13924850,25:20:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135793,255capilano,13924851,24:34:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135842,255capilano,13924852, 9:42:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135891,255capilano,13924853,13:04:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135940,255capilano,13924854,11:02:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+135989,255capilano,13924855,12:04:00,4456,255 Capilano University - via 15th St & Lonsdale,54407
+130107,255capilano,13861226,15:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130156,255capilano,13861227,15:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130205,255capilano,13861228,14:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130254,255capilano,13861229,12:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130303,255capilano,13861230, 8:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130352,255capilano,13861231, 8:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130401,255capilano,13861232,13:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130450,255capilano,13861233,13:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130499,255capilano,13861234,12:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130548,255capilano,13861235,11:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130597,255capilano,13861236,11:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130646,255capilano,13861237,10:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130695,255capilano,13861238,10:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130744,255capilano,13861239, 9:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130793,255capilano,13861240, 9:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130842,255capilano,13861241,17:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130891,255capilano,13861242,14:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130940,255capilano,13861243,19:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130989,255capilano,13861244,18:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131038,255capilano,13861245,18:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131087,255capilano,13861246,17:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131136,255capilano,13861247,20:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131185,255capilano,13861248,19:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131234,255capilano,13861249, 7:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131283,255capilano,13861250,16:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131332,255capilano,13861251,16:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131381,255capilano,13861252, 5:49:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131430,255capilano,13861253,20:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131479,255capilano,13861254, 6:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131528,255capilano,13861255, 6:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131564,255capilano,13861256,20:56:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131600,255capilano,13861257,21:49:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131636,255capilano,13861258,22:28:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131672,255capilano,13861259,22:53:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131708,255capilano,13861260,23:30:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131744,255capilano,13861261,23:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131780,255capilano,13861262,24:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131816,255capilano,13861263,25:07:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131852,255capilano,13861264,21:24:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131901,255capilano,13861265, 7:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131950,255capilano,13861526,16:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+131999,255capilano,13861527,12:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132048,255capilano,13861528,12:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132097,255capilano,13861529,15:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132146,255capilano,13861530,16:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132195,255capilano,13861531,15:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132244,255capilano,13861532,17:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132293,255capilano,13861533,17:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132342,255capilano,13861534,18:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132391,255capilano,13861535,10:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132440,255capilano,13861536,10:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132489,255capilano,13861537,11:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132538,255capilano,13861538,11:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132587,255capilano,13861539, 9:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132636,255capilano,13861540,19:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132685,255capilano,13861541,18:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132734,255capilano,13861542,19:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132783,255capilano,13861543,14:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132832,255capilano,13861544,14:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132881,255capilano,13861545,13:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132930,255capilano,13861546,13:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+132979,255capilano,13861547, 6:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133028,255capilano,13861548, 7:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133077,255capilano,13861549, 7:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133126,255capilano,13861550, 8:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133175,255capilano,13861551, 8:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133224,255capilano,13861552, 9:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133273,255capilano,13861553,20:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133322,255capilano,13861554,20:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133358,255capilano,13861555,20:45:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133394,255capilano,13861556,21:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133430,255capilano,13861557,22:22:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133466,255capilano,13861558,22:59:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133502,255capilano,13861559,23:28:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133538,255capilano,13861560,24:04:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133574,255capilano,13861561,24:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133610,255capilano,13861562,21:52:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133659,255capilano,13924806,15:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133708,255capilano,13924807,15:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133757,255capilano,13924808,14:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133806,255capilano,13924809,12:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133855,255capilano,13924810, 8:34:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133904,255capilano,13924811, 8:14:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+133953,255capilano,13924812,13:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134002,255capilano,13924813,13:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134051,255capilano,13924814,12:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134100,255capilano,13924815,11:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134149,255capilano,13924816,11:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134198,255capilano,13924817,10:34:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134247,255capilano,13924818,10:14:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134296,255capilano,13924819, 9:14:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134345,255capilano,13924820,17:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134394,255capilano,13924821,14:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134443,255capilano,13924822,19:09:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134492,255capilano,13924823,18:39:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134541,255capilano,13924824,18:14:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134590,255capilano,13924825,17:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134639,255capilano,13924826,20:08:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134688,255capilano,13924827,19:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134737,255capilano,13924828, 7:34:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134786,255capilano,13924829,16:35:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134835,255capilano,13924830,16:15:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134884,255capilano,13924831, 5:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134933,255capilano,13924832,20:28:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+134982,255capilano,13924833, 6:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135031,255capilano,13924834,20:58:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135067,255capilano,13924835,22:12:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135103,255capilano,13924836,22:49:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135139,255capilano,13924837,23:18:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135175,255capilano,13924838,23:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135224,255capilano,13924839,21:38:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135273,255capilano,13924840, 7:14:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135322,255capilano,13924841, 7:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135371,255capilano,13924842, 8:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135420,255capilano,13924843, 9:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135469,255capilano,13924844,15:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135518,255capilano,13924845,16:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135567,255capilano,13924846,17:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135616,255capilano,13924847, 6:24:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135665,255capilano,13924848,14:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135714,255capilano,13924849,13:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135750,255capilano,13924850,25:11:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135786,255capilano,13924851,24:25:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135835,255capilano,13924852, 9:34:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135884,255capilano,13924853,12:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135933,255capilano,13924854,10:54:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+135982,255capilano,13924855,11:55:00,4461,255 Capilano University - via 15th St & Lonsdale,54411
+130094,255capilano,13861226,15:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130143,255capilano,13861227,15:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130192,255capilano,13861228,14:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130241,255capilano,13861229,12:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130290,255capilano,13861230, 8:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130339,255capilano,13861231, 8:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130388,255capilano,13861232,13:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130437,255capilano,13861233,13:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130486,255capilano,13861234,12:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130535,255capilano,13861235,11:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130584,255capilano,13861236,11:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130633,255capilano,13861237,10:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130682,255capilano,13861238,10:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130731,255capilano,13861239, 9:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130780,255capilano,13861240, 9:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130829,255capilano,13861241,17:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130878,255capilano,13861242,14:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130927,255capilano,13861243,19:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130976,255capilano,13861244,18:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131025,255capilano,13861245,18:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131074,255capilano,13861246,17:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131123,255capilano,13861247,20:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131172,255capilano,13861248,19:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131221,255capilano,13861249, 7:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131270,255capilano,13861250,16:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131319,255capilano,13861251,16:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131368,255capilano,13861252, 5:40:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131417,255capilano,13861253,20:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131466,255capilano,13861254, 6:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131515,255capilano,13861255, 6:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131888,255capilano,13861265, 7:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131937,255capilano,13861526,16:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+131986,255capilano,13861527,12:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132035,255capilano,13861528,12:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132084,255capilano,13861529,15:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132133,255capilano,13861530,16:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132182,255capilano,13861531,15:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132231,255capilano,13861532,17:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132280,255capilano,13861533,17:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132329,255capilano,13861534,18:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132378,255capilano,13861535,10:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132427,255capilano,13861536,10:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132476,255capilano,13861537,11:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132525,255capilano,13861538,11:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132574,255capilano,13861539, 9:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132623,255capilano,13861540,19:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132672,255capilano,13861541,18:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132721,255capilano,13861542,19:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132770,255capilano,13861543,14:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132819,255capilano,13861544,14:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132868,255capilano,13861545,13:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132917,255capilano,13861546,13:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+132966,255capilano,13861547, 6:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133015,255capilano,13861548, 7:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133064,255capilano,13861549, 7:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133113,255capilano,13861550, 8:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133162,255capilano,13861551, 8:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133211,255capilano,13861552, 9:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133260,255capilano,13861553,20:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133309,255capilano,13861554,20:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133646,255capilano,13924806,15:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133695,255capilano,13924807,15:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133744,255capilano,13924808,14:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133793,255capilano,13924809,12:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133842,255capilano,13924810, 8:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133891,255capilano,13924811, 8:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133940,255capilano,13924812,13:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+133989,255capilano,13924813,13:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134038,255capilano,13924814,12:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134087,255capilano,13924815,11:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134136,255capilano,13924816,11:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134185,255capilano,13924817,10:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134234,255capilano,13924818,10:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134283,255capilano,13924819, 9:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134332,255capilano,13924820,17:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134381,255capilano,13924821,14:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134430,255capilano,13924822,19:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134479,255capilano,13924823,18:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134528,255capilano,13924824,18:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134577,255capilano,13924825,17:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134626,255capilano,13924826,20:00:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134675,255capilano,13924827,19:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134724,255capilano,13924828, 7:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134773,255capilano,13924829,16:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134822,255capilano,13924830,16:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134871,255capilano,13924831, 5:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134920,255capilano,13924832,20:20:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+134969,255capilano,13924833, 6:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135018,255capilano,13924834,20:50:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135211,255capilano,13924839,21:30:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135260,255capilano,13924840, 7:05:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135309,255capilano,13924841, 7:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135358,255capilano,13924842, 8:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135407,255capilano,13924843, 9:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135456,255capilano,13924844,15:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135505,255capilano,13924845,16:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135554,255capilano,13924846,17:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135603,255capilano,13924847, 6:15:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135652,255capilano,13924848,14:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135701,255capilano,13924849,13:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135822,255capilano,13924852, 9:25:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135871,255capilano,13924853,12:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135920,255capilano,13924854,10:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+135969,255capilano,13924855,11:45:00,4644,255 Capilano University - via 15th St & Lonsdale,54592
+130142,255capilano,13861226,16:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130191,255capilano,13861227,15:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130240,255capilano,13861228,15:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130289,255capilano,13861229,13:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130338,255capilano,13861230, 9:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130387,255capilano,13861231, 8:39:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130436,255capilano,13861232,14:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130485,255capilano,13861233,13:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130534,255capilano,13861234,12:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130583,255capilano,13861235,12:15:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130632,255capilano,13861236,11:45:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130681,255capilano,13861237,11:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130730,255capilano,13861238,10:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130779,255capilano,13861239, 9:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130828,255capilano,13861240,10:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130877,255capilano,13861241,17:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130926,255capilano,13861242,14:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+130975,255capilano,13861243,19:44:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131024,255capilano,13861244,19:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131073,255capilano,13861245,18:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131122,255capilano,13861246,18:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131171,255capilano,13861247,20:38:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131220,255capilano,13861248,20:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131269,255capilano,13861249, 8:09:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131318,255capilano,13861250,17:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131367,255capilano,13861251,16:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131416,255capilano,13861252, 6:19:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131465,255capilano,13861253,21:08:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131514,255capilano,13861254, 7:09:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131563,255capilano,13861255, 6:39:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131599,255capilano,13861256,21:23:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131635,255capilano,13861257,22:16:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131671,255capilano,13861258,22:55:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131707,255capilano,13861259,23:20:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131743,255capilano,13861260,23:57:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131779,255capilano,13861261,24:25:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131815,255capilano,13861262,25:07:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131851,255capilano,13861263,25:39:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131887,255capilano,13861264,21:51:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131936,255capilano,13861265, 7:39:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+131985,255capilano,13861526,17:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132034,255capilano,13861527,12:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132083,255capilano,13861528,13:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132132,255capilano,13861529,16:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132181,255capilano,13861530,16:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132230,255capilano,13861531,15:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132279,255capilano,13861532,17:42:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132328,255capilano,13861533,18:12:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132377,255capilano,13861534,18:41:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132426,255capilano,13861535,10:40:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132475,255capilano,13861536,11:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132524,255capilano,13861537,11:40:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132573,255capilano,13861538,12:12:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132622,255capilano,13861539,10:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132671,255capilano,13861540,20:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132720,255capilano,13861541,19:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132769,255capilano,13861542,19:39:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132818,255capilano,13861543,14:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132867,255capilano,13861544,15:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132916,255capilano,13861545,13:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+132965,255capilano,13861546,14:13:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133014,255capilano,13861547, 7:06:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133063,255capilano,13861548, 7:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133112,255capilano,13861549, 8:06:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133161,255capilano,13861550, 8:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133210,255capilano,13861551, 9:06:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133259,255capilano,13861552, 9:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133308,255capilano,13861553,20:40:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133357,255capilano,13861554,21:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133393,255capilano,13861555,21:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133429,255capilano,13861556,21:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133465,255capilano,13861557,22:54:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133501,255capilano,13861558,23:30:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133537,255capilano,13861559,23:59:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133573,255capilano,13861560,24:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133609,255capilano,13861561,25:10:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133645,255capilano,13861562,22:24:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133694,255capilano,13924806,16:16:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133743,255capilano,13924807,15:56:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133792,255capilano,13924808,15:15:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133841,255capilano,13924809,13:11:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133890,255capilano,13924810, 9:09:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133939,255capilano,13924811, 8:49:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+133988,255capilano,13924812,14:11:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134037,255capilano,13924813,13:51:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134086,255capilano,13924814,12:51:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134135,255capilano,13924815,12:11:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134184,255capilano,13924816,11:50:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134233,255capilano,13924817,11:09:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134282,255capilano,13924818,10:49:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134331,255capilano,13924819, 9:48:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134380,255capilano,13924820,17:56:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134429,255capilano,13924821,14:55:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134478,255capilano,13924822,19:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134527,255capilano,13924823,19:17:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134576,255capilano,13924824,18:52:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134625,255capilano,13924825,18:16:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134674,255capilano,13924826,20:37:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134723,255capilano,13924827,20:12:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134772,255capilano,13924828, 8:09:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134821,255capilano,13924829,17:16:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134870,255capilano,13924830,16:56:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134919,255capilano,13924831, 6:25:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+134968,255capilano,13924832,20:57:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135017,255capilano,13924833, 7:25:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135066,255capilano,13924834,21:27:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135102,255capilano,13924835,22:41:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135138,255capilano,13924836,23:18:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135174,255capilano,13924837,23:47:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135210,255capilano,13924838,24:25:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135259,255capilano,13924839,22:07:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135308,255capilano,13924840, 7:48:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135357,255capilano,13924841, 8:29:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135406,255capilano,13924842, 9:29:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135455,255capilano,13924843,10:28:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135504,255capilano,13924844,16:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135553,255capilano,13924845,17:36:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135602,255capilano,13924846,18:33:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135651,255capilano,13924847, 6:55:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135700,255capilano,13924848,15:35:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135749,255capilano,13924849,14:31:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135785,255capilano,13924850,25:43:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135821,255capilano,13924851,24:57:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135870,255capilano,13924852,10:08:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135919,255capilano,13924853,13:31:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+135968,255capilano,13924854,11:29:00,11199,255 Capilano University - via 15th St & Lonsdale,61071
+136017,255capilano,13924855,12:31:00,11199,255 Capilano University - via 15th St & Lonsdale,61071

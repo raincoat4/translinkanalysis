@@ -19,5 +19,6 @@ names['Best Match'] = names.apply(find_best_match, axis=1, args=(choices,))
 merged = pd.merge(names, filtered, left_on='Best Match', right_on='trip_headsign')
 merged.drop(columns=['Unnamed: 0.1'], inplace=True)
 merged.drop(columns=['Unnamed: 0'], inplace=True)
+merged.drop(columns=['Best Match'], inplace=True)
 
 merged.to_csv('merged.csv')

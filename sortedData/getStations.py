@@ -10,7 +10,7 @@ def extract_second_row_values(folder_path, output_file):
         writer = csv.writer(csvfile)
         
         # Write header
-        writer.writerow(['Second Row Values'])
+        writer.writerow(['File Name', 'Second Row Values'])
         
         # Iterate over each CSV file
         for csv_file in csv_files:
@@ -22,10 +22,10 @@ def extract_second_row_values(folder_path, output_file):
                 # Read the second row
                 second_row = next(reader)
                 # Write the file name and second row values to the output file
-                writer.writerow([second_row])
+                writer.writerow([csv_file.replace('-mf.csv', ''), ','.join(second_row)])
 
-# Example usage
+
 folder_path = '../transitcsvs'  # Specify the folder path containing CSV files
-output_file = 'output.csv'  # Specify the output file name
+output_file = 'stations.csv'  # Specify the output file name
 
 extract_second_row_values(folder_path, output_file)
