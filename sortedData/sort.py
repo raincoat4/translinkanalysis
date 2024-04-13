@@ -14,5 +14,5 @@ print(df)
 sorted=df.groupby('trip_headsign').apply(lambda x: x.sort_values(['trip_id', 'arrival_time'], ascending=True)).reset_index(drop=True)
 print(sorted)
 
-sorted.drop(columns=['Unnamed: 0'], inplace=True)
+#sorted.drop(columns=['Unnamed: 0'], inplace=True)
 sorted.to_csv('sorted.csv')
