@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 def removeUntilTo(input):
-    # Define the regular expression pattern
     pattern = r'^(.*?)\bTo\b'
     number = r'^(.*\d)'
     # Search for the pattern in the input string
