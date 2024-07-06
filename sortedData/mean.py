@@ -22,7 +22,7 @@ def filter(df):
 def tt(d):
     arrival_time_only = d.strftime("%H:%M")
     return arrival_time_only
-#what is happeninggggggggg
+
 for file in os.listdir(folder):
     filePath=os.path.join(folder, file)
     df = pd.read_csv(filePath)
