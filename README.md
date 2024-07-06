@@ -10,4 +10,6 @@ The project was a collaborative effort between two team members. We started by d
 - **CSV Data**: Supplied the raw data on bus arrival times, serving as the foundation for the analysis.
 
 ## Try it out
-To run the code yourself, cd into the sortedData repository and run 'statsTest.py'. You can find the report documenting our findings here: https://docs.google.com/document/d/e/2PACX-1vTJ1CqsLitCOCogyi9Ht9H_clBj_q7bt978zVMVaCpiTGDKYYnvsOY06fmQgo1Fy8SKX4gI9H7qdv28/pub 
+To run the code yourself, cd into the sortedData repository and run 'statsTest.py'.  
+  
+You can find the report documenting our findings here: https://docs.google.com/document/d/e/2PACX-1vTJ1CqsLitCOCogyi9Ht9H_clBj_q7bt978zVMVaCpiTGDKYYnvsOY06fmQgo1Fy8SKX4gI9H7qdv28/pub 
